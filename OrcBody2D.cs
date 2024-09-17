@@ -1,7 +1,7 @@
 using Godot;
 using System;
 
-public partial class OrcPlayer : CharacterBody2D
+public partial class OrcBody2D : CharacterBody2D
 {
 	[Export]
     public int Speed { get; set; } = 400;
@@ -16,6 +16,7 @@ public partial class OrcPlayer : CharacterBody2D
 
     public override void _PhysicsProcess(double delta)
     {
+        
         if(Input.IsActionJustPressed("left_click")){
             clickDirection = GetGlobalMousePosition();
         }
