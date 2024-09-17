@@ -6,26 +6,25 @@ public partial class OrcPlayer : CharacterBody2D
 	[Export]
     public int Speed { get; set; } = 400;
 
-    private Vector2 _target;
+    private Vector2 clickDirection;
+    private Vector2 targetDirection;
 
-    public override void _Input(InputEvent @event)
-    {
-        if (@event is InputEventMouseButton eventMouseButton)
-        {
-            if (eventMouseButton.ButtonIndex == MouseButton.Left && eventMouseButton.Pressed)
-            {
-                _target = GetGlobalMousePosition();
-            }
-        }
+    public override void _Ready()
+    {        
+        clickDirection = Position;
     }
 
     public override void _PhysicsProcess(double delta)
     {
-        Velocity = Position.DirectionTo(_target) * Speed;
-        // LookAt(_target);
-        if (Position.DistanceTo(_target) > 10)
-        {
+        if(Input.IsActionJustPressed("left_click")){
+            clickDirection = GetGlobalMousePosition();
+        }
+        
+        if(Position.DistanceTo(clickDirection) > 3){
+            targetDirection = (clickDirection - Position).Normalized();
+            Velocity = targetDirection.Normalized() * Speed;
             MoveAndSlide();
         }
+
     }
 }
