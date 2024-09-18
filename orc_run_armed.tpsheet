@@ -1,0 +1,5778 @@
+{
+	"textures": [
+		{
+			"image": "orc_run_armed.png",
+			"size": {
+				"w": 2047,
+				"h": 2012
+			},
+			"sprites": [
+				{
+					"filename": "Run_Armed_Body_135_0007.png",
+					"region": {
+						"x": 1,
+						"y": 1,
+						"w": 126,
+						"h": 76
+					},
+					"margin": {
+						"x": 75,
+						"y": 115,
+						"w": 194,
+						"h": 244
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_135_0006.png",
+					"region": {
+						"x": 129,
+						"y": 1,
+						"w": 122,
+						"h": 78
+					},
+					"margin": {
+						"x": 77,
+						"y": 116,
+						"w": 198,
+						"h": 242
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_157_0007.png",
+					"region": {
+						"x": 253,
+						"y": 1,
+						"w": 120,
+						"h": 78
+					},
+					"margin": {
+						"x": 77,
+						"y": 111,
+						"w": 200,
+						"h": 242
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_157_0020.png",
+					"region": {
+						"x": 375,
+						"y": 1,
+						"w": 116,
+						"h": 80
+					},
+					"margin": {
+						"x": 79,
+						"y": 111,
+						"w": 204,
+						"h": 240
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_135_0020.png",
+					"region": {
+						"x": 493,
+						"y": 1,
+						"w": 122,
+						"h": 81
+					},
+					"margin": {
+						"x": 74,
+						"y": 117,
+						"w": 198,
+						"h": 239
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_135_0021.png",
+					"region": {
+						"x": 617,
+						"y": 1,
+						"w": 119,
+						"h": 81
+					},
+					"margin": {
+						"x": 75,
+						"y": 117,
+						"w": 201,
+						"h": 239
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_135_0005.png",
+					"region": {
+						"x": 738,
+						"y": 1,
+						"w": 120,
+						"h": 82
+					},
+					"margin": {
+						"x": 77,
+						"y": 116,
+						"w": 200,
+						"h": 238
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_157_0008.png",
+					"region": {
+						"x": 860,
+						"y": 1,
+						"w": 122,
+						"h": 83
+					},
+					"margin": {
+						"x": 75,
+						"y": 110,
+						"w": 198,
+						"h": 237
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_112_0007.png",
+					"region": {
+						"x": 984,
+						"y": 1,
+						"w": 115,
+						"h": 84
+					},
+					"margin": {
+						"x": 86,
+						"y": 119,
+						"w": 205,
+						"h": 236
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_157_0006.png",
+					"region": {
+						"x": 1101,
+						"y": 1,
+						"w": 119,
+						"h": 84
+					},
+					"margin": {
+						"x": 78,
+						"y": 111,
+						"w": 201,
+						"h": 236
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_112_0006.png",
+					"region": {
+						"x": 1222,
+						"y": 1,
+						"w": 110,
+						"h": 85
+					},
+					"margin": {
+						"x": 88,
+						"y": 119,
+						"w": 210,
+						"h": 235
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_112_0021.png",
+					"region": {
+						"x": 1334,
+						"y": 1,
+						"w": 109,
+						"h": 85
+					},
+					"margin": {
+						"x": 84,
+						"y": 121,
+						"w": 211,
+						"h": 235
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_135_0004.png",
+					"region": {
+						"x": 1445,
+						"y": 1,
+						"w": 118,
+						"h": 85
+					},
+					"margin": {
+						"x": 77,
+						"y": 117,
+						"w": 202,
+						"h": 235
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_157_0019.png",
+					"region": {
+						"x": 1565,
+						"y": 1,
+						"w": 117,
+						"h": 85
+					},
+					"margin": {
+						"x": 78,
+						"y": 110,
+						"w": 203,
+						"h": 235
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_112_0003.png",
+					"region": {
+						"x": 1684,
+						"y": 1,
+						"w": 102,
+						"h": 86
+					},
+					"margin": {
+						"x": 86,
+						"y": 121,
+						"w": 218,
+						"h": 234
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_112_0005.png",
+					"region": {
+						"x": 1788,
+						"y": 1,
+						"w": 106,
+						"h": 86
+					},
+					"margin": {
+						"x": 89,
+						"y": 120,
+						"w": 214,
+						"h": 234
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_135_0008.png",
+					"region": {
+						"x": 1896,
+						"y": 1,
+						"w": 129,
+						"h": 86
+					},
+					"margin": {
+						"x": 73,
+						"y": 115,
+						"w": 191,
+						"h": 234
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_135_0019.png",
+					"region": {
+						"x": 1,
+						"y": 79,
+						"w": 125,
+						"h": 86
+					},
+					"margin": {
+						"x": 73,
+						"y": 117,
+						"w": 195,
+						"h": 234
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_135_0022.png",
+					"region": {
+						"x": 128,
+						"y": 81,
+						"w": 117,
+						"h": 86
+					},
+					"margin": {
+						"x": 76,
+						"y": 118,
+						"w": 203,
+						"h": 234
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_180_0007.png",
+					"region": {
+						"x": 247,
+						"y": 81,
+						"w": 99,
+						"h": 86
+					},
+					"margin": {
+						"x": 91,
+						"y": 106,
+						"w": 221,
+						"h": 234
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_180_0019.png",
+					"region": {
+						"x": 348,
+						"y": 83,
+						"w": 96,
+						"h": 86
+					},
+					"margin": {
+						"x": 94,
+						"y": 105,
+						"w": 224,
+						"h": 234
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_247_0017.png",
+					"region": {
+						"x": 446,
+						"y": 84,
+						"w": 83,
+						"h": 86
+					},
+					"margin": {
+						"x": 124,
+						"y": 107,
+						"w": 237,
+						"h": 234
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_112_0002.png",
+					"region": {
+						"x": 531,
+						"y": 84,
+						"w": 104,
+						"h": 87
+					},
+					"margin": {
+						"x": 85,
+						"y": 121,
+						"w": 216,
+						"h": 233
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_225_0017.png",
+					"region": {
+						"x": 637,
+						"y": 84,
+						"w": 71,
+						"h": 87
+					},
+					"margin": {
+						"x": 136,
+						"y": 105,
+						"w": 249,
+						"h": 233
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_112_0004.png",
+					"region": {
+						"x": 710,
+						"y": 85,
+						"w": 104,
+						"h": 87
+					},
+					"margin": {
+						"x": 87,
+						"y": 120,
+						"w": 216,
+						"h": 233
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_112_0022.png",
+					"region": {
+						"x": 816,
+						"y": 86,
+						"w": 104,
+						"h": 87
+					},
+					"margin": {
+						"x": 85,
+						"y": 121,
+						"w": 216,
+						"h": 233
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_247_0016.png",
+					"region": {
+						"x": 922,
+						"y": 87,
+						"w": 90,
+						"h": 87
+					},
+					"margin": {
+						"x": 123,
+						"y": 107,
+						"w": 230,
+						"h": 233
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_112_0020.png",
+					"region": {
+						"x": 1014,
+						"y": 87,
+						"w": 115,
+						"h": 88
+					},
+					"margin": {
+						"x": 82,
+						"y": 120,
+						"w": 205,
+						"h": 232
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_202_0018.png",
+					"region": {
+						"x": 1131,
+						"y": 87,
+						"w": 80,
+						"h": 88
+					},
+					"margin": {
+						"x": 118,
+						"y": 104,
+						"w": 240,
+						"h": 232
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_112_0023.png",
+					"region": {
+						"x": 1213,
+						"y": 88,
+						"w": 103,
+						"h": 88
+					},
+					"margin": {
+						"x": 85,
+						"y": 121,
+						"w": 217,
+						"h": 232
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_135_0003.png",
+					"region": {
+						"x": 1318,
+						"y": 88,
+						"w": 116,
+						"h": 88
+					},
+					"margin": {
+						"x": 77,
+						"y": 118,
+						"w": 204,
+						"h": 232
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_135_0023.png",
+					"region": {
+						"x": 1436,
+						"y": 88,
+						"w": 116,
+						"h": 88
+					},
+					"margin": {
+						"x": 76,
+						"y": 118,
+						"w": 204,
+						"h": 232
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_157_0005.png",
+					"region": {
+						"x": 1554,
+						"y": 88,
+						"w": 118,
+						"h": 88
+					},
+					"margin": {
+						"x": 79,
+						"y": 112,
+						"w": 202,
+						"h": 232
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_180_0008.png",
+					"region": {
+						"x": 1674,
+						"y": 89,
+						"w": 99,
+						"h": 88
+					},
+					"margin": {
+						"x": 90,
+						"y": 105,
+						"w": 221,
+						"h": 232
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_202_0019.png",
+					"region": {
+						"x": 1775,
+						"y": 89,
+						"w": 77,
+						"h": 88
+					},
+					"margin": {
+						"x": 118,
+						"y": 104,
+						"w": 243,
+						"h": 232
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_225_0018.png",
+					"region": {
+						"x": 1854,
+						"y": 89,
+						"w": 66,
+						"h": 88
+					},
+					"margin": {
+						"x": 138,
+						"y": 105,
+						"w": 254,
+						"h": 232
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_247_0010.png",
+					"region": {
+						"x": 1922,
+						"y": 89,
+						"w": 97,
+						"h": 88
+					},
+					"margin": {
+						"x": 124,
+						"y": 106,
+						"w": 223,
+						"h": 232
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_247_0018.png",
+					"region": {
+						"x": 1,
+						"y": 167,
+						"w": 77,
+						"h": 88
+					},
+					"margin": {
+						"x": 127,
+						"y": 107,
+						"w": 243,
+						"h": 232
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_112_0001.png",
+					"region": {
+						"x": 80,
+						"y": 169,
+						"w": 104,
+						"h": 89
+					},
+					"margin": {
+						"x": 86,
+						"y": 121,
+						"w": 216,
+						"h": 231
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_112_0008.png",
+					"region": {
+						"x": 186,
+						"y": 169,
+						"w": 120,
+						"h": 89
+					},
+					"margin": {
+						"x": 83,
+						"y": 119,
+						"w": 200,
+						"h": 231
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_112_0024.png",
+					"region": {
+						"x": 308,
+						"y": 171,
+						"w": 104,
+						"h": 89
+					},
+					"margin": {
+						"x": 85,
+						"y": 121,
+						"w": 216,
+						"h": 231
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_180_0020.png",
+					"region": {
+						"x": 414,
+						"y": 172,
+						"w": 97,
+						"h": 89
+					},
+					"margin": {
+						"x": 94,
+						"y": 106,
+						"w": 223,
+						"h": 231
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_157_0021.png",
+					"region": {
+						"x": 513,
+						"y": 173,
+						"w": 116,
+						"h": 89
+					},
+					"margin": {
+						"x": 79,
+						"y": 113,
+						"w": 204,
+						"h": 231
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_225_0009.png",
+					"region": {
+						"x": 631,
+						"y": 173,
+						"w": 70,
+						"h": 89
+					},
+					"margin": {
+						"x": 137,
+						"y": 104,
+						"w": 250,
+						"h": 231
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_225_0016.png",
+					"region": {
+						"x": 703,
+						"y": 174,
+						"w": 74,
+						"h": 89
+					},
+					"margin": {
+						"x": 135,
+						"y": 105,
+						"w": 246,
+						"h": 231
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_225_0019.png",
+					"region": {
+						"x": 779,
+						"y": 175,
+						"w": 60,
+						"h": 89
+					},
+					"margin": {
+						"x": 141,
+						"y": 105,
+						"w": 260,
+						"h": 231
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_247_0015.png",
+					"region": {
+						"x": 841,
+						"y": 176,
+						"w": 99,
+						"h": 89
+					},
+					"margin": {
+						"x": 122,
+						"y": 106,
+						"w": 221,
+						"h": 231
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_135_0002.png",
+					"region": {
+						"x": 942,
+						"y": 177,
+						"w": 115,
+						"h": 90
+					},
+					"margin": {
+						"x": 76,
+						"y": 118,
+						"w": 205,
+						"h": 230
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_135_0024.png",
+					"region": {
+						"x": 1059,
+						"y": 177,
+						"w": 115,
+						"h": 90
+					},
+					"margin": {
+						"x": 76,
+						"y": 118,
+						"w": 205,
+						"h": 230
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_180_0018.png",
+					"region": {
+						"x": 1176,
+						"y": 178,
+						"w": 95,
+						"h": 90
+					},
+					"margin": {
+						"x": 94,
+						"y": 105,
+						"w": 225,
+						"h": 230
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_247_0011.png",
+					"region": {
+						"x": 1273,
+						"y": 178,
+						"w": 107,
+						"h": 90
+					},
+					"margin": {
+						"x": 123,
+						"y": 106,
+						"w": 213,
+						"h": 230
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_247_0014.png",
+					"region": {
+						"x": 1382,
+						"y": 178,
+						"w": 106,
+						"h": 90
+					},
+					"margin": {
+						"x": 121,
+						"y": 106,
+						"w": 214,
+						"h": 230
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_270_0012.png",
+					"region": {
+						"x": 1490,
+						"y": 178,
+						"w": 119,
+						"h": 90
+					},
+					"margin": {
+						"x": 114,
+						"y": 111,
+						"w": 201,
+						"h": 230
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_270_0013.png",
+					"region": {
+						"x": 1611,
+						"y": 179,
+						"w": 117,
+						"h": 90
+					},
+					"margin": {
+						"x": 114,
+						"y": 111,
+						"w": 203,
+						"h": 230
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_270_0014.png",
+					"region": {
+						"x": 1730,
+						"y": 179,
+						"w": 111,
+						"h": 90
+					},
+					"margin": {
+						"x": 115,
+						"y": 111,
+						"w": 209,
+						"h": 230
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_270_0015.png",
+					"region": {
+						"x": 1843,
+						"y": 179,
+						"w": 108,
+						"h": 90
+					},
+					"margin": {
+						"x": 115,
+						"y": 111,
+						"w": 212,
+						"h": 230
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_202_0008.png",
+					"region": {
+						"x": 1953,
+						"y": 179,
+						"w": 80,
+						"h": 91
+					},
+					"margin": {
+						"x": 112,
+						"y": 104,
+						"w": 240,
+						"h": 229
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_202_0007.png",
+					"region": {
+						"x": 1,
+						"y": 257,
+						"w": 76,
+						"h": 92
+					},
+					"margin": {
+						"x": 112,
+						"y": 104,
+						"w": 244,
+						"h": 228
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_270_0016.png",
+					"region": {
+						"x": 79,
+						"y": 260,
+						"w": 106,
+						"h": 90
+					},
+					"margin": {
+						"x": 116,
+						"y": 111,
+						"w": 214,
+						"h": 230
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_112_0019.png",
+					"region": {
+						"x": 187,
+						"y": 260,
+						"w": 119,
+						"h": 91
+					},
+					"margin": {
+						"x": 81,
+						"y": 120,
+						"w": 201,
+						"h": 229
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_202_0017.png",
+					"region": {
+						"x": 308,
+						"y": 262,
+						"w": 82,
+						"h": 91
+					},
+					"margin": {
+						"x": 118,
+						"y": 103,
+						"w": 238,
+						"h": 229
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_135_0001.png",
+					"region": {
+						"x": 392,
+						"y": 263,
+						"w": 115,
+						"h": 91
+					},
+					"margin": {
+						"x": 76,
+						"y": 118,
+						"w": 205,
+						"h": 229
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_247_0012.png",
+					"region": {
+						"x": 509,
+						"y": 264,
+						"w": 112,
+						"h": 91
+					},
+					"margin": {
+						"x": 122,
+						"y": 106,
+						"w": 208,
+						"h": 229
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_225_0010.png",
+					"region": {
+						"x": 623,
+						"y": 264,
+						"w": 76,
+						"h": 92
+					},
+					"margin": {
+						"x": 138,
+						"y": 103,
+						"w": 244,
+						"h": 228
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_247_0013.png",
+					"region": {
+						"x": 701,
+						"y": 266,
+						"w": 111,
+						"h": 91
+					},
+					"margin": {
+						"x": 121,
+						"y": 106,
+						"w": 209,
+						"h": 229
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_270_0017.png",
+					"region": {
+						"x": 814,
+						"y": 267,
+						"w": 104,
+						"h": 91
+					},
+					"margin": {
+						"x": 118,
+						"y": 111,
+						"w": 216,
+						"h": 229
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_292_0001.png",
+					"region": {
+						"x": 920,
+						"y": 269,
+						"w": 104,
+						"h": 91
+					},
+					"margin": {
+						"x": 130,
+						"y": 119,
+						"w": 216,
+						"h": 229
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_292_0002.png",
+					"region": {
+						"x": 1026,
+						"y": 269,
+						"w": 103,
+						"h": 91
+					},
+					"margin": {
+						"x": 132,
+						"y": 119,
+						"w": 217,
+						"h": 229
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_292_0022.png",
+					"region": {
+						"x": 1131,
+						"y": 270,
+						"w": 104,
+						"h": 91
+					},
+					"margin": {
+						"x": 131,
+						"y": 118,
+						"w": 216,
+						"h": 229
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_292_0023.png",
+					"region": {
+						"x": 1237,
+						"y": 270,
+						"w": 103,
+						"h": 91
+					},
+					"margin": {
+						"x": 132,
+						"y": 118,
+						"w": 217,
+						"h": 229
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_292_0024.png",
+					"region": {
+						"x": 1342,
+						"y": 270,
+						"w": 102,
+						"h": 91
+					},
+					"margin": {
+						"x": 132,
+						"y": 118,
+						"w": 218,
+						"h": 229
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_135_0018.png",
+					"region": {
+						"x": 1446,
+						"y": 270,
+						"w": 127,
+						"h": 92
+					},
+					"margin": {
+						"x": 72,
+						"y": 116,
+						"w": 193,
+						"h": 228
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_157_0004.png",
+					"region": {
+						"x": 1575,
+						"y": 271,
+						"w": 117,
+						"h": 92
+					},
+					"margin": {
+						"x": 79,
+						"y": 113,
+						"w": 203,
+						"h": 228
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_180_0009.png",
+					"region": {
+						"x": 1694,
+						"y": 271,
+						"w": 98,
+						"h": 92
+					},
+					"margin": {
+						"x": 90,
+						"y": 105,
+						"w": 222,
+						"h": 228
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_202_0009.png",
+					"region": {
+						"x": 1794,
+						"y": 271,
+						"w": 82,
+						"h": 92
+					},
+					"margin": {
+						"x": 113,
+						"y": 103,
+						"w": 238,
+						"h": 228
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_225_0008.png",
+					"region": {
+						"x": 1878,
+						"y": 271,
+						"w": 66,
+						"h": 93
+					},
+					"margin": {
+						"x": 136,
+						"y": 104,
+						"w": 254,
+						"h": 227
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_180_0006.png",
+					"region": {
+						"x": 1946,
+						"y": 272,
+						"w": 100,
+						"h": 93
+					},
+					"margin": {
+						"x": 91,
+						"y": 106,
+						"w": 220,
+						"h": 227
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_247_0019.png",
+					"region": {
+						"x": 1,
+						"y": 351,
+						"w": 73,
+						"h": 93
+					},
+					"margin": {
+						"x": 130,
+						"y": 107,
+						"w": 247,
+						"h": 227
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_225_0015.png",
+					"region": {
+						"x": 76,
+						"y": 352,
+						"w": 80,
+						"h": 93
+					},
+					"margin": {
+						"x": 134,
+						"y": 104,
+						"w": 240,
+						"h": 227
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_157_0009.png",
+					"region": {
+						"x": 158,
+						"y": 353,
+						"w": 121,
+						"h": 93
+					},
+					"margin": {
+						"x": 75,
+						"y": 110,
+						"w": 199,
+						"h": 227
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_247_0009.png",
+					"region": {
+						"x": 281,
+						"y": 355,
+						"w": 88,
+						"h": 93
+					},
+					"margin": {
+						"x": 127,
+						"y": 107,
+						"w": 232,
+						"h": 227
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_157_0018.png",
+					"region": {
+						"x": 371,
+						"y": 356,
+						"w": 117,
+						"h": 93
+					},
+					"margin": {
+						"x": 78,
+						"y": 109,
+						"w": 203,
+						"h": 227
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_270_0011.png",
+					"region": {
+						"x": 490,
+						"y": 357,
+						"w": 113,
+						"h": 93
+					},
+					"margin": {
+						"x": 115,
+						"y": 111,
+						"w": 207,
+						"h": 227
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_202_0020.png",
+					"region": {
+						"x": 605,
+						"y": 358,
+						"w": 75,
+						"h": 94
+					},
+					"margin": {
+						"x": 117,
+						"y": 105,
+						"w": 245,
+						"h": 226
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_270_0018.png",
+					"region": {
+						"x": 682,
+						"y": 359,
+						"w": 100,
+						"h": 93
+					},
+					"margin": {
+						"x": 120,
+						"y": 111,
+						"w": 220,
+						"h": 227
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_292_0021.png",
+					"region": {
+						"x": 784,
+						"y": 360,
+						"w": 109,
+						"h": 93
+					},
+					"margin": {
+						"x": 127,
+						"y": 117,
+						"w": 211,
+						"h": 227
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_112_0009.png",
+					"region": {
+						"x": 895,
+						"y": 362,
+						"w": 124,
+						"h": 95
+					},
+					"margin": {
+						"x": 81,
+						"y": 119,
+						"w": 196,
+						"h": 225
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_180_0017.png",
+					"region": {
+						"x": 1021,
+						"y": 362,
+						"w": 94,
+						"h": 95
+					},
+					"margin": {
+						"x": 94,
+						"y": 104,
+						"w": 226,
+						"h": 225
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_112_0018.png",
+					"region": {
+						"x": 1117,
+						"y": 363,
+						"w": 122,
+						"h": 95
+					},
+					"margin": {
+						"x": 80,
+						"y": 119,
+						"w": 198,
+						"h": 225
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_135_0009.png",
+					"region": {
+						"x": 1241,
+						"y": 363,
+						"w": 131,
+						"h": 95
+					},
+					"margin": {
+						"x": 71,
+						"y": 115,
+						"w": 189,
+						"h": 225
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_135_0017.png",
+					"region": {
+						"x": 1374,
+						"y": 364,
+						"w": 129,
+						"h": 95
+					},
+					"margin": {
+						"x": 71,
+						"y": 116,
+						"w": 191,
+						"h": 225
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_157_0022.png",
+					"region": {
+						"x": 1505,
+						"y": 365,
+						"w": 115,
+						"h": 95
+					},
+					"margin": {
+						"x": 79,
+						"y": 114,
+						"w": 205,
+						"h": 225
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_202_0016.png",
+					"region": {
+						"x": 1622,
+						"y": 365,
+						"w": 83,
+						"h": 95
+					},
+					"margin": {
+						"x": 118,
+						"y": 103,
+						"w": 237,
+						"h": 225
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_292_0003.png",
+					"region": {
+						"x": 1707,
+						"y": 365,
+						"w": 102,
+						"h": 95
+					},
+					"margin": {
+						"x": 132,
+						"y": 117,
+						"w": 218,
+						"h": 225
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_112_0017.png",
+					"region": {
+						"x": 1811,
+						"y": 366,
+						"w": 126,
+						"h": 96
+					},
+					"margin": {
+						"x": 78,
+						"y": 119,
+						"w": 194,
+						"h": 224
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_202_0010.png",
+					"region": {
+						"x": 1939,
+						"y": 367,
+						"w": 86,
+						"h": 96
+					},
+					"margin": {
+						"x": 114,
+						"y": 103,
+						"w": 234,
+						"h": 224
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_157_0017.png",
+					"region": {
+						"x": 1,
+						"y": 447,
+						"w": 118,
+						"h": 96
+					},
+					"margin": {
+						"x": 77,
+						"y": 109,
+						"w": 202,
+						"h": 224
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_225_0011.png",
+					"region": {
+						"x": 121,
+						"y": 448,
+						"w": 88,
+						"h": 96
+					},
+					"margin": {
+						"x": 133,
+						"y": 103,
+						"w": 232,
+						"h": 224
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_225_0007.png",
+					"region": {
+						"x": 211,
+						"y": 448,
+						"w": 59,
+						"h": 97
+					},
+					"margin": {
+						"x": 137,
+						"y": 105,
+						"w": 261,
+						"h": 223
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_225_0014.png",
+					"region": {
+						"x": 272,
+						"y": 450,
+						"w": 86,
+						"h": 96
+					},
+					"margin": {
+						"x": 133,
+						"y": 103,
+						"w": 234,
+						"h": 224
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_270_0019.png",
+					"region": {
+						"x": 360,
+						"y": 451,
+						"w": 97,
+						"h": 96
+					},
+					"margin": {
+						"x": 122,
+						"y": 111,
+						"w": 223,
+						"h": 224
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_292_0020.png",
+					"region": {
+						"x": 459,
+						"y": 452,
+						"w": 114,
+						"h": 96
+					},
+					"margin": {
+						"x": 123,
+						"y": 115,
+						"w": 206,
+						"h": 224
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_157_0003.png",
+					"region": {
+						"x": 575,
+						"y": 454,
+						"w": 115,
+						"h": 97
+					},
+					"margin": {
+						"x": 80,
+						"y": 113,
+						"w": 205,
+						"h": 223
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_180_0005.png",
+					"region": {
+						"x": 692,
+						"y": 455,
+						"w": 100,
+						"h": 97
+					},
+					"margin": {
+						"x": 92,
+						"y": 107,
+						"w": 220,
+						"h": 223
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_180_0016.png",
+					"region": {
+						"x": 794,
+						"y": 455,
+						"w": 95,
+						"h": 97
+					},
+					"margin": {
+						"x": 93,
+						"y": 105,
+						"w": 225,
+						"h": 223
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_225_0013.png",
+					"region": {
+						"x": 891,
+						"y": 459,
+						"w": 91,
+						"h": 97
+					},
+					"margin": {
+						"x": 132,
+						"y": 103,
+						"w": 229,
+						"h": 223
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_292_0017.png",
+					"region": {
+						"x": 984,
+						"y": 459,
+						"w": 126,
+						"h": 97
+					},
+					"margin": {
+						"x": 116,
+						"y": 115,
+						"w": 194,
+						"h": 223
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_292_0018.png",
+					"region": {
+						"x": 1112,
+						"y": 460,
+						"w": 122,
+						"h": 97
+					},
+					"margin": {
+						"x": 118,
+						"y": 114,
+						"w": 198,
+						"h": 223
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_292_0019.png",
+					"region": {
+						"x": 1236,
+						"y": 460,
+						"w": 119,
+						"h": 97
+					},
+					"margin": {
+						"x": 120,
+						"y": 115,
+						"w": 201,
+						"h": 223
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_112_0016.png",
+					"region": {
+						"x": 1357,
+						"y": 461,
+						"w": 128,
+						"h": 98
+					},
+					"margin": {
+						"x": 77,
+						"y": 119,
+						"w": 192,
+						"h": 222
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_157_0023.png",
+					"region": {
+						"x": 1487,
+						"y": 462,
+						"w": 115,
+						"h": 98
+					},
+					"margin": {
+						"x": 79,
+						"y": 114,
+						"w": 205,
+						"h": 222
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_180_0021.png",
+					"region": {
+						"x": 1604,
+						"y": 462,
+						"w": 97,
+						"h": 98
+					},
+					"margin": {
+						"x": 94,
+						"y": 108,
+						"w": 223,
+						"h": 222
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_202_0015.png",
+					"region": {
+						"x": 1703,
+						"y": 462,
+						"w": 83,
+						"h": 98
+					},
+					"margin": {
+						"x": 118,
+						"y": 103,
+						"w": 237,
+						"h": 222
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_225_0012.png",
+					"region": {
+						"x": 1788,
+						"y": 464,
+						"w": 92,
+						"h": 98
+					},
+					"margin": {
+						"x": 132,
+						"y": 103,
+						"w": 228,
+						"h": 222
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_225_0020.png",
+					"region": {
+						"x": 1882,
+						"y": 464,
+						"w": 55,
+						"h": 98
+					},
+					"margin": {
+						"x": 142,
+						"y": 106,
+						"w": 265,
+						"h": 222
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_247_0008.png",
+					"region": {
+						"x": 1939,
+						"y": 465,
+						"w": 78,
+						"h": 98
+					},
+					"margin": {
+						"x": 130,
+						"y": 107,
+						"w": 242,
+						"h": 222
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_270_0010.png",
+					"region": {
+						"x": 1,
+						"y": 545,
+						"w": 104,
+						"h": 98
+					},
+					"margin": {
+						"x": 116,
+						"y": 111,
+						"w": 216,
+						"h": 222
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_090_0009.png",
+					"region": {
+						"x": 107,
+						"y": 546,
+						"w": 99,
+						"h": 99
+					},
+					"margin": {
+						"x": 103,
+						"y": 120,
+						"w": 221,
+						"h": 221
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_292_0004.png",
+					"region": {
+						"x": 208,
+						"y": 548,
+						"w": 103,
+						"h": 98
+					},
+					"margin": {
+						"x": 129,
+						"y": 116,
+						"w": 217,
+						"h": 222
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_090_0013.png",
+					"region": {
+						"x": 313,
+						"y": 549,
+						"w": 117,
+						"h": 99
+					},
+					"margin": {
+						"x": 89,
+						"y": 120,
+						"w": 203,
+						"h": 221
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_090_0014.png",
+					"region": {
+						"x": 432,
+						"y": 550,
+						"w": 111,
+						"h": 99
+					},
+					"margin": {
+						"x": 94,
+						"y": 120,
+						"w": 209,
+						"h": 221
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_090_0015.png",
+					"region": {
+						"x": 545,
+						"y": 553,
+						"w": 108,
+						"h": 99
+					},
+					"margin": {
+						"x": 97,
+						"y": 120,
+						"w": 212,
+						"h": 221
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_090_0016.png",
+					"region": {
+						"x": 655,
+						"y": 554,
+						"w": 107,
+						"h": 99
+					},
+					"margin": {
+						"x": 97,
+						"y": 120,
+						"w": 213,
+						"h": 221
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_090_0017.png",
+					"region": {
+						"x": 764,
+						"y": 554,
+						"w": 104,
+						"h": 99
+					},
+					"margin": {
+						"x": 98,
+						"y": 120,
+						"w": 216,
+						"h": 221
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_090_0018.png",
+					"region": {
+						"x": 870,
+						"y": 558,
+						"w": 102,
+						"h": 99
+					},
+					"margin": {
+						"x": 99,
+						"y": 120,
+						"w": 218,
+						"h": 221
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_090_0019.png",
+					"region": {
+						"x": 974,
+						"y": 558,
+						"w": 97,
+						"h": 99
+					},
+					"margin": {
+						"x": 101,
+						"y": 120,
+						"w": 223,
+						"h": 221
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_112_0010.png",
+					"region": {
+						"x": 1073,
+						"y": 559,
+						"w": 127,
+						"h": 99
+					},
+					"margin": {
+						"x": 79,
+						"y": 119,
+						"w": 193,
+						"h": 221
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_112_0015.png",
+					"region": {
+						"x": 1202,
+						"y": 559,
+						"w": 128,
+						"h": 99
+					},
+					"margin": {
+						"x": 77,
+						"y": 119,
+						"w": 192,
+						"h": 221
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_135_0016.png",
+					"region": {
+						"x": 1332,
+						"y": 561,
+						"w": 130,
+						"h": 99
+					},
+					"margin": {
+						"x": 70,
+						"y": 115,
+						"w": 190,
+						"h": 221
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_157_0002.png",
+					"region": {
+						"x": 1464,
+						"y": 562,
+						"w": 114,
+						"h": 99
+					},
+					"margin": {
+						"x": 80,
+						"y": 114,
+						"w": 206,
+						"h": 221
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_157_0016.png",
+					"region": {
+						"x": 1580,
+						"y": 562,
+						"w": 119,
+						"h": 99
+					},
+					"margin": {
+						"x": 76,
+						"y": 109,
+						"w": 201,
+						"h": 221
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_202_0006.png",
+					"region": {
+						"x": 1701,
+						"y": 562,
+						"w": 77,
+						"h": 99
+					},
+					"margin": {
+						"x": 111,
+						"y": 104,
+						"w": 243,
+						"h": 221
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_157_0024.png",
+					"region": {
+						"x": 1780,
+						"y": 564,
+						"w": 115,
+						"h": 99
+					},
+					"margin": {
+						"x": 79,
+						"y": 114,
+						"w": 205,
+						"h": 221
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_247_0020.png",
+					"region": {
+						"x": 1897,
+						"y": 565,
+						"w": 68,
+						"h": 99
+					},
+					"margin": {
+						"x": 135,
+						"y": 108,
+						"w": 252,
+						"h": 221
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_247_0007.png",
+					"region": {
+						"x": 1967,
+						"y": 565,
+						"w": 68,
+						"h": 101
+					},
+					"margin": {
+						"x": 135,
+						"y": 107,
+						"w": 252,
+						"h": 219
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_270_0020.png",
+					"region": {
+						"x": 1,
+						"y": 645,
+						"w": 90,
+						"h": 99
+					},
+					"margin": {
+						"x": 127,
+						"y": 111,
+						"w": 230,
+						"h": 221
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_090_0008.png",
+					"region": {
+						"x": 93,
+						"y": 647,
+						"w": 94,
+						"h": 100
+					},
+					"margin": {
+						"x": 105,
+						"y": 119,
+						"w": 226,
+						"h": 220
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_315_0003.png",
+					"region": {
+						"x": 189,
+						"y": 648,
+						"w": 117,
+						"h": 99
+					},
+					"margin": {
+						"x": 127,
+						"y": 117,
+						"w": 203,
+						"h": 221
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_315_0022.png",
+					"region": {
+						"x": 308,
+						"y": 650,
+						"w": 117,
+						"h": 99
+					},
+					"margin": {
+						"x": 127,
+						"y": 117,
+						"w": 203,
+						"h": 221
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_090_0010.png",
+					"region": {
+						"x": 427,
+						"y": 651,
+						"w": 104,
+						"h": 100
+					},
+					"margin": {
+						"x": 100,
+						"y": 120,
+						"w": 216,
+						"h": 220
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_090_0011.png",
+					"region": {
+						"x": 533,
+						"y": 654,
+						"w": 113,
+						"h": 100
+					},
+					"margin": {
+						"x": 92,
+						"y": 120,
+						"w": 207,
+						"h": 220
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_292_0016.png",
+					"region": {
+						"x": 648,
+						"y": 655,
+						"w": 127,
+						"h": 99
+					},
+					"margin": {
+						"x": 115,
+						"y": 115,
+						"w": 193,
+						"h": 221
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_090_0020.png",
+					"region": {
+						"x": 777,
+						"y": 655,
+						"w": 91,
+						"h": 100
+					},
+					"margin": {
+						"x": 102,
+						"y": 121,
+						"w": 229,
+						"h": 220
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_090_0012.png",
+					"region": {
+						"x": 870,
+						"y": 659,
+						"w": 119,
+						"h": 100
+					},
+					"margin": {
+						"x": 87,
+						"y": 120,
+						"w": 201,
+						"h": 220
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_112_0014.png",
+					"region": {
+						"x": 991,
+						"y": 660,
+						"w": 130,
+						"h": 100
+					},
+					"margin": {
+						"x": 76,
+						"y": 119,
+						"w": 190,
+						"h": 220
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_180_0010.png",
+					"region": {
+						"x": 1123,
+						"y": 660,
+						"w": 98,
+						"h": 100
+					},
+					"margin": {
+						"x": 90,
+						"y": 105,
+						"w": 222,
+						"h": 220
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_270_0009.png",
+					"region": {
+						"x": 1223,
+						"y": 660,
+						"w": 99,
+						"h": 100
+					},
+					"margin": {
+						"x": 118,
+						"y": 111,
+						"w": 221,
+						"h": 220
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_270_0021.png",
+					"region": {
+						"x": 1324,
+						"y": 662,
+						"w": 85,
+						"h": 100
+					},
+					"margin": {
+						"x": 132,
+						"y": 112,
+						"w": 235,
+						"h": 220
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_270_0022.png",
+					"region": {
+						"x": 1411,
+						"y": 663,
+						"w": 86,
+						"h": 100
+					},
+					"margin": {
+						"x": 135,
+						"y": 113,
+						"w": 234,
+						"h": 220
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_270_0023.png",
+					"region": {
+						"x": 1499,
+						"y": 663,
+						"w": 89,
+						"h": 100
+					},
+					"margin": {
+						"x": 136,
+						"y": 113,
+						"w": 231,
+						"h": 220
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_292_0015.png",
+					"region": {
+						"x": 1590,
+						"y": 663,
+						"w": 128,
+						"h": 100
+					},
+					"margin": {
+						"x": 115,
+						"y": 116,
+						"w": 192,
+						"h": 220
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_225_0006.png",
+					"region": {
+						"x": 1720,
+						"y": 663,
+						"w": 51,
+						"h": 102
+					},
+					"margin": {
+						"x": 138,
+						"y": 105,
+						"w": 269,
+						"h": 218
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_315_0004.png",
+					"region": {
+						"x": 1773,
+						"y": 665,
+						"w": 118,
+						"h": 100
+					},
+					"margin": {
+						"x": 125,
+						"y": 115,
+						"w": 202,
+						"h": 220
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_315_0021.png",
+					"region": {
+						"x": 1893,
+						"y": 668,
+						"w": 119,
+						"h": 100
+					},
+					"margin": {
+						"x": 126,
+						"y": 116,
+						"w": 201,
+						"h": 220
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_090_0007.png",
+					"region": {
+						"x": 1,
+						"y": 746,
+						"w": 89,
+						"h": 101
+					},
+					"margin": {
+						"x": 107,
+						"y": 119,
+						"w": 231,
+						"h": 219
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_315_0023.png",
+					"region": {
+						"x": 92,
+						"y": 749,
+						"w": 116,
+						"h": 100
+					},
+					"margin": {
+						"x": 128,
+						"y": 118,
+						"w": 204,
+						"h": 220
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_180_0015.png",
+					"region": {
+						"x": 210,
+						"y": 749,
+						"w": 94,
+						"h": 101
+					},
+					"margin": {
+						"x": 93,
+						"y": 105,
+						"w": 226,
+						"h": 219
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_315_0024.png",
+					"region": {
+						"x": 306,
+						"y": 751,
+						"w": 115,
+						"h": 100
+					},
+					"margin": {
+						"x": 129,
+						"y": 119,
+						"w": 205,
+						"h": 220
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_180_0004.png",
+					"region": {
+						"x": 423,
+						"y": 753,
+						"w": 99,
+						"h": 101
+					},
+					"margin": {
+						"x": 93,
+						"y": 108,
+						"w": 221,
+						"h": 219
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_112_0011.png",
+					"region": {
+						"x": 524,
+						"y": 756,
+						"w": 129,
+						"h": 101
+					},
+					"margin": {
+						"x": 78,
+						"y": 119,
+						"w": 191,
+						"h": 219
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_157_0001.png",
+					"region": {
+						"x": 655,
+						"y": 756,
+						"w": 114,
+						"h": 101
+					},
+					"margin": {
+						"x": 79,
+						"y": 114,
+						"w": 206,
+						"h": 219
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_202_0011.png",
+					"region": {
+						"x": 771,
+						"y": 757,
+						"w": 90,
+						"h": 101
+					},
+					"margin": {
+						"x": 114,
+						"y": 103,
+						"w": 230,
+						"h": 219
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_157_0010.png",
+					"region": {
+						"x": 863,
+						"y": 761,
+						"w": 122,
+						"h": 101
+					},
+					"margin": {
+						"x": 74,
+						"y": 110,
+						"w": 198,
+						"h": 219
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_112_0012.png",
+					"region": {
+						"x": 987,
+						"y": 762,
+						"w": 130,
+						"h": 101
+					},
+					"margin": {
+						"x": 77,
+						"y": 119,
+						"w": 190,
+						"h": 219
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_112_0013.png",
+					"region": {
+						"x": 1119,
+						"y": 762,
+						"w": 130,
+						"h": 101
+					},
+					"margin": {
+						"x": 76,
+						"y": 119,
+						"w": 190,
+						"h": 219
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_135_0010.png",
+					"region": {
+						"x": 1251,
+						"y": 764,
+						"w": 132,
+						"h": 101
+					},
+					"margin": {
+						"x": 70,
+						"y": 115,
+						"w": 188,
+						"h": 219
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_135_0015.png",
+					"region": {
+						"x": 1385,
+						"y": 765,
+						"w": 131,
+						"h": 101
+					},
+					"margin": {
+						"x": 69,
+						"y": 115,
+						"w": 189,
+						"h": 219
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_202_0014.png",
+					"region": {
+						"x": 1518,
+						"y": 765,
+						"w": 85,
+						"h": 101
+					},
+					"margin": {
+						"x": 117,
+						"y": 103,
+						"w": 235,
+						"h": 219
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_270_0001.png",
+					"region": {
+						"x": 1605,
+						"y": 765,
+						"w": 99,
+						"h": 101
+					},
+					"margin": {
+						"x": 133,
+						"y": 113,
+						"w": 221,
+						"h": 219
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_270_0002.png",
+					"region": {
+						"x": 1706,
+						"y": 767,
+						"w": 95,
+						"h": 101
+					},
+					"margin": {
+						"x": 135,
+						"y": 113,
+						"w": 225,
+						"h": 219
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_270_0003.png",
+					"region": {
+						"x": 1803,
+						"y": 767,
+						"w": 86,
+						"h": 101
+					},
+					"margin": {
+						"x": 139,
+						"y": 113,
+						"w": 234,
+						"h": 219
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_270_0024.png",
+					"region": {
+						"x": 1891,
+						"y": 770,
+						"w": 93,
+						"h": 101
+					},
+					"margin": {
+						"x": 135,
+						"y": 113,
+						"w": 227,
+						"h": 219
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_225_0005.png",
+					"region": {
+						"x": 1986,
+						"y": 770,
+						"w": 51,
+						"h": 104
+					},
+					"margin": {
+						"x": 138,
+						"y": 106,
+						"w": 269,
+						"h": 216
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_090_0005.png",
+					"region": {
+						"x": 1,
+						"y": 849,
+						"w": 79,
+						"h": 102
+					},
+					"margin": {
+						"x": 108,
+						"y": 120,
+						"w": 241,
+						"h": 218
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_292_0005.png",
+					"region": {
+						"x": 82,
+						"y": 851,
+						"w": 106,
+						"h": 101
+					},
+					"margin": {
+						"x": 125,
+						"y": 115,
+						"w": 214,
+						"h": 219
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_090_0006.png",
+					"region": {
+						"x": 190,
+						"y": 852,
+						"w": 83,
+						"h": 102
+					},
+					"margin": {
+						"x": 108,
+						"y": 119,
+						"w": 237,
+						"h": 218
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_315_0001.png",
+					"region": {
+						"x": 275,
+						"y": 853,
+						"w": 115,
+						"h": 101
+					},
+					"margin": {
+						"x": 129,
+						"y": 119,
+						"w": 205,
+						"h": 219
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_315_0002.png",
+					"region": {
+						"x": 392,
+						"y": 856,
+						"w": 115,
+						"h": 101
+					},
+					"margin": {
+						"x": 129,
+						"y": 118,
+						"w": 205,
+						"h": 219
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_202_0005.png",
+					"region": {
+						"x": 509,
+						"y": 859,
+						"w": 76,
+						"h": 102
+					},
+					"margin": {
+						"x": 112,
+						"y": 105,
+						"w": 244,
+						"h": 218
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_270_0004.png",
+					"region": {
+						"x": 587,
+						"y": 859,
+						"w": 82,
+						"h": 102
+					},
+					"margin": {
+						"x": 136,
+						"y": 112,
+						"w": 238,
+						"h": 218
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_270_0008.png",
+					"region": {
+						"x": 671,
+						"y": 859,
+						"w": 93,
+						"h": 102
+					},
+					"margin": {
+						"x": 121,
+						"y": 111,
+						"w": 227,
+						"h": 218
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_090_0021.png",
+					"region": {
+						"x": 766,
+						"y": 860,
+						"w": 84,
+						"h": 103
+					},
+					"margin": {
+						"x": 104,
+						"y": 121,
+						"w": 236,
+						"h": 217
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_292_0013.png",
+					"region": {
+						"x": 852,
+						"y": 864,
+						"w": 130,
+						"h": 102
+					},
+					"margin": {
+						"x": 114,
+						"y": 117,
+						"w": 190,
+						"h": 218
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_292_0014.png",
+					"region": {
+						"x": 984,
+						"y": 865,
+						"w": 130,
+						"h": 102
+					},
+					"margin": {
+						"x": 114,
+						"y": 116,
+						"w": 190,
+						"h": 218
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_135_0014.png",
+					"region": {
+						"x": 1116,
+						"y": 865,
+						"w": 131,
+						"h": 103
+					},
+					"margin": {
+						"x": 69,
+						"y": 115,
+						"w": 189,
+						"h": 217
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_157_0015.png",
+					"region": {
+						"x": 1249,
+						"y": 867,
+						"w": 119,
+						"h": 103
+					},
+					"margin": {
+						"x": 75,
+						"y": 109,
+						"w": 201,
+						"h": 217
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_202_0012.png",
+					"region": {
+						"x": 1370,
+						"y": 868,
+						"w": 90,
+						"h": 103
+					},
+					"margin": {
+						"x": 115,
+						"y": 103,
+						"w": 230,
+						"h": 217
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_202_0013.png",
+					"region": {
+						"x": 1462,
+						"y": 868,
+						"w": 88,
+						"h": 103
+					},
+					"margin": {
+						"x": 116,
+						"y": 103,
+						"w": 232,
+						"h": 217
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_292_0006.png",
+					"region": {
+						"x": 1552,
+						"y": 868,
+						"w": 110,
+						"h": 103
+					},
+					"margin": {
+						"x": 122,
+						"y": 115,
+						"w": 210,
+						"h": 217
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_292_0012.png",
+					"region": {
+						"x": 1664,
+						"y": 870,
+						"w": 130,
+						"h": 103
+					},
+					"margin": {
+						"x": 113,
+						"y": 117,
+						"w": 190,
+						"h": 217
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_090_0003.png",
+					"region": {
+						"x": 1796,
+						"y": 870,
+						"w": 86,
+						"h": 104
+					},
+					"margin": {
+						"x": 95,
+						"y": 121,
+						"w": 234,
+						"h": 216
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_090_0004.png",
+					"region": {
+						"x": 1884,
+						"y": 873,
+						"w": 82,
+						"h": 104
+					},
+					"margin": {
+						"x": 102,
+						"y": 120,
+						"w": 238,
+						"h": 216
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_202_0021.png",
+					"region": {
+						"x": 1968,
+						"y": 876,
+						"w": 73,
+						"h": 104
+					},
+					"margin": {
+						"x": 116,
+						"y": 106,
+						"w": 247,
+						"h": 216
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_247_0006.png",
+					"region": {
+						"x": 1,
+						"y": 953,
+						"w": 63,
+						"h": 104
+					},
+					"margin": {
+						"x": 139,
+						"y": 107,
+						"w": 257,
+						"h": 216
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_315_0020.png",
+					"region": {
+						"x": 66,
+						"y": 954,
+						"w": 122,
+						"h": 103
+					},
+					"margin": {
+						"x": 124,
+						"y": 114,
+						"w": 198,
+						"h": 217
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_315_0019.png",
+					"region": {
+						"x": 190,
+						"y": 956,
+						"w": 125,
+						"h": 103
+					},
+					"margin": {
+						"x": 122,
+						"y": 113,
+						"w": 195,
+						"h": 217
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_247_0021.png",
+					"region": {
+						"x": 317,
+						"y": 956,
+						"w": 70,
+						"h": 105
+					},
+					"margin": {
+						"x": 139,
+						"y": 108,
+						"w": 250,
+						"h": 215
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_180_0014.png",
+					"region": {
+						"x": 389,
+						"y": 959,
+						"w": 95,
+						"h": 104
+					},
+					"margin": {
+						"x": 92,
+						"y": 105,
+						"w": 225,
+						"h": 216
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_135_0011.png",
+					"region": {
+						"x": 486,
+						"y": 963,
+						"w": 133,
+						"h": 104
+					},
+					"margin": {
+						"x": 69,
+						"y": 115,
+						"w": 187,
+						"h": 216
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_135_0013.png",
+					"region": {
+						"x": 621,
+						"y": 963,
+						"w": 133,
+						"h": 104
+					},
+					"margin": {
+						"x": 68,
+						"y": 115,
+						"w": 187,
+						"h": 216
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_270_0005.png",
+					"region": {
+						"x": 756,
+						"y": 965,
+						"w": 79,
+						"h": 104
+					},
+					"margin": {
+						"x": 133,
+						"y": 111,
+						"w": 241,
+						"h": 216
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_157_0014.png",
+					"region": {
+						"x": 837,
+						"y": 968,
+						"w": 120,
+						"h": 104
+					},
+					"margin": {
+						"x": 74,
+						"y": 110,
+						"w": 200,
+						"h": 216
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_270_0006.png",
+					"region": {
+						"x": 959,
+						"y": 969,
+						"w": 83,
+						"h": 104
+					},
+					"margin": {
+						"x": 129,
+						"y": 111,
+						"w": 237,
+						"h": 216
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_270_0007.png",
+					"region": {
+						"x": 1044,
+						"y": 970,
+						"w": 88,
+						"h": 104
+					},
+					"margin": {
+						"x": 125,
+						"y": 111,
+						"w": 232,
+						"h": 216
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_090_0002.png",
+					"region": {
+						"x": 1134,
+						"y": 970,
+						"w": 95,
+						"h": 105
+					},
+					"margin": {
+						"x": 90,
+						"y": 121,
+						"w": 225,
+						"h": 215
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_292_0011.png",
+					"region": {
+						"x": 1231,
+						"y": 972,
+						"w": 129,
+						"h": 104
+					},
+					"margin": {
+						"x": 113,
+						"y": 117,
+						"w": 191,
+						"h": 216
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_315_0005.png",
+					"region": {
+						"x": 1362,
+						"y": 973,
+						"w": 120,
+						"h": 104
+					},
+					"margin": {
+						"x": 123,
+						"y": 114,
+						"w": 200,
+						"h": 216
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_315_0018.png",
+					"region": {
+						"x": 1484,
+						"y": 973,
+						"w": 127,
+						"h": 104
+					},
+					"margin": {
+						"x": 121,
+						"y": 113,
+						"w": 193,
+						"h": 216
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_090_0022.png",
+					"region": {
+						"x": 1613,
+						"y": 975,
+						"w": 87,
+						"h": 105
+					},
+					"margin": {
+						"x": 98,
+						"y": 121,
+						"w": 233,
+						"h": 215
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_090_0023.png",
+					"region": {
+						"x": 1702,
+						"y": 975,
+						"w": 89,
+						"h": 106
+					},
+					"margin": {
+						"x": 95,
+						"y": 121,
+						"w": 231,
+						"h": 214
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_225_0021.png",
+					"region": {
+						"x": 1793,
+						"y": 976,
+						"w": 54,
+						"h": 106
+					},
+					"margin": {
+						"x": 143,
+						"y": 106,
+						"w": 266,
+						"h": 214
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_180_0011.png",
+					"region": {
+						"x": 1849,
+						"y": 979,
+						"w": 97,
+						"h": 105
+					},
+					"margin": {
+						"x": 90,
+						"y": 105,
+						"w": 223,
+						"h": 215
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_180_0022.png",
+					"region": {
+						"x": 1948,
+						"y": 982,
+						"w": 98,
+						"h": 105
+					},
+					"margin": {
+						"x": 94,
+						"y": 109,
+						"w": 222,
+						"h": 215
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_135_0012.png",
+					"region": {
+						"x": 1,
+						"y": 1059,
+						"w": 133,
+						"h": 105
+					},
+					"margin": {
+						"x": 68,
+						"y": 115,
+						"w": 187,
+						"h": 215
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_157_0011.png",
+					"region": {
+						"x": 136,
+						"y": 1061,
+						"w": 122,
+						"h": 105
+					},
+					"margin": {
+						"x": 73,
+						"y": 110,
+						"w": 198,
+						"h": 215
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_292_0007.png",
+					"region": {
+						"x": 260,
+						"y": 1063,
+						"w": 115,
+						"h": 105
+					},
+					"margin": {
+						"x": 119,
+						"y": 115,
+						"w": 205,
+						"h": 215
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_090_0024.png",
+					"region": {
+						"x": 377,
+						"y": 1065,
+						"w": 94,
+						"h": 106
+					},
+					"margin": {
+						"x": 91,
+						"y": 121,
+						"w": 226,
+						"h": 214
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_292_0008.png",
+					"region": {
+						"x": 473,
+						"y": 1069,
+						"w": 119,
+						"h": 105
+					},
+					"margin": {
+						"x": 117,
+						"y": 116,
+						"w": 201,
+						"h": 215
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_292_0009.png",
+					"region": {
+						"x": 594,
+						"y": 1069,
+						"w": 123,
+						"h": 105
+					},
+					"margin": {
+						"x": 115,
+						"y": 116,
+						"w": 197,
+						"h": 215
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_180_0003.png",
+					"region": {
+						"x": 719,
+						"y": 1071,
+						"w": 98,
+						"h": 106
+					},
+					"margin": {
+						"x": 94,
+						"y": 108,
+						"w": 222,
+						"h": 214
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_292_0010.png",
+					"region": {
+						"x": 819,
+						"y": 1074,
+						"w": 126,
+						"h": 105
+					},
+					"margin": {
+						"x": 114,
+						"y": 117,
+						"w": 194,
+						"h": 215
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_247_0005.png",
+					"region": {
+						"x": 947,
+						"y": 1075,
+						"w": 62,
+						"h": 106
+					},
+					"margin": {
+						"x": 140,
+						"y": 107,
+						"w": 258,
+						"h": 214
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_157_0013.png",
+					"region": {
+						"x": 1011,
+						"y": 1076,
+						"w": 120,
+						"h": 106
+					},
+					"margin": {
+						"x": 74,
+						"y": 110,
+						"w": 200,
+						"h": 214
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_180_0013.png",
+					"region": {
+						"x": 1133,
+						"y": 1077,
+						"w": 96,
+						"h": 106
+					},
+					"margin": {
+						"x": 91,
+						"y": 105,
+						"w": 224,
+						"h": 214
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_315_0017.png",
+					"region": {
+						"x": 1231,
+						"y": 1078,
+						"w": 129,
+						"h": 106
+					},
+					"margin": {
+						"x": 120,
+						"y": 113,
+						"w": 191,
+						"h": 214
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_090_0001.png",
+					"region": {
+						"x": 1362,
+						"y": 1079,
+						"w": 99,
+						"h": 107
+					},
+					"margin": {
+						"x": 88,
+						"y": 121,
+						"w": 221,
+						"h": 213
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_157_0012.png",
+					"region": {
+						"x": 1463,
+						"y": 1079,
+						"w": 122,
+						"h": 107
+					},
+					"margin": {
+						"x": 73,
+						"y": 110,
+						"w": 198,
+						"h": 213
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_180_0012.png",
+					"region": {
+						"x": 1587,
+						"y": 1082,
+						"w": 96,
+						"h": 107
+					},
+					"margin": {
+						"x": 91,
+						"y": 105,
+						"w": 224,
+						"h": 213
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_247_0004.png",
+					"region": {
+						"x": 1685,
+						"y": 1083,
+						"w": 65,
+						"h": 107
+					},
+					"margin": {
+						"x": 142,
+						"y": 108,
+						"w": 255,
+						"h": 213
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_000_0017.png",
+					"region": {
+						"x": 1752,
+						"y": 1084,
+						"w": 95,
+						"h": 108
+					},
+					"margin": {
+						"x": 131,
+						"y": 113,
+						"w": 225,
+						"h": 212
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_202_0004.png",
+					"region": {
+						"x": 1849,
+						"y": 1086,
+						"w": 76,
+						"h": 108
+					},
+					"margin": {
+						"x": 113,
+						"y": 105,
+						"w": 244,
+						"h": 212
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_180_0023.png",
+					"region": {
+						"x": 1927,
+						"y": 1089,
+						"w": 98,
+						"h": 108
+					},
+					"margin": {
+						"x": 94,
+						"y": 109,
+						"w": 222,
+						"h": 212
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_225_0004.png",
+					"region": {
+						"x": 1,
+						"y": 1166,
+						"w": 51,
+						"h": 108
+					},
+					"margin": {
+						"x": 140,
+						"y": 106,
+						"w": 269,
+						"h": 212
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_247_0003.png",
+					"region": {
+						"x": 54,
+						"y": 1166,
+						"w": 71,
+						"h": 108
+					},
+					"margin": {
+						"x": 143,
+						"y": 109,
+						"w": 249,
+						"h": 212
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_247_0022.png",
+					"region": {
+						"x": 127,
+						"y": 1168,
+						"w": 74,
+						"h": 108
+					},
+					"margin": {
+						"x": 140,
+						"y": 108,
+						"w": 246,
+						"h": 212
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_247_0023.png",
+					"region": {
+						"x": 203,
+						"y": 1170,
+						"w": 74,
+						"h": 108
+					},
+					"margin": {
+						"x": 141,
+						"y": 109,
+						"w": 246,
+						"h": 212
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_022_0007.png",
+					"region": {
+						"x": 279,
+						"y": 1170,
+						"w": 77,
+						"h": 109
+					},
+					"margin": {
+						"x": 131,
+						"y": 114,
+						"w": 243,
+						"h": 211
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_022_0008.png",
+					"region": {
+						"x": 358,
+						"y": 1173,
+						"w": 80,
+						"h": 109
+					},
+					"margin": {
+						"x": 128,
+						"y": 115,
+						"w": 240,
+						"h": 211
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_337_0005.png",
+					"region": {
+						"x": 440,
+						"y": 1176,
+						"w": 119,
+						"h": 108
+					},
+					"margin": {
+						"x": 123,
+						"y": 113,
+						"w": 201,
+						"h": 212
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_022_0009.png",
+					"region": {
+						"x": 561,
+						"y": 1176,
+						"w": 82,
+						"h": 109
+					},
+					"margin": {
+						"x": 125,
+						"y": 117,
+						"w": 238,
+						"h": 211
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_225_0003.png",
+					"region": {
+						"x": 645,
+						"y": 1176,
+						"w": 54,
+						"h": 111
+					},
+					"margin": {
+						"x": 143,
+						"y": 106,
+						"w": 266,
+						"h": 209
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_180_0001.png",
+					"region": {
+						"x": 701,
+						"y": 1179,
+						"w": 98,
+						"h": 109
+					},
+					"margin": {
+						"x": 94,
+						"y": 110,
+						"w": 222,
+						"h": 211
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_180_0002.png",
+					"region": {
+						"x": 801,
+						"y": 1181,
+						"w": 97,
+						"h": 109
+					},
+					"margin": {
+						"x": 95,
+						"y": 109,
+						"w": 223,
+						"h": 211
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_180_0024.png",
+					"region": {
+						"x": 900,
+						"y": 1183,
+						"w": 98,
+						"h": 109
+					},
+					"margin": {
+						"x": 94,
+						"y": 109,
+						"w": 222,
+						"h": 211
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_247_0001.png",
+					"region": {
+						"x": 1000,
+						"y": 1184,
+						"w": 81,
+						"h": 109
+					},
+					"margin": {
+						"x": 139,
+						"y": 109,
+						"w": 239,
+						"h": 211
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_247_0002.png",
+					"region": {
+						"x": 1083,
+						"y": 1185,
+						"w": 77,
+						"h": 109
+					},
+					"margin": {
+						"x": 141,
+						"y": 109,
+						"w": 243,
+						"h": 211
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_247_0024.png",
+					"region": {
+						"x": 1162,
+						"y": 1186,
+						"w": 76,
+						"h": 109
+					},
+					"margin": {
+						"x": 141,
+						"y": 109,
+						"w": 244,
+						"h": 211
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_337_0018.png",
+					"region": {
+						"x": 1240,
+						"y": 1186,
+						"w": 118,
+						"h": 109
+					},
+					"margin": {
+						"x": 125,
+						"y": 112,
+						"w": 202,
+						"h": 211
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_315_0006.png",
+					"region": {
+						"x": 1360,
+						"y": 1188,
+						"w": 123,
+						"h": 109
+					},
+					"margin": {
+						"x": 121,
+						"y": 113,
+						"w": 197,
+						"h": 211
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_022_0010.png",
+					"region": {
+						"x": 1485,
+						"y": 1188,
+						"w": 86,
+						"h": 110
+					},
+					"margin": {
+						"x": 120,
+						"y": 118,
+						"w": 234,
+						"h": 210
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_315_0016.png",
+					"region": {
+						"x": 1573,
+						"y": 1192,
+						"w": 130,
+						"h": 109
+					},
+					"margin": {
+						"x": 120,
+						"y": 114,
+						"w": 190,
+						"h": 211
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_337_0017.png",
+					"region": {
+						"x": 1705,
+						"y": 1194,
+						"w": 119,
+						"h": 110
+					},
+					"margin": {
+						"x": 125,
+						"y": 112,
+						"w": 201,
+						"h": 210
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_067_0015.png",
+					"region": {
+						"x": 1826,
+						"y": 1196,
+						"w": 99,
+						"h": 111
+					},
+					"margin": {
+						"x": 99,
+						"y": 119,
+						"w": 221,
+						"h": 209
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_337_0021.png",
+					"region": {
+						"x": 1927,
+						"y": 1199,
+						"w": 116,
+						"h": 110
+					},
+					"margin": {
+						"x": 125,
+						"y": 115,
+						"w": 204,
+						"h": 210
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_067_0016.png",
+					"region": {
+						"x": 1,
+						"y": 1276,
+						"w": 90,
+						"h": 111
+					},
+					"margin": {
+						"x": 107,
+						"y": 118,
+						"w": 230,
+						"h": 209
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_067_0017.png",
+					"region": {
+						"x": 93,
+						"y": 1278,
+						"w": 83,
+						"h": 111
+					},
+					"margin": {
+						"x": 113,
+						"y": 118,
+						"w": 237,
+						"h": 209
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_202_0003.png",
+					"region": {
+						"x": 178,
+						"y": 1280,
+						"w": 74,
+						"h": 111
+					},
+					"margin": {
+						"x": 115,
+						"y": 106,
+						"w": 246,
+						"h": 209
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_202_0022.png",
+					"region": {
+						"x": 254,
+						"y": 1281,
+						"w": 74,
+						"h": 111
+					},
+					"margin": {
+						"x": 115,
+						"y": 106,
+						"w": 246,
+						"h": 209
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_000_0006.png",
+					"region": {
+						"x": 330,
+						"y": 1284,
+						"w": 100,
+						"h": 112
+					},
+					"margin": {
+						"x": 129,
+						"y": 112,
+						"w": 220,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_315_0007.png",
+					"region": {
+						"x": 432,
+						"y": 1286,
+						"w": 125,
+						"h": 111
+					},
+					"margin": {
+						"x": 120,
+						"y": 114,
+						"w": 195,
+						"h": 209
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_022_0006.png",
+					"region": {
+						"x": 559,
+						"y": 1287,
+						"w": 77,
+						"h": 112
+					},
+					"margin": {
+						"x": 132,
+						"y": 114,
+						"w": 243,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_225_0022.png",
+					"region": {
+						"x": 638,
+						"y": 1289,
+						"w": 57,
+						"h": 112
+					},
+					"margin": {
+						"x": 143,
+						"y": 106,
+						"w": 263,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_000_0007.png",
+					"region": {
+						"x": 697,
+						"y": 1290,
+						"w": 100,
+						"h": 112
+					},
+					"margin": {
+						"x": 130,
+						"y": 113,
+						"w": 220,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_000_0016.png",
+					"region": {
+						"x": 799,
+						"y": 1292,
+						"w": 94,
+						"h": 112
+					},
+					"margin": {
+						"x": 132,
+						"y": 114,
+						"w": 226,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_022_0011.png",
+					"region": {
+						"x": 895,
+						"y": 1294,
+						"w": 90,
+						"h": 112
+					},
+					"margin": {
+						"x": 116,
+						"y": 119,
+						"w": 230,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_022_0012.png",
+					"region": {
+						"x": 987,
+						"y": 1295,
+						"w": 90,
+						"h": 112
+					},
+					"margin": {
+						"x": 115,
+						"y": 120,
+						"w": 230,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_067_0006.png",
+					"region": {
+						"x": 1079,
+						"y": 1296,
+						"w": 63,
+						"h": 112
+					},
+					"margin": {
+						"x": 118,
+						"y": 118,
+						"w": 257,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_315_0015.png",
+					"region": {
+						"x": 1144,
+						"y": 1297,
+						"w": 131,
+						"h": 111
+					},
+					"margin": {
+						"x": 120,
+						"y": 116,
+						"w": 189,
+						"h": 209
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_067_0007.png",
+					"region": {
+						"x": 1277,
+						"y": 1297,
+						"w": 68,
+						"h": 112
+					},
+					"margin": {
+						"x": 117,
+						"y": 118,
+						"w": 252,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_337_0004.png",
+					"region": {
+						"x": 1347,
+						"y": 1299,
+						"w": 117,
+						"h": 111
+					},
+					"margin": {
+						"x": 124,
+						"y": 114,
+						"w": 203,
+						"h": 209
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_022_0013.png",
+					"region": {
+						"x": 1466,
+						"y": 1300,
+						"w": 88,
+						"h": 112
+					},
+					"margin": {
+						"x": 116,
+						"y": 119,
+						"w": 232,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_337_0019.png",
+					"region": {
+						"x": 1556,
+						"y": 1303,
+						"w": 117,
+						"h": 111
+					},
+					"margin": {
+						"x": 125,
+						"y": 112,
+						"w": 203,
+						"h": 209
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_337_0022.png",
+					"region": {
+						"x": 1675,
+						"y": 1306,
+						"w": 115,
+						"h": 111
+					},
+					"margin": {
+						"x": 126,
+						"y": 117,
+						"w": 205,
+						"h": 209
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_022_0014.png",
+					"region": {
+						"x": 1792,
+						"y": 1309,
+						"w": 85,
+						"h": 112
+					},
+					"margin": {
+						"x": 118,
+						"y": 118,
+						"w": 235,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_022_0015.png",
+					"region": {
+						"x": 1879,
+						"y": 1311,
+						"w": 84,
+						"h": 112
+					},
+					"margin": {
+						"x": 119,
+						"y": 117,
+						"w": 236,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_067_0008.png",
+					"region": {
+						"x": 1965,
+						"y": 1311,
+						"w": 78,
+						"h": 112
+					},
+					"margin": {
+						"x": 112,
+						"y": 118,
+						"w": 242,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_067_0009.png",
+					"region": {
+						"x": 1,
+						"y": 1389,
+						"w": 88,
+						"h": 112
+					},
+					"margin": {
+						"x": 105,
+						"y": 119,
+						"w": 232,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_067_0018.png",
+					"region": {
+						"x": 91,
+						"y": 1391,
+						"w": 78,
+						"h": 112
+					},
+					"margin": {
+						"x": 116,
+						"y": 118,
+						"w": 242,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_067_0005.png",
+					"region": {
+						"x": 171,
+						"y": 1393,
+						"w": 62,
+						"h": 113
+					},
+					"margin": {
+						"x": 118,
+						"y": 118,
+						"w": 258,
+						"h": 207
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_022_0016.png",
+					"region": {
+						"x": 235,
+						"y": 1394,
+						"w": 83,
+						"h": 113
+					},
+					"margin": {
+						"x": 119,
+						"y": 115,
+						"w": 237,
+						"h": 207
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_067_0010.png",
+					"region": {
+						"x": 320,
+						"y": 1398,
+						"w": 97,
+						"h": 112
+					},
+					"margin": {
+						"x": 99,
+						"y": 119,
+						"w": 223,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_067_0011.png",
+					"region": {
+						"x": 419,
+						"y": 1399,
+						"w": 108,
+						"h": 112
+					},
+					"margin": {
+						"x": 90,
+						"y": 120,
+						"w": 212,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_067_0014.png",
+					"region": {
+						"x": 529,
+						"y": 1401,
+						"w": 106,
+						"h": 112
+					},
+					"margin": {
+						"x": 93,
+						"y": 119,
+						"w": 214,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_067_0012.png",
+					"region": {
+						"x": 637,
+						"y": 1404,
+						"w": 112,
+						"h": 112
+					},
+					"margin": {
+						"x": 86,
+						"y": 120,
+						"w": 208,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_067_0013.png",
+					"region": {
+						"x": 751,
+						"y": 1406,
+						"w": 111,
+						"h": 112
+					},
+					"margin": {
+						"x": 88,
+						"y": 120,
+						"w": 209,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_337_0006.png",
+					"region": {
+						"x": 864,
+						"y": 1408,
+						"w": 120,
+						"h": 112
+					},
+					"margin": {
+						"x": 123,
+						"y": 112,
+						"w": 200,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_067_0019.png",
+					"region": {
+						"x": 986,
+						"y": 1409,
+						"w": 74,
+						"h": 113
+					},
+					"margin": {
+						"x": 116,
+						"y": 118,
+						"w": 246,
+						"h": 207
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_315_0008.png",
+					"region": {
+						"x": 1062,
+						"y": 1410,
+						"w": 128,
+						"h": 112
+					},
+					"margin": {
+						"x": 119,
+						"y": 115,
+						"w": 192,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_202_0002.png",
+					"region": {
+						"x": 1192,
+						"y": 1410,
+						"w": 74,
+						"h": 113
+					},
+					"margin": {
+						"x": 116,
+						"y": 107,
+						"w": 246,
+						"h": 207
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_202_0023.png",
+					"region": {
+						"x": 1268,
+						"y": 1411,
+						"w": 74,
+						"h": 113
+					},
+					"margin": {
+						"x": 115,
+						"y": 106,
+						"w": 246,
+						"h": 207
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_337_0020.png",
+					"region": {
+						"x": 1344,
+						"y": 1412,
+						"w": 117,
+						"h": 112
+					},
+					"margin": {
+						"x": 125,
+						"y": 114,
+						"w": 203,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_225_0002.png",
+					"region": {
+						"x": 1463,
+						"y": 1414,
+						"w": 58,
+						"h": 113
+					},
+					"margin": {
+						"x": 144,
+						"y": 107,
+						"w": 262,
+						"h": 207
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_315_0009.png",
+					"region": {
+						"x": 1523,
+						"y": 1416,
+						"w": 131,
+						"h": 112
+					},
+					"margin": {
+						"x": 118,
+						"y": 116,
+						"w": 189,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_315_0014.png",
+					"region": {
+						"x": 1656,
+						"y": 1419,
+						"w": 132,
+						"h": 112
+					},
+					"margin": {
+						"x": 120,
+						"y": 118,
+						"w": 188,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_225_0023.png",
+					"region": {
+						"x": 1790,
+						"y": 1423,
+						"w": 59,
+						"h": 113
+					},
+					"margin": {
+						"x": 143,
+						"y": 106,
+						"w": 261,
+						"h": 207
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_337_0023.png",
+					"region": {
+						"x": 1851,
+						"y": 1425,
+						"w": 115,
+						"h": 112
+					},
+					"margin": {
+						"x": 126,
+						"y": 118,
+						"w": 205,
+						"h": 208
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_067_0004.png",
+					"region": {
+						"x": 1968,
+						"y": 1425,
+						"w": 65,
+						"h": 114
+					},
+					"margin": {
+						"x": 113,
+						"y": 119,
+						"w": 255,
+						"h": 206
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_022_0017.png",
+					"region": {
+						"x": 1,
+						"y": 1503,
+						"w": 82,
+						"h": 114
+					},
+					"margin": {
+						"x": 120,
+						"y": 114,
+						"w": 238,
+						"h": 206
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_022_0018.png",
+					"region": {
+						"x": 85,
+						"y": 1505,
+						"w": 80,
+						"h": 114
+					},
+					"margin": {
+						"x": 122,
+						"y": 114,
+						"w": 240,
+						"h": 206
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_000_0009.png",
+					"region": {
+						"x": 167,
+						"y": 1509,
+						"w": 98,
+						"h": 113
+					},
+					"margin": {
+						"x": 132,
+						"y": 116,
+						"w": 222,
+						"h": 207
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_045_0006.png",
+					"region": {
+						"x": 267,
+						"y": 1509,
+						"w": 51,
+						"h": 115
+					},
+					"margin": {
+						"x": 131,
+						"y": 116,
+						"w": 269,
+						"h": 205
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_000_0018.png",
+					"region": {
+						"x": 320,
+						"y": 1512,
+						"w": 94,
+						"h": 113
+					},
+					"margin": {
+						"x": 131,
+						"y": 112,
+						"w": 226,
+						"h": 207
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_000_0008.png",
+					"region": {
+						"x": 416,
+						"y": 1513,
+						"w": 99,
+						"h": 114
+					},
+					"margin": {
+						"x": 131,
+						"y": 114,
+						"w": 221,
+						"h": 206
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_337_0003.png",
+					"region": {
+						"x": 517,
+						"y": 1515,
+						"w": 116,
+						"h": 113
+					},
+					"margin": {
+						"x": 125,
+						"y": 116,
+						"w": 204,
+						"h": 207
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_067_0020.png",
+					"region": {
+						"x": 635,
+						"y": 1518,
+						"w": 69,
+						"h": 114
+					},
+					"margin": {
+						"x": 117,
+						"y": 119,
+						"w": 251,
+						"h": 206
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_315_0010.png",
+					"region": {
+						"x": 706,
+						"y": 1520,
+						"w": 132,
+						"h": 113
+					},
+					"margin": {
+						"x": 118,
+						"y": 118,
+						"w": 188,
+						"h": 207
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_337_0016.png",
+					"region": {
+						"x": 840,
+						"y": 1522,
+						"w": 119,
+						"h": 113
+					},
+					"margin": {
+						"x": 125,
+						"y": 114,
+						"w": 201,
+						"h": 207
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_225_0024.png",
+					"region": {
+						"x": 961,
+						"y": 1524,
+						"w": 60,
+						"h": 114
+					},
+					"margin": {
+						"x": 143,
+						"y": 106,
+						"w": 260,
+						"h": 206
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_315_0011.png",
+					"region": {
+						"x": 1023,
+						"y": 1524,
+						"w": 134,
+						"h": 114
+					},
+					"margin": {
+						"x": 118,
+						"y": 119,
+						"w": 186,
+						"h": 206
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_000_0005.png",
+					"region": {
+						"x": 1159,
+						"y": 1525,
+						"w": 101,
+						"h": 115
+					},
+					"margin": {
+						"x": 128,
+						"y": 113,
+						"w": 219,
+						"h": 205
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_315_0013.png",
+					"region": {
+						"x": 1262,
+						"y": 1526,
+						"w": 133,
+						"h": 114
+					},
+					"margin": {
+						"x": 119,
+						"y": 119,
+						"w": 187,
+						"h": 206
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_045_0007.png",
+					"region": {
+						"x": 1397,
+						"y": 1526,
+						"w": 59,
+						"h": 115
+					},
+					"margin": {
+						"x": 124,
+						"y": 116,
+						"w": 261,
+						"h": 205
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_225_0001.png",
+					"region": {
+						"x": 1458,
+						"y": 1529,
+						"w": 62,
+						"h": 115
+					},
+					"margin": {
+						"x": 142,
+						"y": 106,
+						"w": 258,
+						"h": 205
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_337_0001.png",
+					"region": {
+						"x": 1522,
+						"y": 1530,
+						"w": 114,
+						"h": 114
+					},
+					"margin": {
+						"x": 127,
+						"y": 119,
+						"w": 206,
+						"h": 206
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_337_0002.png",
+					"region": {
+						"x": 1638,
+						"y": 1533,
+						"w": 115,
+						"h": 114
+					},
+					"margin": {
+						"x": 126,
+						"y": 118,
+						"w": 205,
+						"h": 206
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_000_0015.png",
+					"region": {
+						"x": 1755,
+						"y": 1538,
+						"w": 94,
+						"h": 115
+					},
+					"margin": {
+						"x": 133,
+						"y": 116,
+						"w": 226,
+						"h": 205
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_337_0024.png",
+					"region": {
+						"x": 1851,
+						"y": 1539,
+						"w": 115,
+						"h": 114
+					},
+					"margin": {
+						"x": 126,
+						"y": 118,
+						"w": 205,
+						"h": 206
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_045_0008.png",
+					"region": {
+						"x": 1968,
+						"y": 1541,
+						"w": 66,
+						"h": 115
+					},
+					"margin": {
+						"x": 118,
+						"y": 117,
+						"w": 254,
+						"h": 205
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_045_0009.png",
+					"region": {
+						"x": 1,
+						"y": 1619,
+						"w": 70,
+						"h": 115
+					},
+					"margin": {
+						"x": 113,
+						"y": 118,
+						"w": 250,
+						"h": 205
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_045_0010.png",
+					"region": {
+						"x": 73,
+						"y": 1621,
+						"w": 76,
+						"h": 115
+					},
+					"margin": {
+						"x": 106,
+						"y": 119,
+						"w": 244,
+						"h": 205
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_000_0019.png",
+					"region": {
+						"x": 151,
+						"y": 1624,
+						"w": 95,
+						"h": 115
+					},
+					"margin": {
+						"x": 130,
+						"y": 113,
+						"w": 225,
+						"h": 205
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_067_0021.png",
+					"region": {
+						"x": 248,
+						"y": 1626,
+						"w": 70,
+						"h": 115
+					},
+					"margin": {
+						"x": 111,
+						"y": 120,
+						"w": 250,
+						"h": 205
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_045_0011.png",
+					"region": {
+						"x": 320,
+						"y": 1627,
+						"w": 88,
+						"h": 115
+					},
+					"margin": {
+						"x": 99,
+						"y": 120,
+						"w": 232,
+						"h": 205
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_067_0003.png",
+					"region": {
+						"x": 410,
+						"y": 1629,
+						"w": 71,
+						"h": 115
+					},
+					"margin": {
+						"x": 106,
+						"y": 120,
+						"w": 249,
+						"h": 205
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_337_0007.png",
+					"region": {
+						"x": 483,
+						"y": 1630,
+						"w": 121,
+						"h": 114
+					},
+					"margin": {
+						"x": 123,
+						"y": 112,
+						"w": 199,
+						"h": 206
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_202_0024.png",
+					"region": {
+						"x": 606,
+						"y": 1634,
+						"w": 75,
+						"h": 115
+					},
+					"margin": {
+						"x": 115,
+						"y": 106,
+						"w": 245,
+						"h": 205
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_315_0012.png",
+					"region": {
+						"x": 683,
+						"y": 1635,
+						"w": 133,
+						"h": 115
+					},
+					"margin": {
+						"x": 119,
+						"y": 119,
+						"w": 187,
+						"h": 205
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_000_0021.png",
+					"region": {
+						"x": 818,
+						"y": 1637,
+						"w": 98,
+						"h": 116
+					},
+					"margin": {
+						"x": 128,
+						"y": 116,
+						"w": 222,
+						"h": 204
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_022_0005.png",
+					"region": {
+						"x": 918,
+						"y": 1640,
+						"w": 77,
+						"h": 116
+					},
+					"margin": {
+						"x": 132,
+						"y": 114,
+						"w": 243,
+						"h": 204
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_022_0019.png",
+					"region": {
+						"x": 997,
+						"y": 1640,
+						"w": 77,
+						"h": 116
+					},
+					"margin": {
+						"x": 125,
+						"y": 114,
+						"w": 243,
+						"h": 204
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_045_0005.png",
+					"region": {
+						"x": 1076,
+						"y": 1640,
+						"w": 51,
+						"h": 116
+					},
+					"margin": {
+						"x": 131,
+						"y": 116,
+						"w": 269,
+						"h": 204
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_045_0012.png",
+					"region": {
+						"x": 1129,
+						"y": 1642,
+						"w": 92,
+						"h": 116
+					},
+					"margin": {
+						"x": 96,
+						"y": 120,
+						"w": 228,
+						"h": 204
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_045_0013.png",
+					"region": {
+						"x": 1223,
+						"y": 1642,
+						"w": 90,
+						"h": 116
+					},
+					"margin": {
+						"x": 97,
+						"y": 120,
+						"w": 230,
+						"h": 204
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_045_0015.png",
+					"region": {
+						"x": 1315,
+						"y": 1642,
+						"w": 80,
+						"h": 116
+					},
+					"margin": {
+						"x": 106,
+						"y": 118,
+						"w": 240,
+						"h": 204
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_045_0004.png",
+					"region": {
+						"x": 1397,
+						"y": 1643,
+						"w": 51,
+						"h": 117
+					},
+					"margin": {
+						"x": 129,
+						"y": 118,
+						"w": 269,
+						"h": 203
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_045_0014.png",
+					"region": {
+						"x": 1450,
+						"y": 1646,
+						"w": 85,
+						"h": 116
+					},
+					"margin": {
+						"x": 101,
+						"y": 119,
+						"w": 235,
+						"h": 204
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_067_0002.png",
+					"region": {
+						"x": 1537,
+						"y": 1646,
+						"w": 76,
+						"h": 116
+					},
+					"margin": {
+						"x": 102,
+						"y": 121,
+						"w": 244,
+						"h": 204
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_067_0022.png",
+					"region": {
+						"x": 1615,
+						"y": 1649,
+						"w": 74,
+						"h": 116
+					},
+					"margin": {
+						"x": 106,
+						"y": 120,
+						"w": 246,
+						"h": 204
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_045_0003.png",
+					"region": {
+						"x": 1691,
+						"y": 1649,
+						"w": 54,
+						"h": 118
+					},
+					"margin": {
+						"x": 123,
+						"y": 119,
+						"w": 266,
+						"h": 202
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_067_0023.png",
+					"region": {
+						"x": 1747,
+						"y": 1655,
+						"w": 74,
+						"h": 116
+					},
+					"margin": {
+						"x": 105,
+						"y": 121,
+						"w": 246,
+						"h": 204
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_202_0001.png",
+					"region": {
+						"x": 1823,
+						"y": 1655,
+						"w": 75,
+						"h": 116
+					},
+					"margin": {
+						"x": 115,
+						"y": 106,
+						"w": 245,
+						"h": 204
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_045_0018.png",
+					"region": {
+						"x": 1900,
+						"y": 1655,
+						"w": 66,
+						"h": 118
+					},
+					"margin": {
+						"x": 116,
+						"y": 116,
+						"w": 254,
+						"h": 202
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_022_0021.png",
+					"region": {
+						"x": 1968,
+						"y": 1658,
+						"w": 73,
+						"h": 117
+					},
+					"margin": {
+						"x": 131,
+						"y": 117,
+						"w": 247,
+						"h": 203
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_337_0008.png",
+					"region": {
+						"x": 1,
+						"y": 1738,
+						"w": 122,
+						"h": 116
+					},
+					"margin": {
+						"x": 123,
+						"y": 114,
+						"w": 198,
+						"h": 204
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_000_0010.png",
+					"region": {
+						"x": 125,
+						"y": 1741,
+						"w": 97,
+						"h": 117
+					},
+					"margin": {
+						"x": 133,
+						"y": 117,
+						"w": 223,
+						"h": 203
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_045_0016.png",
+					"region": {
+						"x": 224,
+						"y": 1743,
+						"w": 74,
+						"h": 117
+					},
+					"margin": {
+						"x": 111,
+						"y": 117,
+						"w": 246,
+						"h": 203
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_000_0020.png",
+					"region": {
+						"x": 300,
+						"y": 1744,
+						"w": 96,
+						"h": 117
+					},
+					"margin": {
+						"x": 129,
+						"y": 114,
+						"w": 224,
+						"h": 203
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_337_0009.png",
+					"region": {
+						"x": 398,
+						"y": 1746,
+						"w": 122,
+						"h": 116
+					},
+					"margin": {
+						"x": 124,
+						"y": 115,
+						"w": 198,
+						"h": 204
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_045_0017.png",
+					"region": {
+						"x": 522,
+						"y": 1746,
+						"w": 71,
+						"h": 117
+					},
+					"margin": {
+						"x": 113,
+						"y": 116,
+						"w": 249,
+						"h": 203
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_067_0001.png",
+					"region": {
+						"x": 595,
+						"y": 1751,
+						"w": 80,
+						"h": 117
+					},
+					"margin": {
+						"x": 100,
+						"y": 121,
+						"w": 240,
+						"h": 203
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_067_0024.png",
+					"region": {
+						"x": 677,
+						"y": 1752,
+						"w": 75,
+						"h": 117
+					},
+					"margin": {
+						"x": 103,
+						"y": 121,
+						"w": 245,
+						"h": 203
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_045_0001.png",
+					"region": {
+						"x": 754,
+						"y": 1752,
+						"w": 61,
+						"h": 119
+					},
+					"margin": {
+						"x": 117,
+						"y": 121,
+						"w": 259,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_000_0004.png",
+					"region": {
+						"x": 817,
+						"y": 1755,
+						"w": 99,
+						"h": 118
+					},
+					"margin": {
+						"x": 128,
+						"y": 115,
+						"w": 221,
+						"h": 202
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_337_0015.png",
+					"region": {
+						"x": 918,
+						"y": 1758,
+						"w": 119,
+						"h": 117
+					},
+					"margin": {
+						"x": 126,
+						"y": 115,
+						"w": 201,
+						"h": 203
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_022_0020.png",
+					"region": {
+						"x": 1039,
+						"y": 1758,
+						"w": 75,
+						"h": 118
+					},
+					"margin": {
+						"x": 128,
+						"y": 115,
+						"w": 245,
+						"h": 202
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_000_0022.png",
+					"region": {
+						"x": 1116,
+						"y": 1760,
+						"w": 98,
+						"h": 118
+					},
+					"margin": {
+						"x": 128,
+						"y": 117,
+						"w": 222,
+						"h": 202
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_000_0014.png",
+					"region": {
+						"x": 1216,
+						"y": 1760,
+						"w": 95,
+						"h": 119
+					},
+					"margin": {
+						"x": 133,
+						"y": 117,
+						"w": 225,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_022_0004.png",
+					"region": {
+						"x": 1313,
+						"y": 1760,
+						"w": 76,
+						"h": 119
+					},
+					"margin": {
+						"x": 131,
+						"y": 116,
+						"w": 244,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_045_0002.png",
+					"region": {
+						"x": 1391,
+						"y": 1762,
+						"w": 57,
+						"h": 119
+					},
+					"margin": {
+						"x": 119,
+						"y": 120,
+						"w": 263,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_045_0019.png",
+					"region": {
+						"x": 1450,
+						"y": 1764,
+						"w": 60,
+						"h": 119
+					},
+					"margin": {
+						"x": 119,
+						"y": 116,
+						"w": 260,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_045_0020.png",
+					"region": {
+						"x": 1512,
+						"y": 1764,
+						"w": 55,
+						"h": 119
+					},
+					"margin": {
+						"x": 123,
+						"y": 117,
+						"w": 265,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_045_0021.png",
+					"region": {
+						"x": 1569,
+						"y": 1767,
+						"w": 54,
+						"h": 119
+					},
+					"margin": {
+						"x": 123,
+						"y": 118,
+						"w": 266,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_045_0022.png",
+					"region": {
+						"x": 1625,
+						"y": 1767,
+						"w": 57,
+						"h": 119
+					},
+					"margin": {
+						"x": 120,
+						"y": 120,
+						"w": 263,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_045_0023.png",
+					"region": {
+						"x": 1684,
+						"y": 1769,
+						"w": 58,
+						"h": 119
+					},
+					"margin": {
+						"x": 119,
+						"y": 120,
+						"w": 262,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_045_0024.png",
+					"region": {
+						"x": 1744,
+						"y": 1773,
+						"w": 60,
+						"h": 119
+					},
+					"margin": {
+						"x": 118,
+						"y": 121,
+						"w": 260,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_022_0022.png",
+					"region": {
+						"x": 1806,
+						"y": 1773,
+						"w": 74,
+						"h": 120
+					},
+					"margin": {
+						"x": 131,
+						"y": 118,
+						"w": 246,
+						"h": 200
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_022_0003.png",
+					"region": {
+						"x": 1882,
+						"y": 1775,
+						"w": 74,
+						"h": 121
+					},
+					"margin": {
+						"x": 131,
+						"y": 118,
+						"w": 246,
+						"h": 199
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_022_0023.png",
+					"region": {
+						"x": 1958,
+						"y": 1777,
+						"w": 74,
+						"h": 121
+					},
+					"margin": {
+						"x": 131,
+						"y": 119,
+						"w": 246,
+						"h": 199
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_337_0014.png",
+					"region": {
+						"x": 1,
+						"y": 1856,
+						"w": 120,
+						"h": 119
+					},
+					"margin": {
+						"x": 126,
+						"y": 117,
+						"w": 200,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_000_0003.png",
+					"region": {
+						"x": 123,
+						"y": 1860,
+						"w": 98,
+						"h": 120
+					},
+					"margin": {
+						"x": 128,
+						"y": 117,
+						"w": 222,
+						"h": 200
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_337_0010.png",
+					"region": {
+						"x": 223,
+						"y": 1863,
+						"w": 123,
+						"h": 119
+					},
+					"margin": {
+						"x": 124,
+						"y": 117,
+						"w": 197,
+						"h": 201
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_000_0011.png",
+					"region": {
+						"x": 348,
+						"y": 1864,
+						"w": 97,
+						"h": 120
+					},
+					"margin": {
+						"x": 133,
+						"y": 119,
+						"w": 223,
+						"h": 200
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_000_0013.png",
+					"region": {
+						"x": 447,
+						"y": 1865,
+						"w": 96,
+						"h": 120
+					},
+					"margin": {
+						"x": 133,
+						"y": 119,
+						"w": 224,
+						"h": 200
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_000_0023.png",
+					"region": {
+						"x": 545,
+						"y": 1870,
+						"w": 98,
+						"h": 120
+					},
+					"margin": {
+						"x": 128,
+						"y": 118,
+						"w": 222,
+						"h": 200
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_000_0012.png",
+					"region": {
+						"x": 645,
+						"y": 1871,
+						"w": 96,
+						"h": 121
+					},
+					"margin": {
+						"x": 133,
+						"y": 119,
+						"w": 224,
+						"h": 199
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_000_0024.png",
+					"region": {
+						"x": 743,
+						"y": 1875,
+						"w": 98,
+						"h": 121
+					},
+					"margin": {
+						"x": 128,
+						"y": 119,
+						"w": 222,
+						"h": 199
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_022_0002.png",
+					"region": {
+						"x": 843,
+						"y": 1875,
+						"w": 73,
+						"h": 123
+					},
+					"margin": {
+						"x": 131,
+						"y": 119,
+						"w": 247,
+						"h": 197
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_000_0002.png",
+					"region": {
+						"x": 918,
+						"y": 1877,
+						"w": 97,
+						"h": 122
+					},
+					"margin": {
+						"x": 128,
+						"y": 118,
+						"w": 223,
+						"h": 198
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_022_0024.png",
+					"region": {
+						"x": 1017,
+						"y": 1878,
+						"w": 74,
+						"h": 122
+					},
+					"margin": {
+						"x": 131,
+						"y": 120,
+						"w": 246,
+						"h": 198
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_337_0013.png",
+					"region": {
+						"x": 1093,
+						"y": 1880,
+						"w": 121,
+						"h": 122
+					},
+					"margin": {
+						"x": 126,
+						"y": 118,
+						"w": 199,
+						"h": 198
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_337_0011.png",
+					"region": {
+						"x": 1216,
+						"y": 1881,
+						"w": 122,
+						"h": 122
+					},
+					"margin": {
+						"x": 125,
+						"y": 118,
+						"w": 198,
+						"h": 198
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_000_0001.png",
+					"region": {
+						"x": 1340,
+						"y": 1883,
+						"w": 98,
+						"h": 123
+					},
+					"margin": {
+						"x": 128,
+						"y": 119,
+						"w": 222,
+						"h": 197
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_337_0012.png",
+					"region": {
+						"x": 1440,
+						"y": 1885,
+						"w": 122,
+						"h": 122
+					},
+					"margin": {
+						"x": 125,
+						"y": 119,
+						"w": 198,
+						"h": 198
+					}
+				},
+				{
+					"filename": "Run_Armed_Body_022_0001.png",
+					"region": {
+						"x": 1564,
+						"y": 1888,
+						"w": 74,
+						"h": 123
+					},
+					"margin": {
+						"x": 131,
+						"y": 120,
+						"w": 246,
+						"h": 197
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:84e671f045afffca1eb4f5ecc78c7262:6f28ba3f50780ab8ce9a757cdf6be76f:c9afbdbb178a68d47d11a47a0e980892$"
+	}
+}

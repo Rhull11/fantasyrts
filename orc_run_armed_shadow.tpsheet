@@ -1,0 +1,5778 @@
+{
+	"textures": [
+		{
+			"image": "orc_run_armed_shadow.png",
+			"size": {
+				"w": 2044,
+				"h": 1347
+			},
+			"sprites": [
+				{
+					"filename": "Run_Armed_Shadow_135_0021.png",
+					"region": {
+						"x": 1,
+						"y": 1,
+						"w": 119,
+						"h": 36
+					},
+					"margin": {
+						"x": 75,
+						"y": 177,
+						"w": 201,
+						"h": 284
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_315_0021.png",
+					"region": {
+						"x": 122,
+						"y": 1,
+						"w": 119,
+						"h": 36
+					},
+					"margin": {
+						"x": 126,
+						"y": 189,
+						"w": 201,
+						"h": 284
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_135_0004.png",
+					"region": {
+						"x": 243,
+						"y": 1,
+						"w": 118,
+						"h": 37
+					},
+					"margin": {
+						"x": 77,
+						"y": 178,
+						"w": 202,
+						"h": 283
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_135_0005.png",
+					"region": {
+						"x": 363,
+						"y": 1,
+						"w": 119,
+						"h": 37
+					},
+					"margin": {
+						"x": 78,
+						"y": 180,
+						"w": 201,
+						"h": 283
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_135_0006.png",
+					"region": {
+						"x": 484,
+						"y": 1,
+						"w": 122,
+						"h": 37
+					},
+					"margin": {
+						"x": 77,
+						"y": 180,
+						"w": 198,
+						"h": 283
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_315_0005.png",
+					"region": {
+						"x": 608,
+						"y": 1,
+						"w": 119,
+						"h": 37
+					},
+					"margin": {
+						"x": 123,
+						"y": 185,
+						"w": 201,
+						"h": 283
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_315_0004.png",
+					"region": {
+						"x": 729,
+						"y": 1,
+						"w": 118,
+						"h": 38
+					},
+					"margin": {
+						"x": 125,
+						"y": 186,
+						"w": 202,
+						"h": 282
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_315_0006.png",
+					"region": {
+						"x": 849,
+						"y": 1,
+						"w": 122,
+						"h": 38
+					},
+					"margin": {
+						"x": 121,
+						"y": 185,
+						"w": 198,
+						"h": 282
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_135_0003.png",
+					"region": {
+						"x": 973,
+						"y": 1,
+						"w": 116,
+						"h": 40
+					},
+					"margin": {
+						"x": 77,
+						"y": 174,
+						"w": 204,
+						"h": 280
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_135_0007.png",
+					"region": {
+						"x": 1091,
+						"y": 1,
+						"w": 125,
+						"h": 40
+					},
+					"margin": {
+						"x": 75,
+						"y": 178,
+						"w": 195,
+						"h": 280
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_135_0020.png",
+					"region": {
+						"x": 1218,
+						"y": 1,
+						"w": 122,
+						"h": 40
+					},
+					"margin": {
+						"x": 74,
+						"y": 174,
+						"w": 198,
+						"h": 280
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_315_0003.png",
+					"region": {
+						"x": 1342,
+						"y": 1,
+						"w": 116,
+						"h": 40
+					},
+					"margin": {
+						"x": 127,
+						"y": 188,
+						"w": 204,
+						"h": 280
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_315_0007.png",
+					"region": {
+						"x": 1460,
+						"y": 1,
+						"w": 125,
+						"h": 40
+					},
+					"margin": {
+						"x": 120,
+						"y": 184,
+						"w": 195,
+						"h": 280
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_315_0020.png",
+					"region": {
+						"x": 1587,
+						"y": 1,
+						"w": 122,
+						"h": 40
+					},
+					"margin": {
+						"x": 124,
+						"y": 188,
+						"w": 198,
+						"h": 280
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_135_0022.png",
+					"region": {
+						"x": 1711,
+						"y": 1,
+						"w": 117,
+						"h": 41
+					},
+					"margin": {
+						"x": 76,
+						"y": 172,
+						"w": 203,
+						"h": 279
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_315_0022.png",
+					"region": {
+						"x": 1830,
+						"y": 1,
+						"w": 117,
+						"h": 41
+					},
+					"margin": {
+						"x": 127,
+						"y": 189,
+						"w": 203,
+						"h": 279
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_090_0020.png",
+					"region": {
+						"x": 1949,
+						"y": 1,
+						"w": 91,
+						"h": 69
+					},
+					"margin": {
+						"x": 102,
+						"y": 179,
+						"w": 229,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_135_0002.png",
+					"region": {
+						"x": 1,
+						"y": 39,
+						"w": 115,
+						"h": 42
+					},
+					"margin": {
+						"x": 76,
+						"y": 171,
+						"w": 205,
+						"h": 278
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_315_0002.png",
+					"region": {
+						"x": 118,
+						"y": 39,
+						"w": 115,
+						"h": 42
+					},
+					"margin": {
+						"x": 129,
+						"y": 189,
+						"w": 205,
+						"h": 278
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_135_0019.png",
+					"region": {
+						"x": 235,
+						"y": 40,
+						"w": 125,
+						"h": 43
+					},
+					"margin": {
+						"x": 73,
+						"y": 172,
+						"w": 195,
+						"h": 277
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_135_0023.png",
+					"region": {
+						"x": 362,
+						"y": 40,
+						"w": 116,
+						"h": 43
+					},
+					"margin": {
+						"x": 76,
+						"y": 171,
+						"w": 204,
+						"h": 277
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_315_0019.png",
+					"region": {
+						"x": 480,
+						"y": 40,
+						"w": 125,
+						"h": 43
+					},
+					"margin": {
+						"x": 122,
+						"y": 187,
+						"w": 195,
+						"h": 277
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_315_0023.png",
+					"region": {
+						"x": 607,
+						"y": 40,
+						"w": 116,
+						"h": 43
+					},
+					"margin": {
+						"x": 128,
+						"y": 188,
+						"w": 204,
+						"h": 277
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_135_0001.png",
+					"region": {
+						"x": 725,
+						"y": 41,
+						"w": 115,
+						"h": 44
+					},
+					"margin": {
+						"x": 76,
+						"y": 170,
+						"w": 205,
+						"h": 276
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_135_0024.png",
+					"region": {
+						"x": 842,
+						"y": 41,
+						"w": 115,
+						"h": 44
+					},
+					"margin": {
+						"x": 76,
+						"y": 170,
+						"w": 205,
+						"h": 276
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_157_0005.png",
+					"region": {
+						"x": 959,
+						"y": 43,
+						"w": 118,
+						"h": 44
+					},
+					"margin": {
+						"x": 79,
+						"y": 171,
+						"w": 202,
+						"h": 276
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_315_0001.png",
+					"region": {
+						"x": 1079,
+						"y": 43,
+						"w": 115,
+						"h": 44
+					},
+					"margin": {
+						"x": 129,
+						"y": 188,
+						"w": 205,
+						"h": 276
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_315_0024.png",
+					"region": {
+						"x": 1196,
+						"y": 43,
+						"w": 115,
+						"h": 44
+					},
+					"margin": {
+						"x": 129,
+						"y": 188,
+						"w": 205,
+						"h": 276
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_135_0008.png",
+					"region": {
+						"x": 1313,
+						"y": 43,
+						"w": 129,
+						"h": 45
+					},
+					"margin": {
+						"x": 73,
+						"y": 174,
+						"w": 191,
+						"h": 275
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_315_0008.png",
+					"region": {
+						"x": 1444,
+						"y": 43,
+						"w": 129,
+						"h": 45
+					},
+					"margin": {
+						"x": 118,
+						"y": 183,
+						"w": 191,
+						"h": 275
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_337_0005.png",
+					"region": {
+						"x": 1575,
+						"y": 43,
+						"w": 119,
+						"h": 45
+					},
+					"margin": {
+						"x": 123,
+						"y": 187,
+						"w": 201,
+						"h": 275
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_157_0006.png",
+					"region": {
+						"x": 1696,
+						"y": 44,
+						"w": 119,
+						"h": 46
+					},
+					"margin": {
+						"x": 78,
+						"y": 170,
+						"w": 201,
+						"h": 274
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_337_0006.png",
+					"region": {
+						"x": 1817,
+						"y": 44,
+						"w": 119,
+						"h": 46
+					},
+					"margin": {
+						"x": 123,
+						"y": 186,
+						"w": 201,
+						"h": 274
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_112_0003.png",
+					"region": {
+						"x": 1938,
+						"y": 72,
+						"w": 102,
+						"h": 53
+					},
+					"margin": {
+						"x": 86,
+						"y": 180,
+						"w": 218,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_337_0021.png",
+					"region": {
+						"x": 1,
+						"y": 83,
+						"w": 116,
+						"h": 46
+					},
+					"margin": {
+						"x": 125,
+						"y": 186,
+						"w": 204,
+						"h": 274
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_157_0004.png",
+					"region": {
+						"x": 119,
+						"y": 85,
+						"w": 117,
+						"h": 47
+					},
+					"margin": {
+						"x": 79,
+						"y": 168,
+						"w": 203,
+						"h": 273
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_157_0021.png",
+					"region": {
+						"x": 238,
+						"y": 85,
+						"w": 115,
+						"h": 47
+					},
+					"margin": {
+						"x": 79,
+						"y": 169,
+						"w": 205,
+						"h": 273
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_337_0004.png",
+					"region": {
+						"x": 355,
+						"y": 85,
+						"w": 117,
+						"h": 47
+					},
+					"margin": {
+						"x": 124,
+						"y": 187,
+						"w": 203,
+						"h": 273
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_135_0018.png",
+					"region": {
+						"x": 474,
+						"y": 85,
+						"w": 127,
+						"h": 48
+					},
+					"margin": {
+						"x": 72,
+						"y": 169,
+						"w": 193,
+						"h": 272
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_157_0020.png",
+					"region": {
+						"x": 603,
+						"y": 85,
+						"w": 116,
+						"h": 50
+					},
+					"margin": {
+						"x": 79,
+						"y": 170,
+						"w": 204,
+						"h": 270
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_315_0018.png",
+					"region": {
+						"x": 721,
+						"y": 87,
+						"w": 127,
+						"h": 48
+					},
+					"margin": {
+						"x": 121,
+						"y": 185,
+						"w": 193,
+						"h": 272
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_135_0009.png",
+					"region": {
+						"x": 850,
+						"y": 89,
+						"w": 131,
+						"h": 49
+					},
+					"margin": {
+						"x": 71,
+						"y": 169,
+						"w": 189,
+						"h": 271
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_157_0007.png",
+					"region": {
+						"x": 983,
+						"y": 89,
+						"w": 121,
+						"h": 49
+					},
+					"margin": {
+						"x": 76,
+						"y": 170,
+						"w": 199,
+						"h": 271
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_315_0009.png",
+					"region": {
+						"x": 1106,
+						"y": 89,
+						"w": 131,
+						"h": 49
+					},
+					"margin": {
+						"x": 118,
+						"y": 184,
+						"w": 189,
+						"h": 271
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_337_0007.png",
+					"region": {
+						"x": 1239,
+						"y": 90,
+						"w": 121,
+						"h": 49
+					},
+					"margin": {
+						"x": 123,
+						"y": 183,
+						"w": 199,
+						"h": 271
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_337_0020.png",
+					"region": {
+						"x": 1362,
+						"y": 90,
+						"w": 116,
+						"h": 50
+					},
+					"margin": {
+						"x": 125,
+						"y": 182,
+						"w": 204,
+						"h": 270
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_135_0017.png",
+					"region": {
+						"x": 1480,
+						"y": 90,
+						"w": 129,
+						"h": 51
+					},
+					"margin": {
+						"x": 71,
+						"y": 167,
+						"w": 191,
+						"h": 269
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_157_0003.png",
+					"region": {
+						"x": 1611,
+						"y": 92,
+						"w": 116,
+						"h": 51
+					},
+					"margin": {
+						"x": 79,
+						"y": 163,
+						"w": 204,
+						"h": 269
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_315_0017.png",
+					"region": {
+						"x": 1729,
+						"y": 92,
+						"w": 129,
+						"h": 51
+					},
+					"margin": {
+						"x": 120,
+						"y": 183,
+						"w": 191,
+						"h": 269
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_022_0001.png",
+					"region": {
+						"x": 1860,
+						"y": 92,
+						"w": 75,
+						"h": 72
+					},
+					"margin": {
+						"x": 130,
+						"y": 182,
+						"w": 245,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_112_0022.png",
+					"region": {
+						"x": 1937,
+						"y": 127,
+						"w": 104,
+						"h": 53
+					},
+					"margin": {
+						"x": 85,
+						"y": 180,
+						"w": 216,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_337_0003.png",
+					"region": {
+						"x": 1,
+						"y": 131,
+						"w": 116,
+						"h": 51
+					},
+					"margin": {
+						"x": 125,
+						"y": 188,
+						"w": 204,
+						"h": 269
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_112_0021.png",
+					"region": {
+						"x": 119,
+						"y": 134,
+						"w": 109,
+						"h": 53
+					},
+					"margin": {
+						"x": 84,
+						"y": 180,
+						"w": 211,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_112_0023.png",
+					"region": {
+						"x": 230,
+						"y": 134,
+						"w": 102,
+						"h": 53
+					},
+					"margin": {
+						"x": 86,
+						"y": 180,
+						"w": 218,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_135_0010.png",
+					"region": {
+						"x": 334,
+						"y": 134,
+						"w": 132,
+						"h": 53
+					},
+					"margin": {
+						"x": 70,
+						"y": 164,
+						"w": 188,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_135_0016.png",
+					"region": {
+						"x": 468,
+						"y": 135,
+						"w": 130,
+						"h": 53
+					},
+					"margin": {
+						"x": 70,
+						"y": 166,
+						"w": 190,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_157_0008.png",
+					"region": {
+						"x": 600,
+						"y": 137,
+						"w": 122,
+						"h": 53
+					},
+					"margin": {
+						"x": 75,
+						"y": 169,
+						"w": 198,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_157_0019.png",
+					"region": {
+						"x": 724,
+						"y": 137,
+						"w": 117,
+						"h": 53
+					},
+					"margin": {
+						"x": 78,
+						"y": 170,
+						"w": 203,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_292_0003.png",
+					"region": {
+						"x": 843,
+						"y": 140,
+						"w": 102,
+						"h": 53
+					},
+					"margin": {
+						"x": 132,
+						"y": 169,
+						"w": 218,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_292_0021.png",
+					"region": {
+						"x": 947,
+						"y": 140,
+						"w": 109,
+						"h": 53
+					},
+					"margin": {
+						"x": 127,
+						"y": 169,
+						"w": 211,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_292_0022.png",
+					"region": {
+						"x": 1058,
+						"y": 140,
+						"w": 104,
+						"h": 53
+					},
+					"margin": {
+						"x": 131,
+						"y": 169,
+						"w": 216,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_292_0023.png",
+					"region": {
+						"x": 1164,
+						"y": 141,
+						"w": 102,
+						"h": 53
+					},
+					"margin": {
+						"x": 132,
+						"y": 169,
+						"w": 218,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_315_0010.png",
+					"region": {
+						"x": 1268,
+						"y": 142,
+						"w": 132,
+						"h": 53
+					},
+					"margin": {
+						"x": 118,
+						"y": 185,
+						"w": 188,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_337_0019.png",
+					"region": {
+						"x": 1402,
+						"y": 143,
+						"w": 117,
+						"h": 53
+					},
+					"margin": {
+						"x": 125,
+						"y": 179,
+						"w": 203,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_112_0002.png",
+					"region": {
+						"x": 1521,
+						"y": 145,
+						"w": 101,
+						"h": 54
+					},
+					"margin": {
+						"x": 85,
+						"y": 179,
+						"w": 219,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_112_0020.png",
+					"region": {
+						"x": 1624,
+						"y": 145,
+						"w": 114,
+						"h": 54
+					},
+					"margin": {
+						"x": 83,
+						"y": 178,
+						"w": 206,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_112_0024.png",
+					"region": {
+						"x": 1740,
+						"y": 145,
+						"w": 101,
+						"h": 54
+					},
+					"margin": {
+						"x": 86,
+						"y": 179,
+						"w": 219,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_270_0020.png",
+					"region": {
+						"x": 1843,
+						"y": 166,
+						"w": 91,
+						"h": 69
+					},
+					"margin": {
+						"x": 127,
+						"y": 154,
+						"w": 229,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_292_0002.png",
+					"region": {
+						"x": 1936,
+						"y": 182,
+						"w": 101,
+						"h": 54
+					},
+					"margin": {
+						"x": 134,
+						"y": 169,
+						"w": 219,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_157_0002.png",
+					"region": {
+						"x": 1,
+						"y": 184,
+						"w": 114,
+						"h": 54
+					},
+					"margin": {
+						"x": 80,
+						"y": 159,
+						"w": 206,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_157_0022.png",
+					"region": {
+						"x": 117,
+						"y": 189,
+						"w": 115,
+						"h": 54
+					},
+					"margin": {
+						"x": 79,
+						"y": 162,
+						"w": 205,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_157_0023.png",
+					"region": {
+						"x": 234,
+						"y": 189,
+						"w": 115,
+						"h": 54
+					},
+					"margin": {
+						"x": 79,
+						"y": 161,
+						"w": 205,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_157_0024.png",
+					"region": {
+						"x": 351,
+						"y": 189,
+						"w": 115,
+						"h": 54
+					},
+					"margin": {
+						"x": 79,
+						"y": 160,
+						"w": 205,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_292_0020.png",
+					"region": {
+						"x": 468,
+						"y": 190,
+						"w": 114,
+						"h": 54
+					},
+					"margin": {
+						"x": 123,
+						"y": 170,
+						"w": 206,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_292_0024.png",
+					"region": {
+						"x": 584,
+						"y": 192,
+						"w": 101,
+						"h": 54
+					},
+					"margin": {
+						"x": 133,
+						"y": 169,
+						"w": 219,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_315_0016.png",
+					"region": {
+						"x": 687,
+						"y": 192,
+						"w": 130,
+						"h": 54
+					},
+					"margin": {
+						"x": 120,
+						"y": 182,
+						"w": 190,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_337_0002.png",
+					"region": {
+						"x": 819,
+						"y": 195,
+						"w": 114,
+						"h": 54
+					},
+					"margin": {
+						"x": 126,
+						"y": 189,
+						"w": 206,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_337_0008.png",
+					"region": {
+						"x": 935,
+						"y": 195,
+						"w": 122,
+						"h": 54
+					},
+					"margin": {
+						"x": 123,
+						"y": 179,
+						"w": 198,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_112_0001.png",
+					"region": {
+						"x": 1059,
+						"y": 195,
+						"w": 99,
+						"h": 55
+					},
+					"margin": {
+						"x": 86,
+						"y": 179,
+						"w": 221,
+						"h": 265
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_112_0004.png",
+					"region": {
+						"x": 1160,
+						"y": 196,
+						"w": 103,
+						"h": 55
+					},
+					"margin": {
+						"x": 88,
+						"y": 180,
+						"w": 217,
+						"h": 265
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_337_0022.png",
+					"region": {
+						"x": 1265,
+						"y": 197,
+						"w": 115,
+						"h": 54
+					},
+					"margin": {
+						"x": 126,
+						"y": 186,
+						"w": 205,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_337_0023.png",
+					"region": {
+						"x": 1382,
+						"y": 198,
+						"w": 115,
+						"h": 54
+					},
+					"margin": {
+						"x": 126,
+						"y": 187,
+						"w": 205,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_337_0024.png",
+					"region": {
+						"x": 1499,
+						"y": 201,
+						"w": 115,
+						"h": 54
+					},
+					"margin": {
+						"x": 126,
+						"y": 188,
+						"w": 205,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_112_0006.png",
+					"region": {
+						"x": 1616,
+						"y": 201,
+						"w": 110,
+						"h": 55
+					},
+					"margin": {
+						"x": 88,
+						"y": 181,
+						"w": 210,
+						"h": 265
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_292_0001.png",
+					"region": {
+						"x": 1728,
+						"y": 201,
+						"w": 99,
+						"h": 55
+					},
+					"margin": {
+						"x": 135,
+						"y": 168,
+						"w": 221,
+						"h": 265
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_292_0004.png",
+					"region": {
+						"x": 1829,
+						"y": 237,
+						"w": 103,
+						"h": 55
+					},
+					"margin": {
+						"x": 129,
+						"y": 167,
+						"w": 217,
+						"h": 265
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_112_0005.png",
+					"region": {
+						"x": 1934,
+						"y": 238,
+						"w": 105,
+						"h": 56
+					},
+					"margin": {
+						"x": 89,
+						"y": 180,
+						"w": 215,
+						"h": 264
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_157_0001.png",
+					"region": {
+						"x": 1,
+						"y": 240,
+						"w": 114,
+						"h": 55
+					},
+					"margin": {
+						"x": 79,
+						"y": 158,
+						"w": 206,
+						"h": 265
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_157_0018.png",
+					"region": {
+						"x": 117,
+						"y": 245,
+						"w": 117,
+						"h": 55
+					},
+					"margin": {
+						"x": 78,
+						"y": 170,
+						"w": 203,
+						"h": 265
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_292_0006.png",
+					"region": {
+						"x": 236,
+						"y": 245,
+						"w": 110,
+						"h": 55
+					},
+					"margin": {
+						"x": 122,
+						"y": 166,
+						"w": 210,
+						"h": 265
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_337_0001.png",
+					"region": {
+						"x": 348,
+						"y": 245,
+						"w": 114,
+						"h": 55
+					},
+					"margin": {
+						"x": 127,
+						"y": 189,
+						"w": 206,
+						"h": 265
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_337_0018.png",
+					"region": {
+						"x": 464,
+						"y": 246,
+						"w": 117,
+						"h": 55
+					},
+					"margin": {
+						"x": 125,
+						"y": 177,
+						"w": 203,
+						"h": 265
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_112_0007.png",
+					"region": {
+						"x": 583,
+						"y": 248,
+						"w": 115,
+						"h": 56
+					},
+					"margin": {
+						"x": 86,
+						"y": 180,
+						"w": 205,
+						"h": 264
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_292_0005.png",
+					"region": {
+						"x": 700,
+						"y": 248,
+						"w": 106,
+						"h": 56
+					},
+					"margin": {
+						"x": 125,
+						"y": 166,
+						"w": 214,
+						"h": 264
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_112_0019.png",
+					"region": {
+						"x": 808,
+						"y": 251,
+						"w": 119,
+						"h": 56
+					},
+					"margin": {
+						"x": 81,
+						"y": 175,
+						"w": 201,
+						"h": 264
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_292_0007.png",
+					"region": {
+						"x": 929,
+						"y": 251,
+						"w": 115,
+						"h": 56
+					},
+					"margin": {
+						"x": 119,
+						"y": 166,
+						"w": 205,
+						"h": 264
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_000_0005.png",
+					"region": {
+						"x": 1046,
+						"y": 252,
+						"w": 101,
+						"h": 57
+					},
+					"margin": {
+						"x": 128,
+						"y": 181,
+						"w": 219,
+						"h": 263
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_292_0019.png",
+					"region": {
+						"x": 1149,
+						"y": 253,
+						"w": 119,
+						"h": 56
+					},
+					"margin": {
+						"x": 120,
+						"y": 170,
+						"w": 201,
+						"h": 264
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_180_0005.png",
+					"region": {
+						"x": 1270,
+						"y": 253,
+						"w": 101,
+						"h": 57
+					},
+					"margin": {
+						"x": 91,
+						"y": 164,
+						"w": 219,
+						"h": 263
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_112_0008.png",
+					"region": {
+						"x": 1373,
+						"y": 254,
+						"w": 119,
+						"h": 57
+					},
+					"margin": {
+						"x": 84,
+						"y": 178,
+						"w": 201,
+						"h": 263
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_292_0008.png",
+					"region": {
+						"x": 1494,
+						"y": 257,
+						"w": 119,
+						"h": 57
+					},
+					"margin": {
+						"x": 117,
+						"y": 167,
+						"w": 201,
+						"h": 263
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_112_0018.png",
+					"region": {
+						"x": 1615,
+						"y": 258,
+						"w": 122,
+						"h": 57
+					},
+					"margin": {
+						"x": 80,
+						"y": 174,
+						"w": 198,
+						"h": 263
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_090_0003.png",
+					"region": {
+						"x": 1739,
+						"y": 258,
+						"w": 85,
+						"h": 70
+					},
+					"margin": {
+						"x": 96,
+						"y": 178,
+						"w": 235,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_000_0004.png",
+					"region": {
+						"x": 1826,
+						"y": 294,
+						"w": 99,
+						"h": 58
+					},
+					"margin": {
+						"x": 128,
+						"y": 184,
+						"w": 221,
+						"h": 262
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_180_0004.png",
+					"region": {
+						"x": 1927,
+						"y": 296,
+						"w": 99,
+						"h": 58
+					},
+					"margin": {
+						"x": 93,
+						"y": 160,
+						"w": 221,
+						"h": 262
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_000_0006.png",
+					"region": {
+						"x": 1,
+						"y": 297,
+						"w": 100,
+						"h": 60
+					},
+					"margin": {
+						"x": 129,
+						"y": 178,
+						"w": 220,
+						"h": 260
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_135_0015.png",
+					"region": {
+						"x": 103,
+						"y": 302,
+						"w": 131,
+						"h": 57
+					},
+					"margin": {
+						"x": 69,
+						"y": 163,
+						"w": 189,
+						"h": 263
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_292_0018.png",
+					"region": {
+						"x": 236,
+						"y": 302,
+						"w": 122,
+						"h": 57
+					},
+					"margin": {
+						"x": 118,
+						"y": 171,
+						"w": 198,
+						"h": 263
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_315_0015.png",
+					"region": {
+						"x": 360,
+						"y": 303,
+						"w": 131,
+						"h": 57
+					},
+					"margin": {
+						"x": 120,
+						"y": 182,
+						"w": 189,
+						"h": 263
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_112_0009.png",
+					"region": {
+						"x": 493,
+						"y": 306,
+						"w": 124,
+						"h": 59
+					},
+					"margin": {
+						"x": 81,
+						"y": 176,
+						"w": 196,
+						"h": 261
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_112_0010.png",
+					"region": {
+						"x": 619,
+						"y": 306,
+						"w": 127,
+						"h": 59
+					},
+					"margin": {
+						"x": 79,
+						"y": 175,
+						"w": 193,
+						"h": 261
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_112_0015.png",
+					"region": {
+						"x": 748,
+						"y": 309,
+						"w": 128,
+						"h": 59
+					},
+					"margin": {
+						"x": 77,
+						"y": 172,
+						"w": 192,
+						"h": 261
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_112_0016.png",
+					"region": {
+						"x": 878,
+						"y": 309,
+						"w": 127,
+						"h": 59
+					},
+					"margin": {
+						"x": 78,
+						"y": 172,
+						"w": 193,
+						"h": 261
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_112_0017.png",
+					"region": {
+						"x": 1007,
+						"y": 311,
+						"w": 125,
+						"h": 59
+					},
+					"margin": {
+						"x": 79,
+						"y": 172,
+						"w": 195,
+						"h": 261
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_292_0009.png",
+					"region": {
+						"x": 1134,
+						"y": 311,
+						"w": 124,
+						"h": 59
+					},
+					"margin": {
+						"x": 115,
+						"y": 167,
+						"w": 196,
+						"h": 261
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_180_0006.png",
+					"region": {
+						"x": 1260,
+						"y": 312,
+						"w": 100,
+						"h": 60
+					},
+					"margin": {
+						"x": 91,
+						"y": 164,
+						"w": 220,
+						"h": 260
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_292_0010.png",
+					"region": {
+						"x": 1362,
+						"y": 313,
+						"w": 126,
+						"h": 59
+					},
+					"margin": {
+						"x": 114,
+						"y": 168,
+						"w": 194,
+						"h": 261
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_337_0017.png",
+					"region": {
+						"x": 1490,
+						"y": 316,
+						"w": 118,
+						"h": 59
+					},
+					"margin": {
+						"x": 125,
+						"y": 175,
+						"w": 202,
+						"h": 261
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_292_0016.png",
+					"region": {
+						"x": 1610,
+						"y": 317,
+						"w": 127,
+						"h": 59
+					},
+					"margin": {
+						"x": 115,
+						"y": 171,
+						"w": 193,
+						"h": 261
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_090_0021.png",
+					"region": {
+						"x": 1739,
+						"y": 330,
+						"w": 84,
+						"h": 70
+					},
+					"margin": {
+						"x": 104,
+						"y": 178,
+						"w": 236,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_000_0003.png",
+					"region": {
+						"x": 1825,
+						"y": 354,
+						"w": 98,
+						"h": 61
+					},
+					"margin": {
+						"x": 128,
+						"y": 186,
+						"w": 222,
+						"h": 259
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_157_0017.png",
+					"region": {
+						"x": 1925,
+						"y": 356,
+						"w": 118,
+						"h": 60
+					},
+					"margin": {
+						"x": 77,
+						"y": 167,
+						"w": 202,
+						"h": 260
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_000_0021.png",
+					"region": {
+						"x": 1,
+						"y": 359,
+						"w": 97,
+						"h": 61
+					},
+					"margin": {
+						"x": 129,
+						"y": 180,
+						"w": 223,
+						"h": 259
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_292_0017.png",
+					"region": {
+						"x": 100,
+						"y": 361,
+						"w": 125,
+						"h": 59
+					},
+					"margin": {
+						"x": 116,
+						"y": 171,
+						"w": 195,
+						"h": 261
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_292_0015.png",
+					"region": {
+						"x": 227,
+						"y": 361,
+						"w": 128,
+						"h": 60
+					},
+					"margin": {
+						"x": 115,
+						"y": 170,
+						"w": 192,
+						"h": 260
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_112_0014.png",
+					"region": {
+						"x": 357,
+						"y": 362,
+						"w": 130,
+						"h": 61
+					},
+					"margin": {
+						"x": 76,
+						"y": 171,
+						"w": 190,
+						"h": 259
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_135_0011.png",
+					"region": {
+						"x": 489,
+						"y": 367,
+						"w": 133,
+						"h": 61
+					},
+					"margin": {
+						"x": 69,
+						"y": 158,
+						"w": 187,
+						"h": 259
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_180_0003.png",
+					"region": {
+						"x": 624,
+						"y": 367,
+						"w": 98,
+						"h": 61
+					},
+					"margin": {
+						"x": 94,
+						"y": 155,
+						"w": 222,
+						"h": 259
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_135_0014.png",
+					"region": {
+						"x": 724,
+						"y": 370,
+						"w": 131,
+						"h": 61
+					},
+					"margin": {
+						"x": 69,
+						"y": 159,
+						"w": 189,
+						"h": 259
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_180_0021.png",
+					"region": {
+						"x": 857,
+						"y": 370,
+						"w": 97,
+						"h": 61
+					},
+					"margin": {
+						"x": 94,
+						"y": 161,
+						"w": 223,
+						"h": 259
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_292_0014.png",
+					"region": {
+						"x": 956,
+						"y": 372,
+						"w": 130,
+						"h": 61
+					},
+					"margin": {
+						"x": 114,
+						"y": 170,
+						"w": 190,
+						"h": 259
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_315_0011.png",
+					"region": {
+						"x": 1088,
+						"y": 372,
+						"w": 133,
+						"h": 61
+					},
+					"margin": {
+						"x": 118,
+						"y": 183,
+						"w": 187,
+						"h": 259
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_315_0014.png",
+					"region": {
+						"x": 1223,
+						"y": 374,
+						"w": 131,
+						"h": 61
+					},
+					"margin": {
+						"x": 120,
+						"y": 182,
+						"w": 189,
+						"h": 259
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_000_0022.png",
+					"region": {
+						"x": 1356,
+						"y": 374,
+						"w": 98,
+						"h": 62
+					},
+					"margin": {
+						"x": 128,
+						"y": 183,
+						"w": 222,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_157_0009.png",
+					"region": {
+						"x": 1456,
+						"y": 377,
+						"w": 122,
+						"h": 62
+					},
+					"margin": {
+						"x": 74,
+						"y": 163,
+						"w": 198,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_180_0022.png",
+					"region": {
+						"x": 1580,
+						"y": 378,
+						"w": 98,
+						"h": 62
+					},
+					"margin": {
+						"x": 94,
+						"y": 157,
+						"w": 222,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_045_0002.png",
+					"region": {
+						"x": 1680,
+						"y": 378,
+						"w": 57,
+						"h": 83
+					},
+					"margin": {
+						"x": 119,
+						"y": 178,
+						"w": 263,
+						"h": 237
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_270_0021.png",
+					"region": {
+						"x": 1739,
+						"y": 402,
+						"w": 84,
+						"h": 70
+					},
+					"margin": {
+						"x": 132,
+						"y": 154,
+						"w": 236,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_000_0023.png",
+					"region": {
+						"x": 1825,
+						"y": 417,
+						"w": 98,
+						"h": 63
+					},
+					"margin": {
+						"x": 128,
+						"y": 184,
+						"w": 222,
+						"h": 257
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_180_0007.png",
+					"region": {
+						"x": 1925,
+						"y": 418,
+						"w": 100,
+						"h": 63
+					},
+					"margin": {
+						"x": 90,
+						"y": 163,
+						"w": 220,
+						"h": 257
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_337_0009.png",
+					"region": {
+						"x": 1,
+						"y": 422,
+						"w": 122,
+						"h": 62
+					},
+					"margin": {
+						"x": 124,
+						"y": 177,
+						"w": 198,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_180_0023.png",
+					"region": {
+						"x": 125,
+						"y": 422,
+						"w": 98,
+						"h": 63
+					},
+					"margin": {
+						"x": 94,
+						"y": 155,
+						"w": 222,
+						"h": 257
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_112_0013.png",
+					"region": {
+						"x": 225,
+						"y": 423,
+						"w": 130,
+						"h": 63
+					},
+					"margin": {
+						"x": 76,
+						"y": 169,
+						"w": 190,
+						"h": 257
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_000_0007.png",
+					"region": {
+						"x": 357,
+						"y": 425,
+						"w": 100,
+						"h": 64
+					},
+					"margin": {
+						"x": 130,
+						"y": 175,
+						"w": 220,
+						"h": 256
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_112_0011.png",
+					"region": {
+						"x": 459,
+						"y": 430,
+						"w": 129,
+						"h": 64
+					},
+					"margin": {
+						"x": 78,
+						"y": 170,
+						"w": 191,
+						"h": 256
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_112_0012.png",
+					"region": {
+						"x": 590,
+						"y": 430,
+						"w": 130,
+						"h": 64
+					},
+					"margin": {
+						"x": 77,
+						"y": 169,
+						"w": 190,
+						"h": 256
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_135_0012.png",
+					"region": {
+						"x": 722,
+						"y": 433,
+						"w": 133,
+						"h": 64
+					},
+					"margin": {
+						"x": 68,
+						"y": 155,
+						"w": 187,
+						"h": 256
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_000_0002.png",
+					"region": {
+						"x": 857,
+						"y": 433,
+						"w": 97,
+						"h": 65
+					},
+					"margin": {
+						"x": 128,
+						"y": 186,
+						"w": 223,
+						"h": 255
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_135_0013.png",
+					"region": {
+						"x": 956,
+						"y": 435,
+						"w": 133,
+						"h": 64
+					},
+					"margin": {
+						"x": 68,
+						"y": 156,
+						"w": 187,
+						"h": 256
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_157_0016.png",
+					"region": {
+						"x": 1091,
+						"y": 435,
+						"w": 119,
+						"h": 64
+					},
+					"margin": {
+						"x": 76,
+						"y": 164,
+						"w": 201,
+						"h": 256
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_292_0011.png",
+					"region": {
+						"x": 1212,
+						"y": 437,
+						"w": 129,
+						"h": 64
+					},
+					"margin": {
+						"x": 113,
+						"y": 168,
+						"w": 191,
+						"h": 256
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_000_0020.png",
+					"region": {
+						"x": 1343,
+						"y": 438,
+						"w": 97,
+						"h": 65
+					},
+					"margin": {
+						"x": 129,
+						"y": 177,
+						"w": 223,
+						"h": 255
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_292_0012.png",
+					"region": {
+						"x": 1442,
+						"y": 441,
+						"w": 130,
+						"h": 64
+					},
+					"margin": {
+						"x": 113,
+						"y": 169,
+						"w": 190,
+						"h": 256
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_000_0024.png",
+					"region": {
+						"x": 1574,
+						"y": 442,
+						"w": 98,
+						"h": 65
+					},
+					"margin": {
+						"x": 128,
+						"y": 184,
+						"w": 222,
+						"h": 255
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_292_0013.png",
+					"region": {
+						"x": 1674,
+						"y": 474,
+						"w": 130,
+						"h": 64
+					},
+					"margin": {
+						"x": 114,
+						"y": 169,
+						"w": 190,
+						"h": 256
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_180_0002.png",
+					"region": {
+						"x": 1806,
+						"y": 482,
+						"w": 97,
+						"h": 65
+					},
+					"margin": {
+						"x": 95,
+						"y": 151,
+						"w": 223,
+						"h": 255
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_315_0013.png",
+					"region": {
+						"x": 1905,
+						"y": 483,
+						"w": 133,
+						"h": 64
+					},
+					"margin": {
+						"x": 119,
+						"y": 182,
+						"w": 187,
+						"h": 256
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_337_0016.png",
+					"region": {
+						"x": 1,
+						"y": 486,
+						"w": 119,
+						"h": 64
+					},
+					"margin": {
+						"x": 125,
+						"y": 174,
+						"w": 201,
+						"h": 256
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_180_0020.png",
+					"region": {
+						"x": 122,
+						"y": 487,
+						"w": 97,
+						"h": 65
+					},
+					"margin": {
+						"x": 94,
+						"y": 160,
+						"w": 223,
+						"h": 255
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_180_0024.png",
+					"region": {
+						"x": 221,
+						"y": 488,
+						"w": 98,
+						"h": 65
+					},
+					"margin": {
+						"x": 94,
+						"y": 153,
+						"w": 222,
+						"h": 255
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_315_0012.png",
+					"region": {
+						"x": 321,
+						"y": 491,
+						"w": 133,
+						"h": 65
+					},
+					"margin": {
+						"x": 119,
+						"y": 182,
+						"w": 187,
+						"h": 255
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_000_0001.png",
+					"region": {
+						"x": 456,
+						"y": 496,
+						"w": 98,
+						"h": 67
+					},
+					"margin": {
+						"x": 128,
+						"y": 185,
+						"w": 222,
+						"h": 253
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_000_0008.png",
+					"region": {
+						"x": 556,
+						"y": 496,
+						"w": 99,
+						"h": 67
+					},
+					"margin": {
+						"x": 131,
+						"y": 173,
+						"w": 221,
+						"h": 253
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_180_0001.png",
+					"region": {
+						"x": 657,
+						"y": 499,
+						"w": 98,
+						"h": 67
+					},
+					"margin": {
+						"x": 94,
+						"y": 150,
+						"w": 222,
+						"h": 253
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_180_0008.png",
+					"region": {
+						"x": 757,
+						"y": 500,
+						"w": 99,
+						"h": 67
+					},
+					"margin": {
+						"x": 90,
+						"y": 162,
+						"w": 221,
+						"h": 253
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_000_0019.png",
+					"region": {
+						"x": 858,
+						"y": 500,
+						"w": 95,
+						"h": 69
+					},
+					"margin": {
+						"x": 130,
+						"y": 174,
+						"w": 225,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_090_0015.png",
+					"region": {
+						"x": 955,
+						"y": 501,
+						"w": 108,
+						"h": 68
+					},
+					"margin": {
+						"x": 97,
+						"y": 181,
+						"w": 212,
+						"h": 252
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_090_0016.png",
+					"region": {
+						"x": 1065,
+						"y": 501,
+						"w": 107,
+						"h": 68
+					},
+					"margin": {
+						"x": 97,
+						"y": 181,
+						"w": 213,
+						"h": 252
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_090_0017.png",
+					"region": {
+						"x": 1174,
+						"y": 503,
+						"w": 104,
+						"h": 68
+					},
+					"margin": {
+						"x": 98,
+						"y": 180,
+						"w": 216,
+						"h": 252
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_090_0018.png",
+					"region": {
+						"x": 1280,
+						"y": 505,
+						"w": 102,
+						"h": 68
+					},
+					"margin": {
+						"x": 99,
+						"y": 180,
+						"w": 218,
+						"h": 252
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_157_0010.png",
+					"region": {
+						"x": 1384,
+						"y": 507,
+						"w": 122,
+						"h": 68
+					},
+					"margin": {
+						"x": 74,
+						"y": 159,
+						"w": 198,
+						"h": 252
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_270_0013.png",
+					"region": {
+						"x": 1508,
+						"y": 509,
+						"w": 117,
+						"h": 68
+					},
+					"margin": {
+						"x": 114,
+						"y": 152,
+						"w": 203,
+						"h": 252
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_270_0015.png",
+					"region": {
+						"x": 1627,
+						"y": 540,
+						"w": 108,
+						"h": 68
+					},
+					"margin": {
+						"x": 115,
+						"y": 153,
+						"w": 212,
+						"h": 252
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_270_0016.png",
+					"region": {
+						"x": 1737,
+						"y": 549,
+						"w": 107,
+						"h": 68
+					},
+					"margin": {
+						"x": 116,
+						"y": 153,
+						"w": 213,
+						"h": 252
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_270_0017.png",
+					"region": {
+						"x": 1846,
+						"y": 549,
+						"w": 104,
+						"h": 68
+					},
+					"margin": {
+						"x": 118,
+						"y": 154,
+						"w": 216,
+						"h": 252
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_090_0002.png",
+					"region": {
+						"x": 1952,
+						"y": 549,
+						"w": 90,
+						"h": 70
+					},
+					"margin": {
+						"x": 91,
+						"y": 178,
+						"w": 230,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_270_0018.png",
+					"region": {
+						"x": 1,
+						"y": 552,
+						"w": 102,
+						"h": 68
+					},
+					"margin": {
+						"x": 119,
+						"y": 154,
+						"w": 218,
+						"h": 252
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_090_0014.png",
+					"region": {
+						"x": 105,
+						"y": 554,
+						"w": 111,
+						"h": 69
+					},
+					"margin": {
+						"x": 94,
+						"y": 181,
+						"w": 209,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_090_0019.png",
+					"region": {
+						"x": 218,
+						"y": 555,
+						"w": 97,
+						"h": 69
+					},
+					"margin": {
+						"x": 101,
+						"y": 179,
+						"w": 223,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_337_0010.png",
+					"region": {
+						"x": 317,
+						"y": 558,
+						"w": 122,
+						"h": 68
+					},
+					"margin": {
+						"x": 124,
+						"y": 175,
+						"w": 198,
+						"h": 252
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_090_0013.png",
+					"region": {
+						"x": 441,
+						"y": 565,
+						"w": 117,
+						"h": 69
+					},
+					"margin": {
+						"x": 89,
+						"y": 181,
+						"w": 203,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_180_0019.png",
+					"region": {
+						"x": 560,
+						"y": 565,
+						"w": 95,
+						"h": 69
+					},
+					"margin": {
+						"x": 95,
+						"y": 159,
+						"w": 225,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_270_0019.png",
+					"region": {
+						"x": 657,
+						"y": 568,
+						"w": 97,
+						"h": 69
+					},
+					"margin": {
+						"x": 122,
+						"y": 154,
+						"w": 223,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_090_0001.png",
+					"region": {
+						"x": 756,
+						"y": 569,
+						"w": 92,
+						"h": 70
+					},
+					"margin": {
+						"x": 89,
+						"y": 178,
+						"w": 228,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_270_0012.png",
+					"region": {
+						"x": 850,
+						"y": 571,
+						"w": 119,
+						"h": 69
+					},
+					"margin": {
+						"x": 114,
+						"y": 151,
+						"w": 201,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_270_0014.png",
+					"region": {
+						"x": 971,
+						"y": 571,
+						"w": 112,
+						"h": 69
+					},
+					"margin": {
+						"x": 114,
+						"y": 152,
+						"w": 208,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_090_0022.png",
+					"region": {
+						"x": 1085,
+						"y": 571,
+						"w": 86,
+						"h": 70
+					},
+					"margin": {
+						"x": 99,
+						"y": 178,
+						"w": 234,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_090_0010.png",
+					"region": {
+						"x": 1173,
+						"y": 573,
+						"w": 104,
+						"h": 70
+					},
+					"margin": {
+						"x": 100,
+						"y": 181,
+						"w": 216,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_090_0023.png",
+					"region": {
+						"x": 1279,
+						"y": 575,
+						"w": 89,
+						"h": 70
+					},
+					"margin": {
+						"x": 95,
+						"y": 178,
+						"w": 231,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_090_0011.png",
+					"region": {
+						"x": 1370,
+						"y": 577,
+						"w": 113,
+						"h": 70
+					},
+					"margin": {
+						"x": 92,
+						"y": 181,
+						"w": 207,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_090_0012.png",
+					"region": {
+						"x": 1485,
+						"y": 579,
+						"w": 119,
+						"h": 70
+					},
+					"margin": {
+						"x": 87,
+						"y": 181,
+						"w": 201,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_090_0024.png",
+					"region": {
+						"x": 1606,
+						"y": 610,
+						"w": 91,
+						"h": 70
+					},
+					"margin": {
+						"x": 92,
+						"y": 178,
+						"w": 229,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_270_0001.png",
+					"region": {
+						"x": 1699,
+						"y": 619,
+						"w": 92,
+						"h": 70
+					},
+					"margin": {
+						"x": 139,
+						"y": 154,
+						"w": 228,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_270_0002.png",
+					"region": {
+						"x": 1793,
+						"y": 619,
+						"w": 90,
+						"h": 70
+					},
+					"margin": {
+						"x": 139,
+						"y": 154,
+						"w": 230,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_270_0003.png",
+					"region": {
+						"x": 1885,
+						"y": 621,
+						"w": 85,
+						"h": 70
+					},
+					"margin": {
+						"x": 139,
+						"y": 154,
+						"w": 235,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_270_0009.png",
+					"region": {
+						"x": 1,
+						"y": 622,
+						"w": 99,
+						"h": 70
+					},
+					"margin": {
+						"x": 118,
+						"y": 151,
+						"w": 221,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_270_0010.png",
+					"region": {
+						"x": 102,
+						"y": 625,
+						"w": 104,
+						"h": 70
+					},
+					"margin": {
+						"x": 116,
+						"y": 151,
+						"w": 216,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_270_0022.png",
+					"region": {
+						"x": 208,
+						"y": 626,
+						"w": 86,
+						"h": 70
+					},
+					"margin": {
+						"x": 135,
+						"y": 154,
+						"w": 234,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_270_0011.png",
+					"region": {
+						"x": 296,
+						"y": 628,
+						"w": 113,
+						"h": 70
+					},
+					"margin": {
+						"x": 115,
+						"y": 151,
+						"w": 207,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_045_0001.png",
+					"region": {
+						"x": 1972,
+						"y": 621,
+						"w": 61,
+						"h": 82
+					},
+					"margin": {
+						"x": 117,
+						"y": 179,
+						"w": 259,
+						"h": 238
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_270_0023.png",
+					"region": {
+						"x": 411,
+						"y": 636,
+						"w": 89,
+						"h": 70
+					},
+					"margin": {
+						"x": 136,
+						"y": 154,
+						"w": 231,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_270_0024.png",
+					"region": {
+						"x": 502,
+						"y": 636,
+						"w": 91,
+						"h": 70
+					},
+					"margin": {
+						"x": 137,
+						"y": 154,
+						"w": 229,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_000_0009.png",
+					"region": {
+						"x": 595,
+						"y": 639,
+						"w": 98,
+						"h": 71
+					},
+					"margin": {
+						"x": 132,
+						"y": 171,
+						"w": 222,
+						"h": 249
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_090_0004.png",
+					"region": {
+						"x": 695,
+						"y": 641,
+						"w": 81,
+						"h": 71
+					},
+					"margin": {
+						"x": 103,
+						"y": 178,
+						"w": 239,
+						"h": 249
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_090_0008.png",
+					"region": {
+						"x": 778,
+						"y": 642,
+						"w": 94,
+						"h": 71
+					},
+					"margin": {
+						"x": 105,
+						"y": 180,
+						"w": 226,
+						"h": 249
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_090_0009.png",
+					"region": {
+						"x": 874,
+						"y": 642,
+						"w": 99,
+						"h": 71
+					},
+					"margin": {
+						"x": 103,
+						"y": 180,
+						"w": 221,
+						"h": 249
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_180_0009.png",
+					"region": {
+						"x": 975,
+						"y": 642,
+						"w": 98,
+						"h": 71
+					},
+					"margin": {
+						"x": 90,
+						"y": 160,
+						"w": 222,
+						"h": 249
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_270_0004.png",
+					"region": {
+						"x": 1075,
+						"y": 643,
+						"w": 81,
+						"h": 71
+					},
+					"margin": {
+						"x": 136,
+						"y": 153,
+						"w": 239,
+						"h": 249
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_157_0015.png",
+					"region": {
+						"x": 1158,
+						"y": 645,
+						"w": 119,
+						"h": 71
+					},
+					"margin": {
+						"x": 75,
+						"y": 158,
+						"w": 201,
+						"h": 249
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_270_0007.png",
+					"region": {
+						"x": 1279,
+						"y": 647,
+						"w": 88,
+						"h": 71
+					},
+					"margin": {
+						"x": 125,
+						"y": 151,
+						"w": 232,
+						"h": 249
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_270_0008.png",
+					"region": {
+						"x": 1369,
+						"y": 649,
+						"w": 94,
+						"h": 71
+					},
+					"margin": {
+						"x": 121,
+						"y": 151,
+						"w": 226,
+						"h": 249
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_337_0015.png",
+					"region": {
+						"x": 1465,
+						"y": 651,
+						"w": 119,
+						"h": 71
+					},
+					"margin": {
+						"x": 126,
+						"y": 173,
+						"w": 201,
+						"h": 249
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_000_0018.png",
+					"region": {
+						"x": 1586,
+						"y": 682,
+						"w": 95,
+						"h": 72
+					},
+					"margin": {
+						"x": 131,
+						"y": 172,
+						"w": 225,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_022_0002.png",
+					"region": {
+						"x": 1683,
+						"y": 691,
+						"w": 74,
+						"h": 72
+					},
+					"margin": {
+						"x": 130,
+						"y": 182,
+						"w": 246,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_022_0024.png",
+					"region": {
+						"x": 1759,
+						"y": 691,
+						"w": 75,
+						"h": 72
+					},
+					"margin": {
+						"x": 130,
+						"y": 182,
+						"w": 245,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_090_0005.png",
+					"region": {
+						"x": 1836,
+						"y": 693,
+						"w": 79,
+						"h": 72
+					},
+					"margin": {
+						"x": 108,
+						"y": 178,
+						"w": 241,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_090_0006.png",
+					"region": {
+						"x": 1,
+						"y": 694,
+						"w": 83,
+						"h": 72
+					},
+					"margin": {
+						"x": 108,
+						"y": 179,
+						"w": 237,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_090_0007.png",
+					"region": {
+						"x": 86,
+						"y": 697,
+						"w": 88,
+						"h": 72
+					},
+					"margin": {
+						"x": 107,
+						"y": 179,
+						"w": 232,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_180_0018.png",
+					"region": {
+						"x": 176,
+						"y": 698,
+						"w": 95,
+						"h": 72
+					},
+					"margin": {
+						"x": 94,
+						"y": 158,
+						"w": 225,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_202_0001.png",
+					"region": {
+						"x": 273,
+						"y": 700,
+						"w": 75,
+						"h": 72
+					},
+					"margin": {
+						"x": 115,
+						"y": 148,
+						"w": 245,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_045_0004.png",
+					"region": {
+						"x": 1917,
+						"y": 693,
+						"w": 51,
+						"h": 84
+					},
+					"margin": {
+						"x": 129,
+						"y": 176,
+						"w": 269,
+						"h": 236
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_202_0024.png",
+					"region": {
+						"x": 350,
+						"y": 708,
+						"w": 75,
+						"h": 72
+					},
+					"margin": {
+						"x": 115,
+						"y": 148,
+						"w": 245,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_270_0005.png",
+					"region": {
+						"x": 427,
+						"y": 708,
+						"w": 79,
+						"h": 72
+					},
+					"margin": {
+						"x": 133,
+						"y": 152,
+						"w": 241,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_270_0006.png",
+					"region": {
+						"x": 508,
+						"y": 708,
+						"w": 83,
+						"h": 72
+					},
+					"margin": {
+						"x": 129,
+						"y": 151,
+						"w": 237,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_022_0021.png",
+					"region": {
+						"x": 1970,
+						"y": 705,
+						"w": 73,
+						"h": 78
+					},
+					"margin": {
+						"x": 131,
+						"y": 177,
+						"w": 247,
+						"h": 242
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_022_0023.png",
+					"region": {
+						"x": 593,
+						"y": 712,
+						"w": 74,
+						"h": 73
+					},
+					"margin": {
+						"x": 131,
+						"y": 181,
+						"w": 246,
+						"h": 247
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_202_0002.png",
+					"region": {
+						"x": 669,
+						"y": 714,
+						"w": 74,
+						"h": 73
+					},
+					"margin": {
+						"x": 116,
+						"y": 147,
+						"w": 246,
+						"h": 247
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_202_0003.png",
+					"region": {
+						"x": 745,
+						"y": 715,
+						"w": 74,
+						"h": 73
+					},
+					"margin": {
+						"x": 115,
+						"y": 148,
+						"w": 246,
+						"h": 247
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_202_0023.png",
+					"region": {
+						"x": 821,
+						"y": 715,
+						"w": 74,
+						"h": 73
+					},
+					"margin": {
+						"x": 115,
+						"y": 148,
+						"w": 246,
+						"h": 247
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_022_0003.png",
+					"region": {
+						"x": 897,
+						"y": 715,
+						"w": 74,
+						"h": 74
+					},
+					"margin": {
+						"x": 131,
+						"y": 180,
+						"w": 246,
+						"h": 246
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_022_0004.png",
+					"region": {
+						"x": 973,
+						"y": 715,
+						"w": 76,
+						"h": 74
+					},
+					"margin": {
+						"x": 131,
+						"y": 179,
+						"w": 244,
+						"h": 246
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_000_0010.png",
+					"region": {
+						"x": 1051,
+						"y": 716,
+						"w": 98,
+						"h": 75
+					},
+					"margin": {
+						"x": 132,
+						"y": 169,
+						"w": 222,
+						"h": 245
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_000_0017.png",
+					"region": {
+						"x": 1151,
+						"y": 718,
+						"w": 94,
+						"h": 75
+					},
+					"margin": {
+						"x": 132,
+						"y": 170,
+						"w": 226,
+						"h": 245
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_022_0022.png",
+					"region": {
+						"x": 1247,
+						"y": 720,
+						"w": 74,
+						"h": 75
+					},
+					"margin": {
+						"x": 131,
+						"y": 180,
+						"w": 246,
+						"h": 245
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_180_0010.png",
+					"region": {
+						"x": 1323,
+						"y": 722,
+						"w": 97,
+						"h": 75
+					},
+					"margin": {
+						"x": 90,
+						"y": 158,
+						"w": 223,
+						"h": 245
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_180_0017.png",
+					"region": {
+						"x": 1422,
+						"y": 724,
+						"w": 95,
+						"h": 75
+					},
+					"margin": {
+						"x": 94,
+						"y": 157,
+						"w": 225,
+						"h": 245
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_225_0001.png",
+					"region": {
+						"x": 1519,
+						"y": 724,
+						"w": 61,
+						"h": 82
+					},
+					"margin": {
+						"x": 142,
+						"y": 141,
+						"w": 259,
+						"h": 238
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_202_0004.png",
+					"region": {
+						"x": 1582,
+						"y": 756,
+						"w": 76,
+						"h": 75
+					},
+					"margin": {
+						"x": 113,
+						"y": 149,
+						"w": 244,
+						"h": 245
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_202_0022.png",
+					"region": {
+						"x": 1660,
+						"y": 765,
+						"w": 74,
+						"h": 75
+					},
+					"margin": {
+						"x": 115,
+						"y": 147,
+						"w": 246,
+						"h": 245
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_022_0005.png",
+					"region": {
+						"x": 1736,
+						"y": 765,
+						"w": 77,
+						"h": 76
+					},
+					"margin": {
+						"x": 132,
+						"y": 176,
+						"w": 243,
+						"h": 244
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_180_0016.png",
+					"region": {
+						"x": 1815,
+						"y": 767,
+						"w": 94,
+						"h": 76
+					},
+					"margin": {
+						"x": 94,
+						"y": 156,
+						"w": 226,
+						"h": 244
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_202_0005.png",
+					"region": {
+						"x": 1,
+						"y": 768,
+						"w": 77,
+						"h": 76
+					},
+					"margin": {
+						"x": 111,
+						"y": 150,
+						"w": 243,
+						"h": 244
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_000_0015.png",
+					"region": {
+						"x": 80,
+						"y": 771,
+						"w": 94,
+						"h": 77
+					},
+					"margin": {
+						"x": 133,
+						"y": 169,
+						"w": 226,
+						"h": 243
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_000_0016.png",
+					"region": {
+						"x": 176,
+						"y": 772,
+						"w": 94,
+						"h": 77
+					},
+					"margin": {
+						"x": 132,
+						"y": 169,
+						"w": 226,
+						"h": 243
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_202_0021.png",
+					"region": {
+						"x": 272,
+						"y": 774,
+						"w": 73,
+						"h": 78
+					},
+					"margin": {
+						"x": 116,
+						"y": 147,
+						"w": 247,
+						"h": 242
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_157_0014.png",
+					"region": {
+						"x": 347,
+						"y": 782,
+						"w": 120,
+						"h": 76
+					},
+					"margin": {
+						"x": 74,
+						"y": 153,
+						"w": 200,
+						"h": 244
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_337_0014.png",
+					"region": {
+						"x": 469,
+						"y": 782,
+						"w": 120,
+						"h": 76
+					},
+					"margin": {
+						"x": 126,
+						"y": 173,
+						"w": 200,
+						"h": 244
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_157_0011.png",
+					"region": {
+						"x": 1911,
+						"y": 785,
+						"w": 122,
+						"h": 77
+					},
+					"margin": {
+						"x": 73,
+						"y": 151,
+						"w": 198,
+						"h": 243
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_180_0015.png",
+					"region": {
+						"x": 591,
+						"y": 789,
+						"w": 94,
+						"h": 77
+					},
+					"margin": {
+						"x": 93,
+						"y": 156,
+						"w": 226,
+						"h": 243
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_337_0011.png",
+					"region": {
+						"x": 687,
+						"y": 790,
+						"w": 122,
+						"h": 77
+					},
+					"margin": {
+						"x": 125,
+						"y": 174,
+						"w": 198,
+						"h": 243
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_022_0006.png",
+					"region": {
+						"x": 811,
+						"y": 790,
+						"w": 77,
+						"h": 78
+					},
+					"margin": {
+						"x": 132,
+						"y": 174,
+						"w": 243,
+						"h": 242
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_202_0006.png",
+					"region": {
+						"x": 890,
+						"y": 791,
+						"w": 77,
+						"h": 78
+					},
+					"margin": {
+						"x": 111,
+						"y": 150,
+						"w": 243,
+						"h": 242
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_337_0013.png",
+					"region": {
+						"x": 969,
+						"y": 793,
+						"w": 121,
+						"h": 79
+					},
+					"margin": {
+						"x": 126,
+						"y": 173,
+						"w": 199,
+						"h": 241
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_000_0014.png",
+					"region": {
+						"x": 1092,
+						"y": 795,
+						"w": 95,
+						"h": 80
+					},
+					"margin": {
+						"x": 133,
+						"y": 168,
+						"w": 225,
+						"h": 240
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_157_0013.png",
+					"region": {
+						"x": 1189,
+						"y": 797,
+						"w": 120,
+						"h": 80
+					},
+					"margin": {
+						"x": 74,
+						"y": 149,
+						"w": 200,
+						"h": 240
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_180_0014.png",
+					"region": {
+						"x": 1311,
+						"y": 799,
+						"w": 95,
+						"h": 80
+					},
+					"margin": {
+						"x": 92,
+						"y": 154,
+						"w": 225,
+						"h": 240
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_000_0011.png",
+					"region": {
+						"x": 1408,
+						"y": 801,
+						"w": 97,
+						"h": 81
+					},
+					"margin": {
+						"x": 133,
+						"y": 168,
+						"w": 223,
+						"h": 239
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_067_0003.png",
+					"region": {
+						"x": 1507,
+						"y": 808,
+						"w": 70,
+						"h": 82
+					},
+					"margin": {
+						"x": 107,
+						"y": 176,
+						"w": 250,
+						"h": 238
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_022_0007.png",
+					"region": {
+						"x": 1579,
+						"y": 833,
+						"w": 77,
+						"h": 82
+					},
+					"margin": {
+						"x": 131,
+						"y": 172,
+						"w": 243,
+						"h": 238
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_022_0020.png",
+					"region": {
+						"x": 1658,
+						"y": 842,
+						"w": 75,
+						"h": 82
+					},
+					"margin": {
+						"x": 128,
+						"y": 174,
+						"w": 245,
+						"h": 238
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_067_0001.png",
+					"region": {
+						"x": 1735,
+						"y": 843,
+						"w": 77,
+						"h": 82
+					},
+					"margin": {
+						"x": 100,
+						"y": 177,
+						"w": 243,
+						"h": 238
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_067_0002.png",
+					"region": {
+						"x": 1814,
+						"y": 845,
+						"w": 74,
+						"h": 82
+					},
+					"margin": {
+						"x": 102,
+						"y": 176,
+						"w": 246,
+						"h": 238
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_067_0023.png",
+					"region": {
+						"x": 1,
+						"y": 846,
+						"w": 74,
+						"h": 82
+					},
+					"margin": {
+						"x": 105,
+						"y": 177,
+						"w": 246,
+						"h": 238
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_180_0011.png",
+					"region": {
+						"x": 77,
+						"y": 850,
+						"w": 97,
+						"h": 81
+					},
+					"margin": {
+						"x": 90,
+						"y": 152,
+						"w": 223,
+						"h": 239
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_067_0024.png",
+					"region": {
+						"x": 176,
+						"y": 851,
+						"w": 75,
+						"h": 82
+					},
+					"margin": {
+						"x": 103,
+						"y": 177,
+						"w": 245,
+						"h": 238
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_202_0007.png",
+					"region": {
+						"x": 253,
+						"y": 854,
+						"w": 77,
+						"h": 82
+					},
+					"margin": {
+						"x": 112,
+						"y": 148,
+						"w": 243,
+						"h": 238
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_157_0012.png",
+					"region": {
+						"x": 332,
+						"y": 860,
+						"w": 122,
+						"h": 81
+					},
+					"margin": {
+						"x": 73,
+						"y": 148,
+						"w": 198,
+						"h": 239
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_337_0012.png",
+					"region": {
+						"x": 456,
+						"y": 860,
+						"w": 122,
+						"h": 81
+					},
+					"margin": {
+						"x": 125,
+						"y": 173,
+						"w": 198,
+						"h": 239
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_202_0020.png",
+					"region": {
+						"x": 1890,
+						"y": 864,
+						"w": 75,
+						"h": 82
+					},
+					"margin": {
+						"x": 117,
+						"y": 146,
+						"w": 245,
+						"h": 238
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_247_0002.png",
+					"region": {
+						"x": 1967,
+						"y": 864,
+						"w": 74,
+						"h": 82
+					},
+					"margin": {
+						"x": 144,
+						"y": 144,
+						"w": 246,
+						"h": 238
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_247_0001.png",
+					"region": {
+						"x": 580,
+						"y": 868,
+						"w": 77,
+						"h": 82
+					},
+					"margin": {
+						"x": 143,
+						"y": 143,
+						"w": 243,
+						"h": 238
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_247_0003.png",
+					"region": {
+						"x": 659,
+						"y": 869,
+						"w": 70,
+						"h": 82
+					},
+					"margin": {
+						"x": 143,
+						"y": 144,
+						"w": 250,
+						"h": 238
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_247_0023.png",
+					"region": {
+						"x": 731,
+						"y": 869,
+						"w": 75,
+						"h": 82
+					},
+					"margin": {
+						"x": 141,
+						"y": 143,
+						"w": 245,
+						"h": 238
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_247_0024.png",
+					"region": {
+						"x": 808,
+						"y": 870,
+						"w": 75,
+						"h": 82
+					},
+					"margin": {
+						"x": 142,
+						"y": 143,
+						"w": 245,
+						"h": 238
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_045_0023.png",
+					"region": {
+						"x": 885,
+						"y": 871,
+						"w": 59,
+						"h": 83
+					},
+					"margin": {
+						"x": 118,
+						"y": 178,
+						"w": 261,
+						"h": 237
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_045_0024.png",
+					"region": {
+						"x": 946,
+						"y": 874,
+						"w": 59,
+						"h": 83
+					},
+					"margin": {
+						"x": 118,
+						"y": 178,
+						"w": 261,
+						"h": 237
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_067_0019.png",
+					"region": {
+						"x": 1007,
+						"y": 874,
+						"w": 73,
+						"h": 83
+					},
+					"margin": {
+						"x": 117,
+						"y": 176,
+						"w": 247,
+						"h": 237
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_067_0020.png",
+					"region": {
+						"x": 1082,
+						"y": 877,
+						"w": 68,
+						"h": 83
+					},
+					"margin": {
+						"x": 117,
+						"y": 176,
+						"w": 252,
+						"h": 237
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_067_0021.png",
+					"region": {
+						"x": 1152,
+						"y": 879,
+						"w": 65,
+						"h": 83
+					},
+					"margin": {
+						"x": 116,
+						"y": 176,
+						"w": 255,
+						"h": 237
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_067_0022.png",
+					"region": {
+						"x": 1219,
+						"y": 879,
+						"w": 74,
+						"h": 83
+					},
+					"margin": {
+						"x": 106,
+						"y": 176,
+						"w": 246,
+						"h": 237
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_225_0002.png",
+					"region": {
+						"x": 1295,
+						"y": 881,
+						"w": 57,
+						"h": 83
+					},
+					"margin": {
+						"x": 144,
+						"y": 141,
+						"w": 263,
+						"h": 237
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_225_0004.png",
+					"region": {
+						"x": 1354,
+						"y": 881,
+						"w": 51,
+						"h": 84
+					},
+					"margin": {
+						"x": 140,
+						"y": 142,
+						"w": 269,
+						"h": 236
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_225_0023.png",
+					"region": {
+						"x": 1407,
+						"y": 884,
+						"w": 59,
+						"h": 83
+					},
+					"margin": {
+						"x": 143,
+						"y": 141,
+						"w": 261,
+						"h": 237
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_225_0024.png",
+					"region": {
+						"x": 1468,
+						"y": 892,
+						"w": 59,
+						"h": 83
+					},
+					"margin": {
+						"x": 143,
+						"y": 141,
+						"w": 261,
+						"h": 237
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_247_0019.png",
+					"region": {
+						"x": 1529,
+						"y": 917,
+						"w": 73,
+						"h": 83
+					},
+					"margin": {
+						"x": 130,
+						"y": 143,
+						"w": 247,
+						"h": 237
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_045_0005.png",
+					"region": {
+						"x": 1604,
+						"y": 917,
+						"w": 51,
+						"h": 86
+					},
+					"margin": {
+						"x": 131,
+						"y": 174,
+						"w": 269,
+						"h": 234
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_247_0020.png",
+					"region": {
+						"x": 1657,
+						"y": 926,
+						"w": 68,
+						"h": 83
+					},
+					"margin": {
+						"x": 135,
+						"y": 143,
+						"w": 252,
+						"h": 237
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_247_0021.png",
+					"region": {
+						"x": 1727,
+						"y": 927,
+						"w": 65,
+						"h": 83
+					},
+					"margin": {
+						"x": 139,
+						"y": 143,
+						"w": 255,
+						"h": 237
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_247_0022.png",
+					"region": {
+						"x": 1794,
+						"y": 929,
+						"w": 74,
+						"h": 83
+					},
+					"margin": {
+						"x": 140,
+						"y": 143,
+						"w": 246,
+						"h": 237
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_045_0003.png",
+					"region": {
+						"x": 1,
+						"y": 930,
+						"w": 54,
+						"h": 84
+					},
+					"margin": {
+						"x": 123,
+						"y": 177,
+						"w": 266,
+						"h": 236
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_000_0013.png",
+					"region": {
+						"x": 57,
+						"y": 933,
+						"w": 96,
+						"h": 84
+					},
+					"margin": {
+						"x": 133,
+						"y": 168,
+						"w": 224,
+						"h": 236
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_045_0022.png",
+					"region": {
+						"x": 155,
+						"y": 935,
+						"w": 57,
+						"h": 84
+					},
+					"margin": {
+						"x": 120,
+						"y": 177,
+						"w": 263,
+						"h": 236
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_067_0004.png",
+					"region": {
+						"x": 214,
+						"y": 938,
+						"w": 64,
+						"h": 84
+					},
+					"margin": {
+						"x": 114,
+						"y": 175,
+						"w": 256,
+						"h": 236
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_045_0021.png",
+					"region": {
+						"x": 280,
+						"y": 938,
+						"w": 50,
+						"h": 86
+					},
+					"margin": {
+						"x": 127,
+						"y": 176,
+						"w": 270,
+						"h": 234
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_067_0017.png",
+					"region": {
+						"x": 332,
+						"y": 943,
+						"w": 83,
+						"h": 84
+					},
+					"margin": {
+						"x": 113,
+						"y": 176,
+						"w": 237,
+						"h": 236
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_067_0018.png",
+					"region": {
+						"x": 417,
+						"y": 943,
+						"w": 77,
+						"h": 84
+					},
+					"margin": {
+						"x": 116,
+						"y": 176,
+						"w": 243,
+						"h": 236
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_225_0003.png",
+					"region": {
+						"x": 496,
+						"y": 943,
+						"w": 54,
+						"h": 84
+					},
+					"margin": {
+						"x": 143,
+						"y": 141,
+						"w": 266,
+						"h": 236
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_180_0013.png",
+					"region": {
+						"x": 1870,
+						"y": 948,
+						"w": 96,
+						"h": 84
+					},
+					"margin": {
+						"x": 91,
+						"y": 150,
+						"w": 224,
+						"h": 236
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_225_0022.png",
+					"region": {
+						"x": 1968,
+						"y": 948,
+						"w": 57,
+						"h": 84
+					},
+					"margin": {
+						"x": 143,
+						"y": 141,
+						"w": 263,
+						"h": 236
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_247_0004.png",
+					"region": {
+						"x": 552,
+						"y": 952,
+						"w": 64,
+						"h": 84
+					},
+					"margin": {
+						"x": 142,
+						"y": 143,
+						"w": 256,
+						"h": 236
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_247_0005.png",
+					"region": {
+						"x": 618,
+						"y": 953,
+						"w": 62,
+						"h": 84
+					},
+					"margin": {
+						"x": 140,
+						"y": 143,
+						"w": 258,
+						"h": 236
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_247_0017.png",
+					"region": {
+						"x": 682,
+						"y": 953,
+						"w": 83,
+						"h": 84
+					},
+					"margin": {
+						"x": 124,
+						"y": 142,
+						"w": 237,
+						"h": 236
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_247_0018.png",
+					"region": {
+						"x": 767,
+						"y": 954,
+						"w": 78,
+						"h": 84
+					},
+					"margin": {
+						"x": 126,
+						"y": 142,
+						"w": 242,
+						"h": 236
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_000_0012.png",
+					"region": {
+						"x": 847,
+						"y": 956,
+						"w": 96,
+						"h": 85
+					},
+					"margin": {
+						"x": 133,
+						"y": 168,
+						"w": 224,
+						"h": 235
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_022_0019.png",
+					"region": {
+						"x": 945,
+						"y": 959,
+						"w": 77,
+						"h": 85
+					},
+					"margin": {
+						"x": 125,
+						"y": 172,
+						"w": 243,
+						"h": 235
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_225_0005.png",
+					"region": {
+						"x": 1024,
+						"y": 959,
+						"w": 51,
+						"h": 86
+					},
+					"margin": {
+						"x": 138,
+						"y": 142,
+						"w": 269,
+						"h": 234
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_067_0005.png",
+					"region": {
+						"x": 1077,
+						"y": 962,
+						"w": 62,
+						"h": 85
+					},
+					"margin": {
+						"x": 118,
+						"y": 174,
+						"w": 258,
+						"h": 235
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_067_0016.png",
+					"region": {
+						"x": 1141,
+						"y": 964,
+						"w": 89,
+						"h": 85
+					},
+					"margin": {
+						"x": 108,
+						"y": 176,
+						"w": 231,
+						"h": 235
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_225_0021.png",
+					"region": {
+						"x": 1232,
+						"y": 964,
+						"w": 50,
+						"h": 86
+					},
+					"margin": {
+						"x": 143,
+						"y": 140,
+						"w": 270,
+						"h": 234
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_067_0006.png",
+					"region": {
+						"x": 1284,
+						"y": 966,
+						"w": 63,
+						"h": 86
+					},
+					"margin": {
+						"x": 118,
+						"y": 174,
+						"w": 257,
+						"h": 234
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_045_0006.png",
+					"region": {
+						"x": 1349,
+						"y": 967,
+						"w": 51,
+						"h": 87
+					},
+					"margin": {
+						"x": 131,
+						"y": 173,
+						"w": 269,
+						"h": 233
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_247_0006.png",
+					"region": {
+						"x": 1402,
+						"y": 969,
+						"w": 63,
+						"h": 86
+					},
+					"margin": {
+						"x": 139,
+						"y": 142,
+						"w": 257,
+						"h": 234
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_045_0020.png",
+					"region": {
+						"x": 1467,
+						"y": 977,
+						"w": 55,
+						"h": 87
+					},
+					"margin": {
+						"x": 123,
+						"y": 175,
+						"w": 265,
+						"h": 233
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_202_0019.png",
+					"region": {
+						"x": 1524,
+						"y": 1002,
+						"w": 77,
+						"h": 85
+					},
+					"margin": {
+						"x": 118,
+						"y": 145,
+						"w": 243,
+						"h": 235
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_225_0006.png",
+					"region": {
+						"x": 1603,
+						"y": 1005,
+						"w": 51,
+						"h": 88
+					},
+					"margin": {
+						"x": 138,
+						"y": 141,
+						"w": 269,
+						"h": 232
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_180_0012.png",
+					"region": {
+						"x": 1656,
+						"y": 1012,
+						"w": 96,
+						"h": 85
+					},
+					"margin": {
+						"x": 91,
+						"y": 149,
+						"w": 224,
+						"h": 235
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_247_0016.png",
+					"region": {
+						"x": 1754,
+						"y": 1014,
+						"w": 89,
+						"h": 85
+					},
+					"margin": {
+						"x": 123,
+						"y": 141,
+						"w": 231,
+						"h": 235
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_022_0008.png",
+					"region": {
+						"x": 1,
+						"y": 1019,
+						"w": 80,
+						"h": 86
+					},
+					"margin": {
+						"x": 128,
+						"y": 170,
+						"w": 240,
+						"h": 234
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_067_0007.png",
+					"region": {
+						"x": 83,
+						"y": 1019,
+						"w": 68,
+						"h": 87
+					},
+					"margin": {
+						"x": 117,
+						"y": 174,
+						"w": 252,
+						"h": 233
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_225_0020.png",
+					"region": {
+						"x": 153,
+						"y": 1021,
+						"w": 55,
+						"h": 87
+					},
+					"margin": {
+						"x": 142,
+						"y": 140,
+						"w": 265,
+						"h": 233
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_247_0007.png",
+					"region": {
+						"x": 210,
+						"y": 1024,
+						"w": 68,
+						"h": 87
+					},
+					"margin": {
+						"x": 135,
+						"y": 141,
+						"w": 252,
+						"h": 233
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_067_0014.png",
+					"region": {
+						"x": 280,
+						"y": 1029,
+						"w": 106,
+						"h": 86
+					},
+					"margin": {
+						"x": 93,
+						"y": 176,
+						"w": 214,
+						"h": 234
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_067_0015.png",
+					"region": {
+						"x": 388,
+						"y": 1029,
+						"w": 98,
+						"h": 86
+					},
+					"margin": {
+						"x": 100,
+						"y": 176,
+						"w": 222,
+						"h": 234
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_045_0019.png",
+					"region": {
+						"x": 488,
+						"y": 1029,
+						"w": 60,
+						"h": 89
+					},
+					"margin": {
+						"x": 119,
+						"y": 174,
+						"w": 260,
+						"h": 231
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_202_0008.png",
+					"region": {
+						"x": 1845,
+						"y": 1034,
+						"w": 80,
+						"h": 86
+					},
+					"margin": {
+						"x": 112,
+						"y": 146,
+						"w": 240,
+						"h": 234
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_247_0008.png",
+					"region": {
+						"x": 1927,
+						"y": 1034,
+						"w": 74,
+						"h": 86
+					},
+					"margin": {
+						"x": 130,
+						"y": 141,
+						"w": 246,
+						"h": 234
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_247_0014.png",
+					"region": {
+						"x": 550,
+						"y": 1039,
+						"w": 106,
+						"h": 86
+					},
+					"margin": {
+						"x": 121,
+						"y": 140,
+						"w": 214,
+						"h": 234
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_247_0015.png",
+					"region": {
+						"x": 658,
+						"y": 1039,
+						"w": 98,
+						"h": 86
+					},
+					"margin": {
+						"x": 122,
+						"y": 140,
+						"w": 222,
+						"h": 234
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_022_0018.png",
+					"region": {
+						"x": 758,
+						"y": 1040,
+						"w": 80,
+						"h": 87
+					},
+					"margin": {
+						"x": 122,
+						"y": 171,
+						"w": 240,
+						"h": 233
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_067_0008.png",
+					"region": {
+						"x": 840,
+						"y": 1043,
+						"w": 74,
+						"h": 87
+					},
+					"margin": {
+						"x": 116,
+						"y": 174,
+						"w": 246,
+						"h": 233
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_067_0009.png",
+					"region": {
+						"x": 916,
+						"y": 1046,
+						"w": 86,
+						"h": 87
+					},
+					"margin": {
+						"x": 107,
+						"y": 175,
+						"w": 234,
+						"h": 233
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_067_0011.png",
+					"region": {
+						"x": 1004,
+						"y": 1049,
+						"w": 106,
+						"h": 87
+					},
+					"margin": {
+						"x": 91,
+						"y": 176,
+						"w": 214,
+						"h": 233
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_067_0012.png",
+					"region": {
+						"x": 1112,
+						"y": 1051,
+						"w": 112,
+						"h": 87
+					},
+					"margin": {
+						"x": 86,
+						"y": 176,
+						"w": 208,
+						"h": 233
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_067_0013.png",
+					"region": {
+						"x": 1226,
+						"y": 1054,
+						"w": 111,
+						"h": 87
+					},
+					"margin": {
+						"x": 88,
+						"y": 176,
+						"w": 209,
+						"h": 233
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_202_0018.png",
+					"region": {
+						"x": 1339,
+						"y": 1057,
+						"w": 80,
+						"h": 87
+					},
+					"margin": {
+						"x": 118,
+						"y": 144,
+						"w": 240,
+						"h": 233
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_247_0009.png",
+					"region": {
+						"x": 1421,
+						"y": 1066,
+						"w": 86,
+						"h": 87
+					},
+					"margin": {
+						"x": 127,
+						"y": 140,
+						"w": 234,
+						"h": 233
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_022_0009.png",
+					"region": {
+						"x": 1509,
+						"y": 1089,
+						"w": 82,
+						"h": 88
+					},
+					"margin": {
+						"x": 125,
+						"y": 169,
+						"w": 238,
+						"h": 232
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_225_0019.png",
+					"region": {
+						"x": 1593,
+						"y": 1095,
+						"w": 60,
+						"h": 89
+					},
+					"margin": {
+						"x": 141,
+						"y": 139,
+						"w": 260,
+						"h": 231
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_067_0010.png",
+					"region": {
+						"x": 1655,
+						"y": 1099,
+						"w": 95,
+						"h": 88
+					},
+					"margin": {
+						"x": 101,
+						"y": 175,
+						"w": 225,
+						"h": 232
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_202_0009.png",
+					"region": {
+						"x": 1752,
+						"y": 1101,
+						"w": 82,
+						"h": 88
+					},
+					"margin": {
+						"x": 113,
+						"y": 145,
+						"w": 238,
+						"h": 232
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_247_0011.png",
+					"region": {
+						"x": 1,
+						"y": 1108,
+						"w": 106,
+						"h": 87
+					},
+					"margin": {
+						"x": 123,
+						"y": 139,
+						"w": 214,
+						"h": 233
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_247_0010.png",
+					"region": {
+						"x": 109,
+						"y": 1110,
+						"w": 95,
+						"h": 88
+					},
+					"margin": {
+						"x": 124,
+						"y": 139,
+						"w": 225,
+						"h": 232
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_045_0007.png",
+					"region": {
+						"x": 206,
+						"y": 1113,
+						"w": 54,
+						"h": 90
+					},
+					"margin": {
+						"x": 129,
+						"y": 172,
+						"w": 266,
+						"h": 230
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_247_0012.png",
+					"region": {
+						"x": 262,
+						"y": 1117,
+						"w": 112,
+						"h": 87
+					},
+					"margin": {
+						"x": 122,
+						"y": 139,
+						"w": 208,
+						"h": 233
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_022_0017.png",
+					"region": {
+						"x": 376,
+						"y": 1117,
+						"w": 82,
+						"h": 89
+					},
+					"margin": {
+						"x": 120,
+						"y": 170,
+						"w": 238,
+						"h": 231
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_202_0017.png",
+					"region": {
+						"x": 460,
+						"y": 1120,
+						"w": 82,
+						"h": 89
+					},
+					"margin": {
+						"x": 118,
+						"y": 143,
+						"w": 238,
+						"h": 231
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_247_0013.png",
+					"region": {
+						"x": 1836,
+						"y": 1122,
+						"w": 111,
+						"h": 87
+					},
+					"margin": {
+						"x": 121,
+						"y": 139,
+						"w": 209,
+						"h": 233
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_022_0010.png",
+					"region": {
+						"x": 1949,
+						"y": 1122,
+						"w": 82,
+						"h": 90
+					},
+					"margin": {
+						"x": 124,
+						"y": 168,
+						"w": 238,
+						"h": 230
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_202_0010.png",
+					"region": {
+						"x": 544,
+						"y": 1127,
+						"w": 82,
+						"h": 90
+					},
+					"margin": {
+						"x": 114,
+						"y": 144,
+						"w": 238,
+						"h": 230
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_225_0007.png",
+					"region": {
+						"x": 628,
+						"y": 1127,
+						"w": 54,
+						"h": 90
+					},
+					"margin": {
+						"x": 137,
+						"y": 140,
+						"w": 266,
+						"h": 230
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_045_0018.png",
+					"region": {
+						"x": 684,
+						"y": 1127,
+						"w": 66,
+						"h": 91
+					},
+					"margin": {
+						"x": 116,
+						"y": 173,
+						"w": 254,
+						"h": 229
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_022_0016.png",
+					"region": {
+						"x": 752,
+						"y": 1129,
+						"w": 83,
+						"h": 91
+					},
+					"margin": {
+						"x": 119,
+						"y": 169,
+						"w": 237,
+						"h": 229
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_225_0018.png",
+					"region": {
+						"x": 837,
+						"y": 1132,
+						"w": 66,
+						"h": 91
+					},
+					"margin": {
+						"x": 138,
+						"y": 138,
+						"w": 254,
+						"h": 229
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_202_0016.png",
+					"region": {
+						"x": 905,
+						"y": 1135,
+						"w": 83,
+						"h": 91
+					},
+					"margin": {
+						"x": 118,
+						"y": 142,
+						"w": 237,
+						"h": 229
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_022_0015.png",
+					"region": {
+						"x": 990,
+						"y": 1138,
+						"w": 83,
+						"h": 92
+					},
+					"margin": {
+						"x": 119,
+						"y": 168,
+						"w": 237,
+						"h": 228
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_045_0008.png",
+					"region": {
+						"x": 1075,
+						"y": 1140,
+						"w": 61,
+						"h": 92
+					},
+					"margin": {
+						"x": 123,
+						"y": 171,
+						"w": 259,
+						"h": 228
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_045_0017.png",
+					"region": {
+						"x": 1138,
+						"y": 1140,
+						"w": 71,
+						"h": 92
+					},
+					"margin": {
+						"x": 113,
+						"y": 172,
+						"w": 249,
+						"h": 228
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_202_0015.png",
+					"region": {
+						"x": 1211,
+						"y": 1143,
+						"w": 83,
+						"h": 92
+					},
+					"margin": {
+						"x": 118,
+						"y": 142,
+						"w": 237,
+						"h": 228
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_225_0008.png",
+					"region": {
+						"x": 1296,
+						"y": 1146,
+						"w": 61,
+						"h": 92
+					},
+					"margin": {
+						"x": 136,
+						"y": 139,
+						"w": 259,
+						"h": 228
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_225_0017.png",
+					"region": {
+						"x": 1359,
+						"y": 1155,
+						"w": 71,
+						"h": 92
+					},
+					"margin": {
+						"x": 136,
+						"y": 138,
+						"w": 249,
+						"h": 228
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_045_0009.png",
+					"region": {
+						"x": 1432,
+						"y": 1155,
+						"w": 68,
+						"h": 93
+					},
+					"margin": {
+						"x": 115,
+						"y": 171,
+						"w": 252,
+						"h": 227
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_022_0011.png",
+					"region": {
+						"x": 1502,
+						"y": 1179,
+						"w": 89,
+						"h": 93
+					},
+					"margin": {
+						"x": 117,
+						"y": 167,
+						"w": 231,
+						"h": 227
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_022_0012.png",
+					"region": {
+						"x": 1593,
+						"y": 1189,
+						"w": 90,
+						"h": 93
+					},
+					"margin": {
+						"x": 115,
+						"y": 167,
+						"w": 230,
+						"h": 227
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_022_0013.png",
+					"region": {
+						"x": 1685,
+						"y": 1191,
+						"w": 88,
+						"h": 93
+					},
+					"margin": {
+						"x": 116,
+						"y": 168,
+						"w": 232,
+						"h": 227
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_022_0014.png",
+					"region": {
+						"x": 1,
+						"y": 1197,
+						"w": 85,
+						"h": 93
+					},
+					"margin": {
+						"x": 118,
+						"y": 168,
+						"w": 235,
+						"h": 227
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_045_0016.png",
+					"region": {
+						"x": 88,
+						"y": 1200,
+						"w": 74,
+						"h": 93
+					},
+					"margin": {
+						"x": 111,
+						"y": 172,
+						"w": 246,
+						"h": 227
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_202_0011.png",
+					"region": {
+						"x": 164,
+						"y": 1205,
+						"w": 89,
+						"h": 93
+					},
+					"margin": {
+						"x": 114,
+						"y": 142,
+						"w": 231,
+						"h": 227
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_202_0012.png",
+					"region": {
+						"x": 255,
+						"y": 1206,
+						"w": 90,
+						"h": 93
+					},
+					"margin": {
+						"x": 115,
+						"y": 142,
+						"w": 230,
+						"h": 227
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_202_0013.png",
+					"region": {
+						"x": 347,
+						"y": 1208,
+						"w": 88,
+						"h": 93
+					},
+					"margin": {
+						"x": 116,
+						"y": 141,
+						"w": 232,
+						"h": 227
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_202_0014.png",
+					"region": {
+						"x": 437,
+						"y": 1211,
+						"w": 85,
+						"h": 93
+					},
+					"margin": {
+						"x": 117,
+						"y": 141,
+						"w": 235,
+						"h": 227
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_225_0009.png",
+					"region": {
+						"x": 1775,
+						"y": 1211,
+						"w": 68,
+						"h": 93
+					},
+					"margin": {
+						"x": 137,
+						"y": 138,
+						"w": 252,
+						"h": 227
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_225_0016.png",
+					"region": {
+						"x": 1845,
+						"y": 1211,
+						"w": 74,
+						"h": 93
+					},
+					"margin": {
+						"x": 135,
+						"y": 137,
+						"w": 246,
+						"h": 227
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_045_0010.png",
+					"region": {
+						"x": 1921,
+						"y": 1214,
+						"w": 73,
+						"h": 94
+					},
+					"margin": {
+						"x": 109,
+						"y": 171,
+						"w": 247,
+						"h": 226
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_045_0014.png",
+					"region": {
+						"x": 524,
+						"y": 1219,
+						"w": 85,
+						"h": 94
+					},
+					"margin": {
+						"x": 101,
+						"y": 172,
+						"w": 235,
+						"h": 226
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_045_0015.png",
+					"region": {
+						"x": 611,
+						"y": 1220,
+						"w": 80,
+						"h": 94
+					},
+					"margin": {
+						"x": 106,
+						"y": 172,
+						"w": 240,
+						"h": 226
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_225_0010.png",
+					"region": {
+						"x": 693,
+						"y": 1222,
+						"w": 73,
+						"h": 94
+					},
+					"margin": {
+						"x": 138,
+						"y": 137,
+						"w": 247,
+						"h": 226
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_225_0014.png",
+					"region": {
+						"x": 768,
+						"y": 1225,
+						"w": 85,
+						"h": 94
+					},
+					"margin": {
+						"x": 134,
+						"y": 136,
+						"w": 235,
+						"h": 226
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_225_0015.png",
+					"region": {
+						"x": 855,
+						"y": 1228,
+						"w": 80,
+						"h": 94
+					},
+					"margin": {
+						"x": 134,
+						"y": 136,
+						"w": 240,
+						"h": 226
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_045_0011.png",
+					"region": {
+						"x": 937,
+						"y": 1232,
+						"w": 85,
+						"h": 95
+					},
+					"margin": {
+						"x": 99,
+						"y": 171,
+						"w": 235,
+						"h": 225
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_045_0012.png",
+					"region": {
+						"x": 1024,
+						"y": 1234,
+						"w": 90,
+						"h": 95
+					},
+					"margin": {
+						"x": 96,
+						"y": 171,
+						"w": 230,
+						"h": 225
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_045_0013.png",
+					"region": {
+						"x": 1116,
+						"y": 1234,
+						"w": 89,
+						"h": 95
+					},
+					"margin": {
+						"x": 97,
+						"y": 172,
+						"w": 231,
+						"h": 225
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_225_0011.png",
+					"region": {
+						"x": 1207,
+						"y": 1237,
+						"w": 85,
+						"h": 95
+					},
+					"margin": {
+						"x": 136,
+						"y": 136,
+						"w": 235,
+						"h": 225
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_225_0013.png",
+					"region": {
+						"x": 1294,
+						"y": 1249,
+						"w": 89,
+						"h": 95
+					},
+					"margin": {
+						"x": 134,
+						"y": 135,
+						"w": 231,
+						"h": 225
+					}
+				},
+				{
+					"filename": "Run_Armed_Shadow_225_0012.png",
+					"region": {
+						"x": 1385,
+						"y": 1250,
+						"w": 89,
+						"h": 96
+					},
+					"margin": {
+						"x": 135,
+						"y": 135,
+						"w": 231,
+						"h": 224
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7f54b2a22b315301981b5bcd83b6cd7b:4206176dd99ee2ffe44ca86221f53279:e7da20a5f62447c0c1e4b6f932ec61e6$"
+	}
+}

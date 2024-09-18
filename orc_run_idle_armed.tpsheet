@@ -1,0 +1,3858 @@
+{
+	"textures": [
+		{
+			"image": "orc_run_idle_armed-0.png",
+			"size": {
+				"w": 1760,
+				"h": 1185
+			},
+			"sprites": [
+				{
+					"filename": "Idle_Armed_Shadow_000_0001.png",
+					"region": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 49
+					},
+					"margin": {
+						"x": 121,
+						"y": 187,
+						"w": 210,
+						"h": 271
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_000_0016.png",
+					"region": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 49
+					},
+					"margin": {
+						"x": 121,
+						"y": 187,
+						"w": 210,
+						"h": 271
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_000_0002.png",
+					"region": {
+						"x": 110,
+						"y": 0,
+						"w": 108,
+						"h": 49
+					},
+					"margin": {
+						"x": 122,
+						"y": 187,
+						"w": 212,
+						"h": 271
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_000_0003.png",
+					"region": {
+						"x": 220,
+						"y": 0,
+						"w": 108,
+						"h": 49
+					},
+					"margin": {
+						"x": 122,
+						"y": 187,
+						"w": 212,
+						"h": 271
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_000_0004.png",
+					"region": {
+						"x": 330,
+						"y": 0,
+						"w": 106,
+						"h": 50
+					},
+					"margin": {
+						"x": 123,
+						"y": 186,
+						"w": 214,
+						"h": 270
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_000_0005.png",
+					"region": {
+						"x": 440,
+						"y": 0,
+						"w": 106,
+						"h": 49
+					},
+					"margin": {
+						"x": 123,
+						"y": 186,
+						"w": 214,
+						"h": 271
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_000_0006.png",
+					"region": {
+						"x": 550,
+						"y": 0,
+						"w": 104,
+						"h": 48
+					},
+					"margin": {
+						"x": 124,
+						"y": 186,
+						"w": 216,
+						"h": 272
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_000_0007.png",
+					"region": {
+						"x": 660,
+						"y": 0,
+						"w": 103,
+						"h": 47
+					},
+					"margin": {
+						"x": 125,
+						"y": 186,
+						"w": 217,
+						"h": 273
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_000_0008.png",
+					"region": {
+						"x": 770,
+						"y": 0,
+						"w": 103,
+						"h": 47
+					},
+					"margin": {
+						"x": 125,
+						"y": 186,
+						"w": 217,
+						"h": 273
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_000_0009.png",
+					"region": {
+						"x": 880,
+						"y": 0,
+						"w": 102,
+						"h": 47
+					},
+					"margin": {
+						"x": 126,
+						"y": 185,
+						"w": 218,
+						"h": 273
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_000_0010.png",
+					"region": {
+						"x": 990,
+						"y": 0,
+						"w": 103,
+						"h": 47
+					},
+					"margin": {
+						"x": 125,
+						"y": 185,
+						"w": 217,
+						"h": 273
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_000_0011.png",
+					"region": {
+						"x": 1100,
+						"y": 0,
+						"w": 103,
+						"h": 46
+					},
+					"margin": {
+						"x": 125,
+						"y": 186,
+						"w": 217,
+						"h": 274
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_000_0012.png",
+					"region": {
+						"x": 1210,
+						"y": 0,
+						"w": 106,
+						"h": 47
+					},
+					"margin": {
+						"x": 123,
+						"y": 186,
+						"w": 214,
+						"h": 273
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_000_0013.png",
+					"region": {
+						"x": 1320,
+						"y": 0,
+						"w": 108,
+						"h": 48
+					},
+					"margin": {
+						"x": 122,
+						"y": 186,
+						"w": 212,
+						"h": 272
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_000_0014.png",
+					"region": {
+						"x": 1430,
+						"y": 0,
+						"w": 109,
+						"h": 48
+					},
+					"margin": {
+						"x": 121,
+						"y": 187,
+						"w": 211,
+						"h": 272
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_000_0015.png",
+					"region": {
+						"x": 1540,
+						"y": 0,
+						"w": 110,
+						"h": 49
+					},
+					"margin": {
+						"x": 121,
+						"y": 187,
+						"w": 210,
+						"h": 271
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_022_0001.png",
+					"region": {
+						"x": 1650,
+						"y": 0,
+						"w": 97,
+						"h": 56
+					},
+					"margin": {
+						"x": 121,
+						"y": 184,
+						"w": 223,
+						"h": 264
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_022_0016.png",
+					"region": {
+						"x": 1650,
+						"y": 0,
+						"w": 97,
+						"h": 56
+					},
+					"margin": {
+						"x": 121,
+						"y": 184,
+						"w": 223,
+						"h": 264
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_022_0002.png",
+					"region": {
+						"x": 0,
+						"y": 79,
+						"w": 96,
+						"h": 56
+					},
+					"margin": {
+						"x": 121,
+						"y": 184,
+						"w": 224,
+						"h": 264
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_022_0003.png",
+					"region": {
+						"x": 110,
+						"y": 79,
+						"w": 96,
+						"h": 55
+					},
+					"margin": {
+						"x": 122,
+						"y": 184,
+						"w": 224,
+						"h": 265
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_022_0004.png",
+					"region": {
+						"x": 220,
+						"y": 79,
+						"w": 95,
+						"h": 54
+					},
+					"margin": {
+						"x": 123,
+						"y": 184,
+						"w": 225,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_022_0005.png",
+					"region": {
+						"x": 330,
+						"y": 79,
+						"w": 95,
+						"h": 53
+					},
+					"margin": {
+						"x": 124,
+						"y": 184,
+						"w": 225,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_022_0006.png",
+					"region": {
+						"x": 440,
+						"y": 79,
+						"w": 96,
+						"h": 54
+					},
+					"margin": {
+						"x": 124,
+						"y": 183,
+						"w": 224,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_022_0007.png",
+					"region": {
+						"x": 550,
+						"y": 79,
+						"w": 96,
+						"h": 53
+					},
+					"margin": {
+						"x": 125,
+						"y": 183,
+						"w": 224,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_022_0008.png",
+					"region": {
+						"x": 660,
+						"y": 79,
+						"w": 97,
+						"h": 53
+					},
+					"margin": {
+						"x": 125,
+						"y": 183,
+						"w": 223,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_022_0009.png",
+					"region": {
+						"x": 770,
+						"y": 79,
+						"w": 96,
+						"h": 52
+					},
+					"margin": {
+						"x": 126,
+						"y": 183,
+						"w": 224,
+						"h": 268
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_022_0010.png",
+					"region": {
+						"x": 880,
+						"y": 79,
+						"w": 97,
+						"h": 52
+					},
+					"margin": {
+						"x": 126,
+						"y": 183,
+						"w": 223,
+						"h": 268
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_022_0011.png",
+					"region": {
+						"x": 990,
+						"y": 79,
+						"w": 97,
+						"h": 52
+					},
+					"margin": {
+						"x": 125,
+						"y": 183,
+						"w": 223,
+						"h": 268
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_022_0012.png",
+					"region": {
+						"x": 1100,
+						"y": 79,
+						"w": 98,
+						"h": 53
+					},
+					"margin": {
+						"x": 124,
+						"y": 183,
+						"w": 222,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_022_0013.png",
+					"region": {
+						"x": 1210,
+						"y": 79,
+						"w": 98,
+						"h": 53
+					},
+					"margin": {
+						"x": 123,
+						"y": 184,
+						"w": 222,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_022_0014.png",
+					"region": {
+						"x": 1320,
+						"y": 79,
+						"w": 98,
+						"h": 54
+					},
+					"margin": {
+						"x": 122,
+						"y": 184,
+						"w": 222,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_022_0015.png",
+					"region": {
+						"x": 1430,
+						"y": 79,
+						"w": 97,
+						"h": 55
+					},
+					"margin": {
+						"x": 121,
+						"y": 184,
+						"w": 223,
+						"h": 265
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_045_0001.png",
+					"region": {
+						"x": 1540,
+						"y": 79,
+						"w": 73,
+						"h": 66
+					},
+					"margin": {
+						"x": 125,
+						"y": 183,
+						"w": 247,
+						"h": 254
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_045_0016.png",
+					"region": {
+						"x": 1540,
+						"y": 79,
+						"w": 73,
+						"h": 66
+					},
+					"margin": {
+						"x": 125,
+						"y": 183,
+						"w": 247,
+						"h": 254
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_045_0002.png",
+					"region": {
+						"x": 1650,
+						"y": 79,
+						"w": 72,
+						"h": 66
+					},
+					"margin": {
+						"x": 125,
+						"y": 183,
+						"w": 248,
+						"h": 254
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_045_0003.png",
+					"region": {
+						"x": 0,
+						"y": 158,
+						"w": 73,
+						"h": 65
+					},
+					"margin": {
+						"x": 125,
+						"y": 183,
+						"w": 247,
+						"h": 255
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_045_0004.png",
+					"region": {
+						"x": 110,
+						"y": 158,
+						"w": 73,
+						"h": 64
+					},
+					"margin": {
+						"x": 126,
+						"y": 182,
+						"w": 247,
+						"h": 256
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_045_0005.png",
+					"region": {
+						"x": 220,
+						"y": 158,
+						"w": 75,
+						"h": 62
+					},
+					"margin": {
+						"x": 126,
+						"y": 182,
+						"w": 245,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_045_0006.png",
+					"region": {
+						"x": 330,
+						"y": 158,
+						"w": 76,
+						"h": 60
+					},
+					"margin": {
+						"x": 127,
+						"y": 182,
+						"w": 244,
+						"h": 260
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_045_0007.png",
+					"region": {
+						"x": 440,
+						"y": 158,
+						"w": 77,
+						"h": 60
+					},
+					"margin": {
+						"x": 128,
+						"y": 181,
+						"w": 243,
+						"h": 260
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_045_0008.png",
+					"region": {
+						"x": 550,
+						"y": 158,
+						"w": 79,
+						"h": 58
+					},
+					"margin": {
+						"x": 128,
+						"y": 181,
+						"w": 241,
+						"h": 262
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_045_0009.png",
+					"region": {
+						"x": 660,
+						"y": 158,
+						"w": 81,
+						"h": 57
+					},
+					"margin": {
+						"x": 128,
+						"y": 180,
+						"w": 239,
+						"h": 263
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_045_0010.png",
+					"region": {
+						"x": 770,
+						"y": 158,
+						"w": 82,
+						"h": 57
+					},
+					"margin": {
+						"x": 128,
+						"y": 180,
+						"w": 238,
+						"h": 263
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_045_0011.png",
+					"region": {
+						"x": 880,
+						"y": 158,
+						"w": 81,
+						"h": 58
+					},
+					"margin": {
+						"x": 128,
+						"y": 180,
+						"w": 239,
+						"h": 262
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_045_0012.png",
+					"region": {
+						"x": 990,
+						"y": 158,
+						"w": 80,
+						"h": 60
+					},
+					"margin": {
+						"x": 127,
+						"y": 180,
+						"w": 240,
+						"h": 260
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_045_0013.png",
+					"region": {
+						"x": 1100,
+						"y": 158,
+						"w": 78,
+						"h": 62
+					},
+					"margin": {
+						"x": 126,
+						"y": 181,
+						"w": 242,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_045_0014.png",
+					"region": {
+						"x": 1210,
+						"y": 158,
+						"w": 76,
+						"h": 64
+					},
+					"margin": {
+						"x": 125,
+						"y": 182,
+						"w": 244,
+						"h": 256
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_045_0015.png",
+					"region": {
+						"x": 1320,
+						"y": 158,
+						"w": 74,
+						"h": 66
+					},
+					"margin": {
+						"x": 125,
+						"y": 183,
+						"w": 246,
+						"h": 254
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_067_0001.png",
+					"region": {
+						"x": 1430,
+						"y": 158,
+						"w": 52,
+						"h": 77
+					},
+					"margin": {
+						"x": 121,
+						"y": 177,
+						"w": 268,
+						"h": 243
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_067_0016.png",
+					"region": {
+						"x": 1430,
+						"y": 158,
+						"w": 52,
+						"h": 77
+					},
+					"margin": {
+						"x": 121,
+						"y": 177,
+						"w": 268,
+						"h": 243
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_067_0002.png",
+					"region": {
+						"x": 1540,
+						"y": 158,
+						"w": 52,
+						"h": 77
+					},
+					"margin": {
+						"x": 121,
+						"y": 177,
+						"w": 268,
+						"h": 243
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_067_0003.png",
+					"region": {
+						"x": 1650,
+						"y": 158,
+						"w": 51,
+						"h": 76
+					},
+					"margin": {
+						"x": 122,
+						"y": 177,
+						"w": 269,
+						"h": 244
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_067_0004.png",
+					"region": {
+						"x": 0,
+						"y": 237,
+						"w": 52,
+						"h": 75
+					},
+					"margin": {
+						"x": 123,
+						"y": 177,
+						"w": 268,
+						"h": 245
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_067_0005.png",
+					"region": {
+						"x": 110,
+						"y": 237,
+						"w": 54,
+						"h": 74
+					},
+					"margin": {
+						"x": 124,
+						"y": 177,
+						"w": 266,
+						"h": 246
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_067_0006.png",
+					"region": {
+						"x": 220,
+						"y": 237,
+						"w": 55,
+						"h": 73
+					},
+					"margin": {
+						"x": 125,
+						"y": 177,
+						"w": 265,
+						"h": 247
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_067_0007.png",
+					"region": {
+						"x": 330,
+						"y": 237,
+						"w": 57,
+						"h": 71
+					},
+					"margin": {
+						"x": 126,
+						"y": 177,
+						"w": 263,
+						"h": 249
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_067_0008.png",
+					"region": {
+						"x": 440,
+						"y": 237,
+						"w": 59,
+						"h": 70
+					},
+					"margin": {
+						"x": 127,
+						"y": 177,
+						"w": 261,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_067_0009.png",
+					"region": {
+						"x": 550,
+						"y": 237,
+						"w": 60,
+						"h": 70
+					},
+					"margin": {
+						"x": 128,
+						"y": 177,
+						"w": 260,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_067_0010.png",
+					"region": {
+						"x": 660,
+						"y": 237,
+						"w": 61,
+						"h": 69
+					},
+					"margin": {
+						"x": 128,
+						"y": 177,
+						"w": 259,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_067_0011.png",
+					"region": {
+						"x": 770,
+						"y": 237,
+						"w": 60,
+						"h": 71
+					},
+					"margin": {
+						"x": 128,
+						"y": 176,
+						"w": 260,
+						"h": 249
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_067_0012.png",
+					"region": {
+						"x": 880,
+						"y": 237,
+						"w": 59,
+						"h": 73
+					},
+					"margin": {
+						"x": 126,
+						"y": 176,
+						"w": 261,
+						"h": 247
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_067_0013.png",
+					"region": {
+						"x": 990,
+						"y": 237,
+						"w": 55,
+						"h": 75
+					},
+					"margin": {
+						"x": 125,
+						"y": 176,
+						"w": 265,
+						"h": 245
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_067_0014.png",
+					"region": {
+						"x": 1100,
+						"y": 237,
+						"w": 53,
+						"h": 77
+					},
+					"margin": {
+						"x": 123,
+						"y": 176,
+						"w": 267,
+						"h": 243
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_067_0015.png",
+					"region": {
+						"x": 1210,
+						"y": 237,
+						"w": 51,
+						"h": 77
+					},
+					"margin": {
+						"x": 122,
+						"y": 177,
+						"w": 269,
+						"h": 243
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_090_0001.png",
+					"region": {
+						"x": 1320,
+						"y": 237,
+						"w": 68,
+						"h": 78
+					},
+					"margin": {
+						"x": 111,
+						"y": 173,
+						"w": 252,
+						"h": 242
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_090_0016.png",
+					"region": {
+						"x": 1320,
+						"y": 237,
+						"w": 68,
+						"h": 78
+					},
+					"margin": {
+						"x": 111,
+						"y": 173,
+						"w": 252,
+						"h": 242
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_090_0002.png",
+					"region": {
+						"x": 1430,
+						"y": 237,
+						"w": 68,
+						"h": 78
+					},
+					"margin": {
+						"x": 111,
+						"y": 173,
+						"w": 252,
+						"h": 242
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_090_0003.png",
+					"region": {
+						"x": 1540,
+						"y": 237,
+						"w": 68,
+						"h": 77
+					},
+					"margin": {
+						"x": 111,
+						"y": 174,
+						"w": 252,
+						"h": 243
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_090_0004.png",
+					"region": {
+						"x": 1650,
+						"y": 237,
+						"w": 68,
+						"h": 76
+					},
+					"margin": {
+						"x": 112,
+						"y": 174,
+						"w": 252,
+						"h": 244
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_090_0005.png",
+					"region": {
+						"x": 0,
+						"y": 316,
+						"w": 67,
+						"h": 76
+					},
+					"margin": {
+						"x": 113,
+						"y": 174,
+						"w": 253,
+						"h": 244
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_090_0006.png",
+					"region": {
+						"x": 110,
+						"y": 316,
+						"w": 66,
+						"h": 75
+					},
+					"margin": {
+						"x": 114,
+						"y": 175,
+						"w": 254,
+						"h": 245
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_090_0007.png",
+					"region": {
+						"x": 220,
+						"y": 316,
+						"w": 66,
+						"h": 75
+					},
+					"margin": {
+						"x": 115,
+						"y": 175,
+						"w": 254,
+						"h": 245
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_090_0008.png",
+					"region": {
+						"x": 330,
+						"y": 316,
+						"w": 65,
+						"h": 73
+					},
+					"margin": {
+						"x": 116,
+						"y": 176,
+						"w": 255,
+						"h": 247
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_090_0009.png",
+					"region": {
+						"x": 440,
+						"y": 316,
+						"w": 64,
+						"h": 73
+					},
+					"margin": {
+						"x": 117,
+						"y": 176,
+						"w": 256,
+						"h": 247
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_090_0010.png",
+					"region": {
+						"x": 550,
+						"y": 316,
+						"w": 63,
+						"h": 73
+					},
+					"margin": {
+						"x": 118,
+						"y": 176,
+						"w": 257,
+						"h": 247
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_090_0011.png",
+					"region": {
+						"x": 660,
+						"y": 316,
+						"w": 64,
+						"h": 75
+					},
+					"margin": {
+						"x": 117,
+						"y": 175,
+						"w": 256,
+						"h": 245
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_090_0012.png",
+					"region": {
+						"x": 770,
+						"y": 316,
+						"w": 64,
+						"h": 76
+					},
+					"margin": {
+						"x": 116,
+						"y": 174,
+						"w": 256,
+						"h": 244
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_090_0013.png",
+					"region": {
+						"x": 880,
+						"y": 316,
+						"w": 66,
+						"h": 77
+					},
+					"margin": {
+						"x": 114,
+						"y": 174,
+						"w": 254,
+						"h": 243
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_090_0014.png",
+					"region": {
+						"x": 990,
+						"y": 316,
+						"w": 67,
+						"h": 78
+					},
+					"margin": {
+						"x": 112,
+						"y": 173,
+						"w": 253,
+						"h": 242
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_090_0015.png",
+					"region": {
+						"x": 1100,
+						"y": 316,
+						"w": 68,
+						"h": 78
+					},
+					"margin": {
+						"x": 111,
+						"y": 173,
+						"w": 252,
+						"h": 242
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_112_0001.png",
+					"region": {
+						"x": 1210,
+						"y": 316,
+						"w": 77,
+						"h": 69
+					},
+					"margin": {
+						"x": 106,
+						"y": 173,
+						"w": 243,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_112_0016.png",
+					"region": {
+						"x": 1210,
+						"y": 316,
+						"w": 77,
+						"h": 69
+					},
+					"margin": {
+						"x": 106,
+						"y": 173,
+						"w": 243,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_112_0002.png",
+					"region": {
+						"x": 1320,
+						"y": 316,
+						"w": 77,
+						"h": 69
+					},
+					"margin": {
+						"x": 106,
+						"y": 173,
+						"w": 243,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_112_0003.png",
+					"region": {
+						"x": 1430,
+						"y": 316,
+						"w": 76,
+						"h": 68
+					},
+					"margin": {
+						"x": 107,
+						"y": 174,
+						"w": 244,
+						"h": 252
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_112_0004.png",
+					"region": {
+						"x": 1540,
+						"y": 316,
+						"w": 76,
+						"h": 69
+					},
+					"margin": {
+						"x": 108,
+						"y": 174,
+						"w": 244,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_112_0005.png",
+					"region": {
+						"x": 1650,
+						"y": 316,
+						"w": 75,
+						"h": 68
+					},
+					"margin": {
+						"x": 109,
+						"y": 175,
+						"w": 245,
+						"h": 252
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_112_0006.png",
+					"region": {
+						"x": 0,
+						"y": 395,
+						"w": 74,
+						"h": 69
+					},
+					"margin": {
+						"x": 110,
+						"y": 175,
+						"w": 246,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_112_0007.png",
+					"region": {
+						"x": 110,
+						"y": 395,
+						"w": 74,
+						"h": 70
+					},
+					"margin": {
+						"x": 111,
+						"y": 175,
+						"w": 246,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_112_0008.png",
+					"region": {
+						"x": 220,
+						"y": 395,
+						"w": 73,
+						"h": 69
+					},
+					"margin": {
+						"x": 112,
+						"y": 176,
+						"w": 247,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_112_0009.png",
+					"region": {
+						"x": 330,
+						"y": 395,
+						"w": 73,
+						"h": 70
+					},
+					"margin": {
+						"x": 112,
+						"y": 176,
+						"w": 247,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_112_0010.png",
+					"region": {
+						"x": 440,
+						"y": 395,
+						"w": 72,
+						"h": 70
+					},
+					"margin": {
+						"x": 113,
+						"y": 176,
+						"w": 248,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_112_0011.png",
+					"region": {
+						"x": 550,
+						"y": 395,
+						"w": 73,
+						"h": 70
+					},
+					"margin": {
+						"x": 112,
+						"y": 176,
+						"w": 247,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_112_0012.png",
+					"region": {
+						"x": 660,
+						"y": 395,
+						"w": 73,
+						"h": 70
+					},
+					"margin": {
+						"x": 111,
+						"y": 175,
+						"w": 247,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_112_0013.png",
+					"region": {
+						"x": 770,
+						"y": 395,
+						"w": 74,
+						"h": 70
+					},
+					"margin": {
+						"x": 110,
+						"y": 174,
+						"w": 246,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_112_0014.png",
+					"region": {
+						"x": 880,
+						"y": 395,
+						"w": 74,
+						"h": 71
+					},
+					"margin": {
+						"x": 109,
+						"y": 173,
+						"w": 246,
+						"h": 249
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_112_0015.png",
+					"region": {
+						"x": 990,
+						"y": 395,
+						"w": 76,
+						"h": 70
+					},
+					"margin": {
+						"x": 107,
+						"y": 173,
+						"w": 244,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_135_0001.png",
+					"region": {
+						"x": 1100,
+						"y": 395,
+						"w": 93,
+						"h": 53
+					},
+					"margin": {
+						"x": 92,
+						"y": 175,
+						"w": 227,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_135_0016.png",
+					"region": {
+						"x": 1100,
+						"y": 395,
+						"w": 93,
+						"h": 53
+					},
+					"margin": {
+						"x": 92,
+						"y": 175,
+						"w": 227,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_135_0002.png",
+					"region": {
+						"x": 1210,
+						"y": 395,
+						"w": 92,
+						"h": 52
+					},
+					"margin": {
+						"x": 93,
+						"y": 176,
+						"w": 228,
+						"h": 268
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_135_0003.png",
+					"region": {
+						"x": 1320,
+						"y": 395,
+						"w": 90,
+						"h": 53
+					},
+					"margin": {
+						"x": 95,
+						"y": 176,
+						"w": 230,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_135_0004.png",
+					"region": {
+						"x": 1430,
+						"y": 395,
+						"w": 88,
+						"h": 53
+					},
+					"margin": {
+						"x": 97,
+						"y": 176,
+						"w": 232,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_135_0005.png",
+					"region": {
+						"x": 1540,
+						"y": 395,
+						"w": 87,
+						"h": 54
+					},
+					"margin": {
+						"x": 99,
+						"y": 177,
+						"w": 233,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_135_0006.png",
+					"region": {
+						"x": 1650,
+						"y": 395,
+						"w": 84,
+						"h": 55
+					},
+					"margin": {
+						"x": 102,
+						"y": 177,
+						"w": 236,
+						"h": 265
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_135_0007.png",
+					"region": {
+						"x": 0,
+						"y": 474,
+						"w": 82,
+						"h": 56
+					},
+					"margin": {
+						"x": 105,
+						"y": 178,
+						"w": 238,
+						"h": 264
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_135_0008.png",
+					"region": {
+						"x": 110,
+						"y": 474,
+						"w": 81,
+						"h": 57
+					},
+					"margin": {
+						"x": 107,
+						"y": 178,
+						"w": 239,
+						"h": 263
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_135_0009.png",
+					"region": {
+						"x": 220,
+						"y": 474,
+						"w": 80,
+						"h": 58
+					},
+					"margin": {
+						"x": 109,
+						"y": 178,
+						"w": 240,
+						"h": 262
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_135_0010.png",
+					"region": {
+						"x": 330,
+						"y": 474,
+						"w": 79,
+						"h": 58
+					},
+					"margin": {
+						"x": 110,
+						"y": 178,
+						"w": 241,
+						"h": 262
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_135_0011.png",
+					"region": {
+						"x": 440,
+						"y": 474,
+						"w": 81,
+						"h": 58
+					},
+					"margin": {
+						"x": 108,
+						"y": 178,
+						"w": 239,
+						"h": 262
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_135_0012.png",
+					"region": {
+						"x": 550,
+						"y": 474,
+						"w": 83,
+						"h": 57
+					},
+					"margin": {
+						"x": 105,
+						"y": 177,
+						"w": 237,
+						"h": 263
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_135_0013.png",
+					"region": {
+						"x": 660,
+						"y": 474,
+						"w": 87,
+						"h": 55
+					},
+					"margin": {
+						"x": 101,
+						"y": 177,
+						"w": 233,
+						"h": 265
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_135_0014.png",
+					"region": {
+						"x": 770,
+						"y": 474,
+						"w": 90,
+						"h": 54
+					},
+					"margin": {
+						"x": 97,
+						"y": 176,
+						"w": 230,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_135_0015.png",
+					"region": {
+						"x": 880,
+						"y": 474,
+						"w": 92,
+						"h": 54
+					},
+					"margin": {
+						"x": 93,
+						"y": 175,
+						"w": 228,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_157_0001.png",
+					"region": {
+						"x": 990,
+						"y": 474,
+						"w": 108,
+						"h": 38
+					},
+					"margin": {
+						"x": 85,
+						"y": 173,
+						"w": 212,
+						"h": 282
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_157_0016.png",
+					"region": {
+						"x": 990,
+						"y": 474,
+						"w": 108,
+						"h": 38
+					},
+					"margin": {
+						"x": 85,
+						"y": 173,
+						"w": 212,
+						"h": 282
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_157_0002.png",
+					"region": {
+						"x": 1100,
+						"y": 474,
+						"w": 107,
+						"h": 38
+					},
+					"margin": {
+						"x": 86,
+						"y": 173,
+						"w": 213,
+						"h": 282
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_157_0003.png",
+					"region": {
+						"x": 1210,
+						"y": 474,
+						"w": 106,
+						"h": 38
+					},
+					"margin": {
+						"x": 87,
+						"y": 173,
+						"w": 214,
+						"h": 282
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_157_0004.png",
+					"region": {
+						"x": 1320,
+						"y": 474,
+						"w": 104,
+						"h": 38
+					},
+					"margin": {
+						"x": 89,
+						"y": 174,
+						"w": 216,
+						"h": 282
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_157_0005.png",
+					"region": {
+						"x": 1430,
+						"y": 474,
+						"w": 103,
+						"h": 39
+					},
+					"margin": {
+						"x": 90,
+						"y": 175,
+						"w": 217,
+						"h": 281
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_157_0006.png",
+					"region": {
+						"x": 1540,
+						"y": 474,
+						"w": 101,
+						"h": 41
+					},
+					"margin": {
+						"x": 92,
+						"y": 175,
+						"w": 219,
+						"h": 279
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_157_0007.png",
+					"region": {
+						"x": 1650,
+						"y": 474,
+						"w": 99,
+						"h": 42
+					},
+					"margin": {
+						"x": 94,
+						"y": 176,
+						"w": 221,
+						"h": 278
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_157_0008.png",
+					"region": {
+						"x": 0,
+						"y": 553,
+						"w": 98,
+						"h": 43
+					},
+					"margin": {
+						"x": 95,
+						"y": 177,
+						"w": 222,
+						"h": 277
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_157_0009.png",
+					"region": {
+						"x": 110,
+						"y": 553,
+						"w": 97,
+						"h": 44
+					},
+					"margin": {
+						"x": 96,
+						"y": 178,
+						"w": 223,
+						"h": 276
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_157_0010.png",
+					"region": {
+						"x": 220,
+						"y": 553,
+						"w": 97,
+						"h": 44
+					},
+					"margin": {
+						"x": 97,
+						"y": 178,
+						"w": 223,
+						"h": 276
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_157_0011.png",
+					"region": {
+						"x": 330,
+						"y": 553,
+						"w": 99,
+						"h": 43
+					},
+					"margin": {
+						"x": 95,
+						"y": 178,
+						"w": 221,
+						"h": 277
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_157_0012.png",
+					"region": {
+						"x": 440,
+						"y": 553,
+						"w": 102,
+						"h": 42
+					},
+					"margin": {
+						"x": 93,
+						"y": 177,
+						"w": 218,
+						"h": 278
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_157_0013.png",
+					"region": {
+						"x": 550,
+						"y": 553,
+						"w": 105,
+						"h": 41
+					},
+					"margin": {
+						"x": 90,
+						"y": 175,
+						"w": 215,
+						"h": 279
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_157_0014.png",
+					"region": {
+						"x": 660,
+						"y": 553,
+						"w": 106,
+						"h": 39
+					},
+					"margin": {
+						"x": 88,
+						"y": 174,
+						"w": 214,
+						"h": 281
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_157_0015.png",
+					"region": {
+						"x": 770,
+						"y": 553,
+						"w": 107,
+						"h": 38
+					},
+					"margin": {
+						"x": 86,
+						"y": 173,
+						"w": 213,
+						"h": 282
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_180_0001.png",
+					"region": {
+						"x": 880,
+						"y": 553,
+						"w": 110,
+						"h": 49
+					},
+					"margin": {
+						"x": 89,
+						"y": 166,
+						"w": 210,
+						"h": 271
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_180_0016.png",
+					"region": {
+						"x": 880,
+						"y": 553,
+						"w": 110,
+						"h": 49
+					},
+					"margin": {
+						"x": 89,
+						"y": 166,
+						"w": 210,
+						"h": 271
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_180_0002.png",
+					"region": {
+						"x": 990,
+						"y": 553,
+						"w": 108,
+						"h": 49
+					},
+					"margin": {
+						"x": 90,
+						"y": 166,
+						"w": 212,
+						"h": 271
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_180_0003.png",
+					"region": {
+						"x": 1100,
+						"y": 553,
+						"w": 108,
+						"h": 49
+					},
+					"margin": {
+						"x": 90,
+						"y": 166,
+						"w": 212,
+						"h": 271
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_180_0004.png",
+					"region": {
+						"x": 1210,
+						"y": 553,
+						"w": 106,
+						"h": 50
+					},
+					"margin": {
+						"x": 91,
+						"y": 166,
+						"w": 214,
+						"h": 270
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_180_0005.png",
+					"region": {
+						"x": 1320,
+						"y": 553,
+						"w": 106,
+						"h": 49
+					},
+					"margin": {
+						"x": 91,
+						"y": 167,
+						"w": 214,
+						"h": 271
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_180_0006.png",
+					"region": {
+						"x": 1430,
+						"y": 553,
+						"w": 104,
+						"h": 48
+					},
+					"margin": {
+						"x": 92,
+						"y": 168,
+						"w": 216,
+						"h": 272
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_180_0007.png",
+					"region": {
+						"x": 1540,
+						"y": 553,
+						"w": 103,
+						"h": 47
+					},
+					"margin": {
+						"x": 92,
+						"y": 169,
+						"w": 217,
+						"h": 273
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_180_0008.png",
+					"region": {
+						"x": 1650,
+						"y": 553,
+						"w": 103,
+						"h": 47
+					},
+					"margin": {
+						"x": 92,
+						"y": 169,
+						"w": 217,
+						"h": 273
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_180_0009.png",
+					"region": {
+						"x": 0,
+						"y": 632,
+						"w": 102,
+						"h": 46
+					},
+					"margin": {
+						"x": 92,
+						"y": 170,
+						"w": 218,
+						"h": 274
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_180_0010.png",
+					"region": {
+						"x": 110,
+						"y": 632,
+						"w": 103,
+						"h": 46
+					},
+					"margin": {
+						"x": 92,
+						"y": 170,
+						"w": 217,
+						"h": 274
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_180_0011.png",
+					"region": {
+						"x": 220,
+						"y": 632,
+						"w": 103,
+						"h": 46
+					},
+					"margin": {
+						"x": 92,
+						"y": 170,
+						"w": 217,
+						"h": 274
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_180_0012.png",
+					"region": {
+						"x": 330,
+						"y": 632,
+						"w": 106,
+						"h": 47
+					},
+					"margin": {
+						"x": 91,
+						"y": 169,
+						"w": 214,
+						"h": 273
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_180_0013.png",
+					"region": {
+						"x": 440,
+						"y": 632,
+						"w": 108,
+						"h": 48
+					},
+					"margin": {
+						"x": 90,
+						"y": 168,
+						"w": 212,
+						"h": 272
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_180_0014.png",
+					"region": {
+						"x": 550,
+						"y": 632,
+						"w": 109,
+						"h": 48
+					},
+					"margin": {
+						"x": 90,
+						"y": 167,
+						"w": 211,
+						"h": 272
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_180_0015.png",
+					"region": {
+						"x": 660,
+						"y": 632,
+						"w": 110,
+						"h": 49
+					},
+					"margin": {
+						"x": 89,
+						"y": 166,
+						"w": 210,
+						"h": 271
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_202_0001.png",
+					"region": {
+						"x": 770,
+						"y": 632,
+						"w": 97,
+						"h": 55
+					},
+					"margin": {
+						"x": 102,
+						"y": 162,
+						"w": 223,
+						"h": 265
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_202_0016.png",
+					"region": {
+						"x": 770,
+						"y": 632,
+						"w": 97,
+						"h": 55
+					},
+					"margin": {
+						"x": 102,
+						"y": 162,
+						"w": 223,
+						"h": 265
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_202_0002.png",
+					"region": {
+						"x": 880,
+						"y": 632,
+						"w": 97,
+						"h": 56
+					},
+					"margin": {
+						"x": 102,
+						"y": 162,
+						"w": 223,
+						"h": 264
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_202_0003.png",
+					"region": {
+						"x": 990,
+						"y": 632,
+						"w": 96,
+						"h": 55
+					},
+					"margin": {
+						"x": 102,
+						"y": 163,
+						"w": 224,
+						"h": 265
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_202_0004.png",
+					"region": {
+						"x": 1100,
+						"y": 632,
+						"w": 95,
+						"h": 54
+					},
+					"margin": {
+						"x": 102,
+						"y": 164,
+						"w": 225,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_202_0005.png",
+					"region": {
+						"x": 1210,
+						"y": 632,
+						"w": 95,
+						"h": 53
+					},
+					"margin": {
+						"x": 101,
+						"y": 165,
+						"w": 225,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_202_0006.png",
+					"region": {
+						"x": 1320,
+						"y": 632,
+						"w": 96,
+						"h": 54
+					},
+					"margin": {
+						"x": 100,
+						"y": 165,
+						"w": 224,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_202_0007.png",
+					"region": {
+						"x": 1430,
+						"y": 632,
+						"w": 96,
+						"h": 53
+					},
+					"margin": {
+						"x": 99,
+						"y": 166,
+						"w": 224,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_202_0008.png",
+					"region": {
+						"x": 1540,
+						"y": 632,
+						"w": 97,
+						"h": 53
+					},
+					"margin": {
+						"x": 98,
+						"y": 166,
+						"w": 223,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_202_0009.png",
+					"region": {
+						"x": 1650,
+						"y": 632,
+						"w": 96,
+						"h": 52
+					},
+					"margin": {
+						"x": 98,
+						"y": 167,
+						"w": 224,
+						"h": 268
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_202_0010.png",
+					"region": {
+						"x": 0,
+						"y": 711,
+						"w": 97,
+						"h": 52
+					},
+					"margin": {
+						"x": 97,
+						"y": 167,
+						"w": 223,
+						"h": 268
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_202_0011.png",
+					"region": {
+						"x": 110,
+						"y": 711,
+						"w": 97,
+						"h": 52
+					},
+					"margin": {
+						"x": 98,
+						"y": 167,
+						"w": 223,
+						"h": 268
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_202_0012.png",
+					"region": {
+						"x": 220,
+						"y": 711,
+						"w": 98,
+						"h": 53
+					},
+					"margin": {
+						"x": 98,
+						"y": 166,
+						"w": 222,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_202_0013.png",
+					"region": {
+						"x": 330,
+						"y": 711,
+						"w": 98,
+						"h": 53
+					},
+					"margin": {
+						"x": 99,
+						"y": 165,
+						"w": 222,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_202_0014.png",
+					"region": {
+						"x": 440,
+						"y": 711,
+						"w": 98,
+						"h": 54
+					},
+					"margin": {
+						"x": 100,
+						"y": 164,
+						"w": 222,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_202_0015.png",
+					"region": {
+						"x": 550,
+						"y": 711,
+						"w": 97,
+						"h": 55
+					},
+					"margin": {
+						"x": 102,
+						"y": 163,
+						"w": 223,
+						"h": 265
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_225_0001.png",
+					"region": {
+						"x": 660,
+						"y": 711,
+						"w": 72,
+						"h": 66
+					},
+					"margin": {
+						"x": 123,
+						"y": 153,
+						"w": 248,
+						"h": 254
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_225_0016.png",
+					"region": {
+						"x": 660,
+						"y": 711,
+						"w": 72,
+						"h": 66
+					},
+					"margin": {
+						"x": 123,
+						"y": 153,
+						"w": 248,
+						"h": 254
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_225_0002.png",
+					"region": {
+						"x": 770,
+						"y": 711,
+						"w": 72,
+						"h": 66
+					},
+					"margin": {
+						"x": 123,
+						"y": 153,
+						"w": 248,
+						"h": 254
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_225_0003.png",
+					"region": {
+						"x": 880,
+						"y": 711,
+						"w": 73,
+						"h": 65
+					},
+					"margin": {
+						"x": 122,
+						"y": 154,
+						"w": 247,
+						"h": 255
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_225_0004.png",
+					"region": {
+						"x": 990,
+						"y": 711,
+						"w": 73,
+						"h": 64
+					},
+					"margin": {
+						"x": 121,
+						"y": 156,
+						"w": 247,
+						"h": 256
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_225_0005.png",
+					"region": {
+						"x": 1100,
+						"y": 711,
+						"w": 75,
+						"h": 62
+					},
+					"margin": {
+						"x": 119,
+						"y": 158,
+						"w": 245,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_225_0006.png",
+					"region": {
+						"x": 1210,
+						"y": 711,
+						"w": 76,
+						"h": 61
+					},
+					"margin": {
+						"x": 117,
+						"y": 159,
+						"w": 244,
+						"h": 259
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_225_0007.png",
+					"region": {
+						"x": 1320,
+						"y": 711,
+						"w": 77,
+						"h": 60
+					},
+					"margin": {
+						"x": 115,
+						"y": 161,
+						"w": 243,
+						"h": 260
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_225_0008.png",
+					"region": {
+						"x": 1430,
+						"y": 711,
+						"w": 79,
+						"h": 58
+					},
+					"margin": {
+						"x": 113,
+						"y": 163,
+						"w": 241,
+						"h": 262
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_225_0009.png",
+					"region": {
+						"x": 1540,
+						"y": 711,
+						"w": 81,
+						"h": 57
+					},
+					"margin": {
+						"x": 111,
+						"y": 165,
+						"w": 239,
+						"h": 263
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_225_0010.png",
+					"region": {
+						"x": 1650,
+						"y": 711,
+						"w": 82,
+						"h": 57
+					},
+					"margin": {
+						"x": 110,
+						"y": 165,
+						"w": 238,
+						"h": 263
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_225_0011.png",
+					"region": {
+						"x": 0,
+						"y": 790,
+						"w": 81,
+						"h": 58
+					},
+					"margin": {
+						"x": 111,
+						"y": 164,
+						"w": 239,
+						"h": 262
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_225_0012.png",
+					"region": {
+						"x": 110,
+						"y": 790,
+						"w": 80,
+						"h": 59
+					},
+					"margin": {
+						"x": 113,
+						"y": 162,
+						"w": 240,
+						"h": 261
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_225_0013.png",
+					"region": {
+						"x": 220,
+						"y": 790,
+						"w": 78,
+						"h": 62
+					},
+					"margin": {
+						"x": 116,
+						"y": 159,
+						"w": 242,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_225_0014.png",
+					"region": {
+						"x": 330,
+						"y": 790,
+						"w": 76,
+						"h": 64
+					},
+					"margin": {
+						"x": 119,
+						"y": 156,
+						"w": 244,
+						"h": 256
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_225_0015.png",
+					"region": {
+						"x": 440,
+						"y": 790,
+						"w": 74,
+						"h": 66
+					},
+					"margin": {
+						"x": 121,
+						"y": 153,
+						"w": 246,
+						"h": 254
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_247_0001.png",
+					"region": {
+						"x": 550,
+						"y": 790,
+						"w": 52,
+						"h": 77
+					},
+					"margin": {
+						"x": 147,
+						"y": 148,
+						"w": 268,
+						"h": 243
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_247_0016.png",
+					"region": {
+						"x": 550,
+						"y": 790,
+						"w": 52,
+						"h": 77
+					},
+					"margin": {
+						"x": 147,
+						"y": 148,
+						"w": 268,
+						"h": 243
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_247_0002.png",
+					"region": {
+						"x": 660,
+						"y": 790,
+						"w": 52,
+						"h": 77
+					},
+					"margin": {
+						"x": 147,
+						"y": 148,
+						"w": 268,
+						"h": 243
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_247_0003.png",
+					"region": {
+						"x": 770,
+						"y": 790,
+						"w": 51,
+						"h": 76
+					},
+					"margin": {
+						"x": 147,
+						"y": 149,
+						"w": 269,
+						"h": 244
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_247_0004.png",
+					"region": {
+						"x": 880,
+						"y": 790,
+						"w": 52,
+						"h": 75
+					},
+					"margin": {
+						"x": 145,
+						"y": 150,
+						"w": 268,
+						"h": 245
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_247_0005.png",
+					"region": {
+						"x": 990,
+						"y": 790,
+						"w": 54,
+						"h": 74
+					},
+					"margin": {
+						"x": 142,
+						"y": 151,
+						"w": 266,
+						"h": 246
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_247_0006.png",
+					"region": {
+						"x": 1100,
+						"y": 790,
+						"w": 55,
+						"h": 72
+					},
+					"margin": {
+						"x": 140,
+						"y": 153,
+						"w": 265,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_247_0007.png",
+					"region": {
+						"x": 1210,
+						"y": 790,
+						"w": 57,
+						"h": 72
+					},
+					"margin": {
+						"x": 137,
+						"y": 153,
+						"w": 263,
+						"h": 248
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_247_0008.png",
+					"region": {
+						"x": 1320,
+						"y": 790,
+						"w": 59,
+						"h": 71
+					},
+					"margin": {
+						"x": 134,
+						"y": 154,
+						"w": 261,
+						"h": 249
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_247_0009.png",
+					"region": {
+						"x": 1430,
+						"y": 790,
+						"w": 60,
+						"h": 70
+					},
+					"margin": {
+						"x": 132,
+						"y": 155,
+						"w": 260,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_247_0010.png",
+					"region": {
+						"x": 1540,
+						"y": 790,
+						"w": 60,
+						"h": 69
+					},
+					"margin": {
+						"x": 131,
+						"y": 156,
+						"w": 260,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_247_0011.png",
+					"region": {
+						"x": 1650,
+						"y": 790,
+						"w": 60,
+						"h": 71
+					},
+					"margin": {
+						"x": 132,
+						"y": 155,
+						"w": 260,
+						"h": 249
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_247_0012.png",
+					"region": {
+						"x": 0,
+						"y": 869,
+						"w": 58,
+						"h": 73
+					},
+					"margin": {
+						"x": 136,
+						"y": 153,
+						"w": 262,
+						"h": 247
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_247_0013.png",
+					"region": {
+						"x": 110,
+						"y": 869,
+						"w": 55,
+						"h": 75
+					},
+					"margin": {
+						"x": 140,
+						"y": 151,
+						"w": 265,
+						"h": 245
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_247_0014.png",
+					"region": {
+						"x": 220,
+						"y": 869,
+						"w": 54,
+						"h": 77
+					},
+					"margin": {
+						"x": 143,
+						"y": 149,
+						"w": 266,
+						"h": 243
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_247_0015.png",
+					"region": {
+						"x": 330,
+						"y": 869,
+						"w": 51,
+						"h": 77
+					},
+					"margin": {
+						"x": 147,
+						"y": 148,
+						"w": 269,
+						"h": 243
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_270_0001.png",
+					"region": {
+						"x": 440,
+						"y": 869,
+						"w": 68,
+						"h": 79
+					},
+					"margin": {
+						"x": 141,
+						"y": 150,
+						"w": 252,
+						"h": 241
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_270_0016.png",
+					"region": {
+						"x": 440,
+						"y": 869,
+						"w": 68,
+						"h": 79
+					},
+					"margin": {
+						"x": 141,
+						"y": 150,
+						"w": 252,
+						"h": 241
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_270_0002.png",
+					"region": {
+						"x": 550,
+						"y": 869,
+						"w": 68,
+						"h": 78
+					},
+					"margin": {
+						"x": 141,
+						"y": 151,
+						"w": 252,
+						"h": 242
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_270_0003.png",
+					"region": {
+						"x": 660,
+						"y": 869,
+						"w": 68,
+						"h": 77
+					},
+					"margin": {
+						"x": 141,
+						"y": 151,
+						"w": 252,
+						"h": 243
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_270_0004.png",
+					"region": {
+						"x": 770,
+						"y": 869,
+						"w": 68,
+						"h": 76
+					},
+					"margin": {
+						"x": 140,
+						"y": 152,
+						"w": 252,
+						"h": 244
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_270_0005.png",
+					"region": {
+						"x": 880,
+						"y": 869,
+						"w": 67,
+						"h": 76
+					},
+					"margin": {
+						"x": 140,
+						"y": 152,
+						"w": 253,
+						"h": 244
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_270_0006.png",
+					"region": {
+						"x": 990,
+						"y": 869,
+						"w": 66,
+						"h": 75
+					},
+					"margin": {
+						"x": 140,
+						"y": 152,
+						"w": 254,
+						"h": 245
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_270_0007.png",
+					"region": {
+						"x": 1100,
+						"y": 869,
+						"w": 66,
+						"h": 74
+					},
+					"margin": {
+						"x": 139,
+						"y": 152,
+						"w": 254,
+						"h": 246
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_270_0008.png",
+					"region": {
+						"x": 1210,
+						"y": 869,
+						"w": 65,
+						"h": 73
+					},
+					"margin": {
+						"x": 139,
+						"y": 153,
+						"w": 255,
+						"h": 247
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_270_0009.png",
+					"region": {
+						"x": 1320,
+						"y": 869,
+						"w": 64,
+						"h": 73
+					},
+					"margin": {
+						"x": 139,
+						"y": 153,
+						"w": 256,
+						"h": 247
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_270_0010.png",
+					"region": {
+						"x": 1430,
+						"y": 869,
+						"w": 63,
+						"h": 73
+					},
+					"margin": {
+						"x": 139,
+						"y": 153,
+						"w": 257,
+						"h": 247
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_270_0011.png",
+					"region": {
+						"x": 1540,
+						"y": 869,
+						"w": 64,
+						"h": 74
+					},
+					"margin": {
+						"x": 139,
+						"y": 152,
+						"w": 256,
+						"h": 246
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_270_0012.png",
+					"region": {
+						"x": 1650,
+						"y": 869,
+						"w": 64,
+						"h": 75
+					},
+					"margin": {
+						"x": 140,
+						"y": 152,
+						"w": 256,
+						"h": 245
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_270_0013.png",
+					"region": {
+						"x": 0,
+						"y": 948,
+						"w": 66,
+						"h": 77
+					},
+					"margin": {
+						"x": 140,
+						"y": 151,
+						"w": 254,
+						"h": 243
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_270_0014.png",
+					"region": {
+						"x": 110,
+						"y": 948,
+						"w": 67,
+						"h": 78
+					},
+					"margin": {
+						"x": 141,
+						"y": 151,
+						"w": 253,
+						"h": 242
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_270_0015.png",
+					"region": {
+						"x": 220,
+						"y": 948,
+						"w": 68,
+						"h": 79
+					},
+					"margin": {
+						"x": 141,
+						"y": 150,
+						"w": 252,
+						"h": 241
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_292_0001.png",
+					"region": {
+						"x": 330,
+						"y": 948,
+						"w": 77,
+						"h": 69
+					},
+					"margin": {
+						"x": 137,
+						"y": 160,
+						"w": 243,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_292_0016.png",
+					"region": {
+						"x": 330,
+						"y": 948,
+						"w": 77,
+						"h": 69
+					},
+					"margin": {
+						"x": 137,
+						"y": 160,
+						"w": 243,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_292_0002.png",
+					"region": {
+						"x": 440,
+						"y": 948,
+						"w": 77,
+						"h": 69
+					},
+					"margin": {
+						"x": 137,
+						"y": 160,
+						"w": 243,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_292_0003.png",
+					"region": {
+						"x": 550,
+						"y": 948,
+						"w": 76,
+						"h": 68
+					},
+					"margin": {
+						"x": 137,
+						"y": 160,
+						"w": 244,
+						"h": 252
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_292_0004.png",
+					"region": {
+						"x": 660,
+						"y": 948,
+						"w": 76,
+						"h": 69
+					},
+					"margin": {
+						"x": 136,
+						"y": 159,
+						"w": 244,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_292_0005.png",
+					"region": {
+						"x": 770,
+						"y": 948,
+						"w": 75,
+						"h": 68
+					},
+					"margin": {
+						"x": 136,
+						"y": 159,
+						"w": 245,
+						"h": 252
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_292_0006.png",
+					"region": {
+						"x": 880,
+						"y": 948,
+						"w": 74,
+						"h": 69
+					},
+					"margin": {
+						"x": 136,
+						"y": 158,
+						"w": 246,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_292_0007.png",
+					"region": {
+						"x": 990,
+						"y": 948,
+						"w": 74,
+						"h": 69
+					},
+					"margin": {
+						"x": 135,
+						"y": 157,
+						"w": 246,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_292_0008.png",
+					"region": {
+						"x": 1100,
+						"y": 948,
+						"w": 73,
+						"h": 69
+					},
+					"margin": {
+						"x": 135,
+						"y": 157,
+						"w": 247,
+						"h": 251
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_292_0009.png",
+					"region": {
+						"x": 1210,
+						"y": 948,
+						"w": 72,
+						"h": 70
+					},
+					"margin": {
+						"x": 135,
+						"y": 156,
+						"w": 248,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_292_0010.png",
+					"region": {
+						"x": 1320,
+						"y": 948,
+						"w": 72,
+						"h": 70
+					},
+					"margin": {
+						"x": 135,
+						"y": 156,
+						"w": 248,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_292_0011.png",
+					"region": {
+						"x": 1430,
+						"y": 948,
+						"w": 73,
+						"h": 70
+					},
+					"margin": {
+						"x": 135,
+						"y": 156,
+						"w": 247,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_292_0012.png",
+					"region": {
+						"x": 1540,
+						"y": 948,
+						"w": 73,
+						"h": 70
+					},
+					"margin": {
+						"x": 136,
+						"y": 157,
+						"w": 247,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_292_0013.png",
+					"region": {
+						"x": 1650,
+						"y": 948,
+						"w": 74,
+						"h": 71
+					},
+					"margin": {
+						"x": 136,
+						"y": 157,
+						"w": 246,
+						"h": 249
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_292_0014.png",
+					"region": {
+						"x": 0,
+						"y": 1027,
+						"w": 74,
+						"h": 71
+					},
+					"margin": {
+						"x": 137,
+						"y": 158,
+						"w": 246,
+						"h": 249
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_292_0015.png",
+					"region": {
+						"x": 110,
+						"y": 1027,
+						"w": 76,
+						"h": 70
+					},
+					"margin": {
+						"x": 137,
+						"y": 159,
+						"w": 244,
+						"h": 250
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_315_0001.png",
+					"region": {
+						"x": 220,
+						"y": 1027,
+						"w": 93,
+						"h": 53
+					},
+					"margin": {
+						"x": 135,
+						"y": 174,
+						"w": 227,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_315_0016.png",
+					"region": {
+						"x": 220,
+						"y": 1027,
+						"w": 93,
+						"h": 53
+					},
+					"margin": {
+						"x": 135,
+						"y": 174,
+						"w": 227,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_315_0002.png",
+					"region": {
+						"x": 330,
+						"y": 1027,
+						"w": 92,
+						"h": 52
+					},
+					"margin": {
+						"x": 135,
+						"y": 174,
+						"w": 228,
+						"h": 268
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_315_0003.png",
+					"region": {
+						"x": 440,
+						"y": 1027,
+						"w": 90,
+						"h": 53
+					},
+					"margin": {
+						"x": 135,
+						"y": 173,
+						"w": 230,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_315_0004.png",
+					"region": {
+						"x": 550,
+						"y": 1027,
+						"w": 88,
+						"h": 54
+					},
+					"margin": {
+						"x": 135,
+						"y": 172,
+						"w": 232,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_315_0005.png",
+					"region": {
+						"x": 660,
+						"y": 1027,
+						"w": 87,
+						"h": 54
+					},
+					"margin": {
+						"x": 134,
+						"y": 171,
+						"w": 233,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_315_0006.png",
+					"region": {
+						"x": 770,
+						"y": 1027,
+						"w": 84,
+						"h": 55
+					},
+					"margin": {
+						"x": 134,
+						"y": 170,
+						"w": 236,
+						"h": 265
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_315_0007.png",
+					"region": {
+						"x": 880,
+						"y": 1027,
+						"w": 82,
+						"h": 56
+					},
+					"margin": {
+						"x": 133,
+						"y": 168,
+						"w": 238,
+						"h": 264
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_315_0008.png",
+					"region": {
+						"x": 990,
+						"y": 1027,
+						"w": 81,
+						"h": 57
+					},
+					"margin": {
+						"x": 132,
+						"y": 167,
+						"w": 239,
+						"h": 263
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_315_0009.png",
+					"region": {
+						"x": 1100,
+						"y": 1027,
+						"w": 80,
+						"h": 58
+					},
+					"margin": {
+						"x": 131,
+						"y": 166,
+						"w": 240,
+						"h": 262
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_315_0010.png",
+					"region": {
+						"x": 1210,
+						"y": 1027,
+						"w": 79,
+						"h": 59
+					},
+					"margin": {
+						"x": 131,
+						"y": 165,
+						"w": 241,
+						"h": 261
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_315_0011.png",
+					"region": {
+						"x": 1320,
+						"y": 1027,
+						"w": 81,
+						"h": 58
+					},
+					"margin": {
+						"x": 131,
+						"y": 166,
+						"w": 239,
+						"h": 262
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_315_0012.png",
+					"region": {
+						"x": 1430,
+						"y": 1027,
+						"w": 83,
+						"h": 57
+					},
+					"margin": {
+						"x": 132,
+						"y": 168,
+						"w": 237,
+						"h": 263
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_315_0013.png",
+					"region": {
+						"x": 1540,
+						"y": 1027,
+						"w": 87,
+						"h": 55
+					},
+					"margin": {
+						"x": 132,
+						"y": 170,
+						"w": 233,
+						"h": 265
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_315_0014.png",
+					"region": {
+						"x": 1650,
+						"y": 1027,
+						"w": 90,
+						"h": 54
+					},
+					"margin": {
+						"x": 133,
+						"y": 172,
+						"w": 230,
+						"h": 266
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_315_0015.png",
+					"region": {
+						"x": 0,
+						"y": 1106,
+						"w": 92,
+						"h": 53
+					},
+					"margin": {
+						"x": 135,
+						"y": 173,
+						"w": 228,
+						"h": 267
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_337_0001.png",
+					"region": {
+						"x": 110,
+						"y": 1106,
+						"w": 108,
+						"h": 38
+					},
+					"margin": {
+						"x": 127,
+						"y": 191,
+						"w": 212,
+						"h": 282
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_337_0016.png",
+					"region": {
+						"x": 110,
+						"y": 1106,
+						"w": 108,
+						"h": 38
+					},
+					"margin": {
+						"x": 127,
+						"y": 191,
+						"w": 212,
+						"h": 282
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_337_0002.png",
+					"region": {
+						"x": 220,
+						"y": 1106,
+						"w": 107,
+						"h": 38
+					},
+					"margin": {
+						"x": 127,
+						"y": 191,
+						"w": 213,
+						"h": 282
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_337_0003.png",
+					"region": {
+						"x": 330,
+						"y": 1106,
+						"w": 106,
+						"h": 38
+					},
+					"margin": {
+						"x": 127,
+						"y": 191,
+						"w": 214,
+						"h": 282
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_337_0004.png",
+					"region": {
+						"x": 440,
+						"y": 1106,
+						"w": 104,
+						"h": 38
+					},
+					"margin": {
+						"x": 127,
+						"y": 190,
+						"w": 216,
+						"h": 282
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_337_0005.png",
+					"region": {
+						"x": 550,
+						"y": 1106,
+						"w": 103,
+						"h": 39
+					},
+					"margin": {
+						"x": 127,
+						"y": 188,
+						"w": 217,
+						"h": 281
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_337_0006.png",
+					"region": {
+						"x": 660,
+						"y": 1106,
+						"w": 101,
+						"h": 41
+					},
+					"margin": {
+						"x": 127,
+						"y": 186,
+						"w": 219,
+						"h": 279
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_337_0007.png",
+					"region": {
+						"x": 770,
+						"y": 1106,
+						"w": 99,
+						"h": 42
+					},
+					"margin": {
+						"x": 127,
+						"y": 184,
+						"w": 221,
+						"h": 278
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_337_0008.png",
+					"region": {
+						"x": 880,
+						"y": 1106,
+						"w": 98,
+						"h": 43
+					},
+					"margin": {
+						"x": 127,
+						"y": 182,
+						"w": 222,
+						"h": 277
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_337_0009.png",
+					"region": {
+						"x": 990,
+						"y": 1106,
+						"w": 97,
+						"h": 44
+					},
+					"margin": {
+						"x": 127,
+						"y": 180,
+						"w": 223,
+						"h": 276
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_337_0010.png",
+					"region": {
+						"x": 1100,
+						"y": 1106,
+						"w": 97,
+						"h": 44
+					},
+					"margin": {
+						"x": 126,
+						"y": 180,
+						"w": 223,
+						"h": 276
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_337_0011.png",
+					"region": {
+						"x": 1210,
+						"y": 1106,
+						"w": 99,
+						"h": 43
+					},
+					"margin": {
+						"x": 126,
+						"y": 181,
+						"w": 221,
+						"h": 277
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_337_0012.png",
+					"region": {
+						"x": 1320,
+						"y": 1106,
+						"w": 102,
+						"h": 42
+					},
+					"margin": {
+						"x": 125,
+						"y": 183,
+						"w": 218,
+						"h": 278
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_337_0013.png",
+					"region": {
+						"x": 1430,
+						"y": 1106,
+						"w": 105,
+						"h": 41
+					},
+					"margin": {
+						"x": 125,
+						"y": 186,
+						"w": 215,
+						"h": 279
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_337_0014.png",
+					"region": {
+						"x": 1540,
+						"y": 1106,
+						"w": 106,
+						"h": 39
+					},
+					"margin": {
+						"x": 126,
+						"y": 189,
+						"w": 214,
+						"h": 281
+					}
+				},
+				{
+					"filename": "Idle_Armed_Shadow_337_0015.png",
+					"region": {
+						"x": 1650,
+						"y": 1106,
+						"w": 107,
+						"h": 38
+					},
+					"margin": {
+						"x": 127,
+						"y": 191,
+						"w": 213,
+						"h": 282
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0e2b4ca561d87ea3e7c185541dbada07:ad6906d771c4aca394271acc314f6113:4b079aec6b79adf12944fb24e50d78fb$"
+	}
+}
